@@ -29,7 +29,7 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── Stats Can PID Endpoints (2026 Standard) ─────────────────────────────────
 # Note: URLs now point directly to the English ZIP bundles
-WDS_BULK_URL   = "https://www150.statcan.gc.ca/n1/en/tbl/csv"
+WDS_BULK_URL = "https://www150.statcan.gc.ca/n1/tbl/csv"
 TABLE_POP_HR    = "17100142"   # Pop by health region (annual estimates)
 TABLE_PROJ      = "17100057"   # Projected population by scenario
 
@@ -70,9 +70,10 @@ PROJECTION_SCENARIOS = {
 # ── Helpers ─────────────────────────────────────────────────────────────────
 
 def _download_csv(table_id: str) -> pd.DataFrame:
-    """Download and extract a Stats Can table ZIP via the 2026 PID endpoint."""
+    # This creates: https://www150.statcan.gc.ca/n1/tbl/csv/17100142-eng.zip
     url = f"{WDS_BULK_URL}/{table_id}-eng.zip"
-    log.info(f"Attempting download for PID {table_id}...")
+    
+    log.info(f"Downloading from: {url}")
     
     try:
         r = requests.get(url, timeout=120)
