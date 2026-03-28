@@ -28,6 +28,7 @@ RAW_DIR.mkdir(parents=True, exist_ok=True)
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── Stats Can PID Endpoints (2026 Standard) ─────────────────────────────────
+# Note: URLs now point directly to the English ZIP bundles
 WDS_BULK_URL   = "https://www150.statcan.gc.ca/n1/en/tbl/csv"
 TABLE_POP_HR    = "17100142"   # Pop by health region (annual estimates)
 TABLE_PROJ      = "17100057"   # Projected population by scenario
@@ -51,23 +52,12 @@ LHIN_HR_MAP = {
 }
 
 STATCAN_AGE_MAP = {
-    "0 to 4 years":   "0–14",
-    "5 to 9 years":   "0–14",
-    "10 to 14 years": "0–14",
-    "15 to 19 years": "15–24",
-    "20 to 24 years": "15–24",
-    "25 to 29 years": "25–44",
-    "30 to 34 years": "25–44",
-    "35 to 39 years": "25–44",
-    "40 to 44 years": "25–44",
-    "45 to 49 years": "45–64",
-    "50 to 54 years": "45–64",
-    "55 to 59 years": "45–64",
-    "60 to 64 years": "45–64",
-    "65 to 69 years": "65–74",
-    "70 to 74 years": "65–74",
-    "75 to 79 years": "75–84",
-    "80 to 84 years": "75–84",
+    "0 to 4 years":   "0–14", "5 to 9 years":   "0–14", "10 to 14 years": "0–14",
+    "15 to 19 years": "15–24", "20 to 24 years": "15–24",
+    "25 to 29 years": "25–44", "30 to 34 years": "25–44", "35 to 39 years": "25–44", "40 to 44 years": "25–44",
+    "45 to 49 years": "45–64", "50 to 54 years": "45–64", "55 to 59 years": "45–64", "60 to 64 years": "45–64",
+    "65 to 69 years": "65–74", "70 to 74 years": "65–74",
+    "75 to 79 years": "75–84", "80 to 84 years": "75–84",
     "85 years and over": "85+",
 }
 
@@ -80,7 +70,7 @@ PROJECTION_SCENARIOS = {
 # ── Helpers ─────────────────────────────────────────────────────────────────
 
 def _download_csv(table_id: str) -> pd.DataFrame:
-    """Download and extract a Stats Can table ZIP via the PID endpoint."""
+    """Download and extract a Stats Can table ZIP via the 2026 PID endpoint."""
     url = f"{WDS_BULK_URL}/{table_id}-eng.zip"
     log.info(f"Attempting download for PID {table_id}...")
     
@@ -131,9 +121,10 @@ def fetch_population_by_lhin() -> pd.DataFrame:
     df_raw = _download_csv(TABLE_POP_HR)
     df_raw.columns = [c.strip().lower().replace(" ", "_") for c in df_raw.columns]
 
-    # Filter for Ontario and 'Both sexes'
+    # Filter for Ontario
     df = df_raw[df_raw["geo"].str.contains("Ontario", na=False)].copy()
     
+    # Filter for 'Both sexes'
     sex_col = next((c for c in df.columns if "sex" in c), "sex")
     df = df[df[sex_col].str.lower().str.contains("both|total", na=False)]
 
