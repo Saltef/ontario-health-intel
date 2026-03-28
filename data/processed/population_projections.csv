@@ -1,0 +1,2107 @@
+year,scenario_label,age_group,population
+2025,High-growth,0–14,4743.4
+2025,High-growth,15–24,4068.4
+2025,High-growth,25–44,9636.2
+2025,High-growth,45–64,7929.3
+2025,High-growth,65–74,3384.8
+2025,High-growth,75–84,1990.4
+2025,Low-growth,0–14,4743.4
+2025,Low-growth,15–24,4068.4
+2025,Low-growth,25–44,9636.2
+2025,Low-growth,45–64,7929.3
+2025,Low-growth,65–74,3384.8
+2025,Low-growth,75–84,1990.4
+2025,Medium-growth (reference),0–14,4743.4
+2025,Medium-growth (reference),15–24,4068.4
+2025,Medium-growth (reference),25–44,9636.2
+2025,Medium-growth (reference),45–64,7929.3
+2025,Medium-growth (reference),65–74,3384.8
+2025,Medium-growth (reference),75–84,1990.4
+2025,Projection scenario FA: fast-aging,0–14,4743.4
+2025,Projection scenario FA: fast-aging,15–24,4068.4
+2025,Projection scenario FA: fast-aging,25–44,9636.2
+2025,Projection scenario FA: fast-aging,45–64,7929.3
+2025,Projection scenario FA: fast-aging,65–74,3384.8
+2025,Projection scenario FA: fast-aging,75–84,1990.4
+2025,Projection scenario M2: medium-growth,0–14,4743.4
+2025,Projection scenario M2: medium-growth,15–24,4068.4
+2025,Projection scenario M2: medium-growth,25–44,9636.2
+2025,Projection scenario M2: medium-growth,45–64,7929.3
+2025,Projection scenario M2: medium-growth,65–74,3384.8
+2025,Projection scenario M2: medium-growth,75–84,1990.4
+2025,Projection scenario M3: medium-growth,0–14,4743.4
+2025,Projection scenario M3: medium-growth,15–24,4068.4
+2025,Projection scenario M3: medium-growth,25–44,9636.2
+2025,Projection scenario M3: medium-growth,45–64,7929.3
+2025,Projection scenario M3: medium-growth,65–74,3384.8
+2025,Projection scenario M3: medium-growth,75–84,1990.4
+2025,Projection scenario M4: medium-growth,0–14,4743.4
+2025,Projection scenario M4: medium-growth,15–24,4068.4
+2025,Projection scenario M4: medium-growth,25–44,9636.2
+2025,Projection scenario M4: medium-growth,45–64,7929.3
+2025,Projection scenario M4: medium-growth,65–74,3384.8
+2025,Projection scenario M4: medium-growth,75–84,1990.4
+2025,Projection scenario M5: medium-growth,0–14,4743.4
+2025,Projection scenario M5: medium-growth,15–24,4068.4
+2025,Projection scenario M5: medium-growth,25–44,9636.2
+2025,Projection scenario M5: medium-growth,45–64,7929.3
+2025,Projection scenario M5: medium-growth,65–74,3384.8
+2025,Projection scenario M5: medium-growth,75–84,1990.4
+2025,Projection scenario M6: medium-growth,0–14,4743.4
+2025,Projection scenario M6: medium-growth,15–24,4068.4
+2025,Projection scenario M6: medium-growth,25–44,9636.2
+2025,Projection scenario M6: medium-growth,45–64,7929.3
+2025,Projection scenario M6: medium-growth,65–74,3384.8
+2025,Projection scenario M6: medium-growth,75–84,1990.4
+2025,Projection scenario SA: slow-aging,0–14,4743.4
+2025,Projection scenario SA: slow-aging,15–24,4068.4
+2025,Projection scenario SA: slow-aging,25–44,9636.2
+2025,Projection scenario SA: slow-aging,45–64,7929.3
+2025,Projection scenario SA: slow-aging,65–74,3384.8
+2025,Projection scenario SA: slow-aging,75–84,1990.4
+2026,High-growth,0–14,4747.6
+2026,High-growth,15–24,4104.8
+2026,High-growth,25–44,9632.5
+2026,High-growth,45–64,7874.5
+2026,High-growth,65–74,3484.4
+2026,High-growth,75–84,2073.2
+2026,Low-growth,0–14,4692.8
+2026,Low-growth,15–24,3984.1
+2026,Low-growth,25–44,9417.5
+2026,Low-growth,45–64,7831.8
+2026,Low-growth,65–74,3473.9
+2026,Low-growth,75–84,2064.2
+2026,Medium-growth (reference),0–14,4718.7
+2026,Medium-growth (reference),15–24,4038.7
+2026,Medium-growth (reference),25–44,9515.3
+2026,Medium-growth (reference),45–64,7851.4
+2026,Medium-growth (reference),65–74,3479.2
+2026,Medium-growth (reference),75–84,2068.7999999999997
+2026,Projection scenario FA: fast-aging,0–14,4694.2
+2026,Projection scenario FA: fast-aging,15–24,3985.3
+2026,Projection scenario FA: fast-aging,25–44,9422.5
+2026,Projection scenario FA: fast-aging,45–64,7836.599999999999
+2026,Projection scenario FA: fast-aging,65–74,3479.9
+2026,Projection scenario FA: fast-aging,75–84,2072.1
+2026,Projection scenario M2: medium-growth,0–14,4724.0
+2026,Projection scenario M2: medium-growth,15–24,4046.8999999999996
+2026,Projection scenario M2: medium-growth,25–44,9529.4
+2026,Projection scenario M2: medium-growth,45–64,7857.5
+2026,Projection scenario M2: medium-growth,65–74,3483.4
+2026,Projection scenario M2: medium-growth,75–84,2070.7
+2026,Projection scenario M3: medium-growth,0–14,4722.5
+2026,Projection scenario M3: medium-growth,15–24,4044.5
+2026,Projection scenario M3: medium-growth,25–44,9524.0
+2026,Projection scenario M3: medium-growth,45–64,7856.8
+2026,Projection scenario M3: medium-growth,65–74,3483.6
+2026,Projection scenario M3: medium-growth,75–84,2071.1
+2026,Projection scenario M4: medium-growth,0–14,4725.8
+2026,Projection scenario M4: medium-growth,15–24,4047.2
+2026,Projection scenario M4: medium-growth,25–44,9530.4
+2026,Projection scenario M4: medium-growth,45–64,7859.6
+2026,Projection scenario M4: medium-growth,65–74,3483.5
+2026,Projection scenario M4: medium-growth,75–84,2070.7
+2026,Projection scenario M5: medium-growth,0–14,4728.3
+2026,Projection scenario M5: medium-growth,15–24,4047.9
+2026,Projection scenario M5: medium-growth,25–44,9537.4
+2026,Projection scenario M5: medium-growth,45–64,7859.1
+2026,Projection scenario M5: medium-growth,65–74,3481.6
+2026,Projection scenario M5: medium-growth,75–84,2069.7
+2026,Projection scenario M6: medium-growth,0–14,4718.7
+2026,Projection scenario M6: medium-growth,15–24,4038.7
+2026,Projection scenario M6: medium-growth,25–44,9515.3
+2026,Projection scenario M6: medium-growth,45–64,7851.4
+2026,Projection scenario M6: medium-growth,65–74,3479.2
+2026,Projection scenario M6: medium-growth,75–84,2068.7999999999997
+2026,Projection scenario SA: slow-aging,0–14,4745.9
+2026,Projection scenario SA: slow-aging,15–24,4103.0
+2026,Projection scenario SA: slow-aging,25–44,9626.1
+2026,Projection scenario SA: slow-aging,45–64,7869.2
+2026,Projection scenario SA: slow-aging,65–74,3478.5
+2026,Projection scenario SA: slow-aging,75–84,2065.6
+2027,High-growth,0–14,4757.5
+2027,High-growth,15–24,4103.2
+2027,High-growth,25–44,9610.5
+2027,High-growth,45–64,7821.9
+2027,High-growth,65–74,3577.2
+2027,High-growth,75–84,2155.8
+2027,Low-growth,0–14,4643.6
+2027,Low-growth,15–24,3924.2
+2027,Low-growth,25–44,9278.0
+2027,Low-growth,45–64,7754.6
+2027,Low-growth,65–74,3557.5
+2027,Low-growth,75–84,2136.8
+2027,Medium-growth (reference),0–14,4697.0
+2027,Medium-growth (reference),15–24,4004.8
+2027,Medium-growth (reference),25–44,9428.3
+2027,Medium-growth (reference),45–64,7785.6
+2027,Medium-growth (reference),65–74,3567.1
+2027,Medium-growth (reference),75–84,2146.2
+2027,Projection scenario FA: fast-aging,0–14,4646.6
+2027,Projection scenario FA: fast-aging,15–24,3926.8
+2027,Projection scenario FA: fast-aging,25–44,9288.9
+2027,Projection scenario FA: fast-aging,45–64,7765.0
+2027,Projection scenario FA: fast-aging,65–74,3569.7
+2027,Projection scenario FA: fast-aging,75–84,2153.4
+2027,Projection scenario M2: medium-growth,0–14,4707.6
+2027,Projection scenario M2: medium-growth,15–24,4020.0
+2027,Projection scenario M2: medium-growth,25–44,9456.8
+2027,Projection scenario M2: medium-growth,45–64,7797.0
+2027,Projection scenario M2: medium-growth,65–74,3575.7
+2027,Projection scenario M2: medium-growth,75–84,2150.3
+2027,Projection scenario M3: medium-growth,0–14,4704.6
+2027,Projection scenario M3: medium-growth,15–24,4015.3999999999996
+2027,Projection scenario M3: medium-growth,25–44,9445.1
+2027,Projection scenario M3: medium-growth,45–64,7795.700000000001
+2027,Projection scenario M3: medium-growth,65–74,3575.9
+2027,Projection scenario M3: medium-growth,75–84,2150.8
+2027,Projection scenario M4: medium-growth,0–14,4711.3
+2027,Projection scenario M4: medium-growth,15–24,4021.2
+2027,Projection scenario M4: medium-growth,25–44,9458.9
+2027,Projection scenario M4: medium-growth,45–64,7801.2
+2027,Projection scenario M4: medium-growth,65–74,3575.6
+2027,Projection scenario M4: medium-growth,75–84,2150.0
+2027,Projection scenario M5: medium-growth,0–14,4716.2
+2027,Projection scenario M5: medium-growth,15–24,4022.6
+2027,Projection scenario M5: medium-growth,25–44,9473.1
+2027,Projection scenario M5: medium-growth,45–64,7800.2
+2027,Projection scenario M5: medium-growth,65–74,3571.9
+2027,Projection scenario M5: medium-growth,75–84,2148.0
+2027,Projection scenario M6: medium-growth,0–14,4696.4
+2027,Projection scenario M6: medium-growth,15–24,4003.8999999999996
+2027,Projection scenario M6: medium-growth,25–44,9426.7
+2027,Projection scenario M6: medium-growth,45–64,7784.8
+2027,Projection scenario M6: medium-growth,65–74,3566.7
+2027,Projection scenario M6: medium-growth,75–84,2146.2
+2027,Projection scenario SA: slow-aging,0–14,4753.6
+2027,Projection scenario SA: slow-aging,15–24,4099.9
+2027,Projection scenario SA: slow-aging,25–44,9596.4
+2027,Projection scenario SA: slow-aging,45–64,7811.1
+2027,Projection scenario SA: slow-aging,65–74,3564.7
+2027,Projection scenario SA: slow-aging,75–84,2139.0
+2028,High-growth,0–14,4771.1
+2028,High-growth,15–24,4132.2
+2028,High-growth,25–44,9659.2
+2028,High-growth,45–64,7781.8
+2028,High-growth,65–74,3672.6
+2028,High-growth,75–84,2238.9
+2028,Low-growth,0–14,4590.3
+2028,Low-growth,15–24,3907.6
+2028,Low-growth,25–44,9225.5
+2028,Low-growth,45–64,7692.8
+2028,Low-growth,65–74,3642.9
+2028,Low-growth,75–84,2209.4
+2028,Medium-growth (reference),0–14,4675.4
+2028,Medium-growth (reference),15–24,4008.3
+2028,Medium-growth (reference),25–44,9421.5
+2028,Medium-growth (reference),45–64,7733.6
+2028,Medium-growth (reference),65–74,3657.5
+2028,Medium-growth (reference),75–84,2224.1
+2028,Projection scenario FA: fast-aging,0–14,4595.4
+2028,Projection scenario FA: fast-aging,15–24,3911.4
+2028,Projection scenario FA: fast-aging,25–44,9242.8
+2028,Projection scenario FA: fast-aging,45–64,7708.2
+2028,Projection scenario FA: fast-aging,65–74,3662.0
+2028,Projection scenario FA: fast-aging,75–84,2235.4
+2028,Projection scenario M2: medium-growth,0–14,4691.0
+2028,Projection scenario M2: medium-growth,15–24,4027.6
+2028,Projection scenario M2: medium-growth,25–44,9464.4
+2028,Projection scenario M2: medium-growth,45–64,7749.599999999999
+2028,Projection scenario M2: medium-growth,65–74,3670.2000000000003
+2028,Projection scenario M2: medium-growth,75–84,2230.0
+2028,Projection scenario M3: medium-growth,0–14,4686.6
+2028,Projection scenario M3: medium-growth,15–24,4021.4
+2028,Projection scenario M3: medium-growth,25–44,9445.7
+2028,Projection scenario M3: medium-growth,45–64,7747.6
+2028,Projection scenario M3: medium-growth,65–74,3670.5
+2028,Projection scenario M3: medium-growth,75–84,2231.0
+2028,Projection scenario M4: medium-growth,0–14,4696.3
+2028,Projection scenario M4: medium-growth,15–24,4030.1
+2028,Projection scenario M4: medium-growth,25–44,9467.4
+2028,Projection scenario M4: medium-growth,45–64,7755.6
+2028,Projection scenario M4: medium-growth,65–74,3670.2
+2028,Projection scenario M4: medium-growth,75–84,2229.9
+2028,Projection scenario M5: medium-growth,0–14,4703.4
+2028,Projection scenario M5: medium-growth,15–24,4032.1
+2028,Projection scenario M5: medium-growth,25–44,9488.6
+2028,Projection scenario M5: medium-growth,45–64,7754.8
+2028,Projection scenario M5: medium-growth,65–74,3664.7
+2028,Projection scenario M5: medium-growth,75–84,2226.7
+2028,Projection scenario M6: medium-growth,0–14,4673.4
+2028,Projection scenario M6: medium-growth,15–24,4005.6
+2028,Projection scenario M6: medium-growth,25–44,9415.9
+2028,Projection scenario M6: medium-growth,45–64,7731.3
+2028,Projection scenario M6: medium-growth,65–74,3656.5
+2028,Projection scenario M6: medium-growth,75–84,2223.8
+2028,Projection scenario SA: slow-aging,0–14,4764.5
+2028,Projection scenario SA: slow-aging,15–24,4127.0
+2028,Projection scenario SA: slow-aging,25–44,9636.8
+2028,Projection scenario SA: slow-aging,45–64,7764.9
+2028,Projection scenario SA: slow-aging,65–74,3653.3
+2028,Projection scenario SA: slow-aging,75–84,2212.8
+2029,High-growth,0–14,4796.2
+2029,High-growth,15–24,4212.8
+2029,High-growth,25–44,9790.7
+2029,High-growth,45–64,7766.3
+2029,High-growth,65–74,3755.4
+2029,High-growth,75–84,2328.3
+2029,Low-growth,0–14,4539.0
+2029,Low-growth,15–24,3932.4
+2029,Low-growth,25–44,9242.1
+2029,Low-growth,45–64,7653.6
+2029,Low-growth,65–74,3715.3
+2029,Low-growth,75–84,2287.1
+2029,Medium-growth (reference),0–14,4660.4
+2029,Medium-growth (reference),15–24,4058.2000000000003
+2029,Medium-growth (reference),25–44,9490.8
+2029,Medium-growth (reference),45–64,7705.5
+2029,Medium-growth (reference),65–74,3735.0
+2029,Medium-growth (reference),75–84,2307.7
+2029,Projection scenario FA: fast-aging,0–14,4546.3
+2029,Projection scenario FA: fast-aging,15–24,3937.9
+2029,Projection scenario FA: fast-aging,25–44,9266.1
+2029,Projection scenario FA: fast-aging,45–64,7674.3
+2029,Projection scenario FA: fast-aging,65–74,3741.5
+2029,Projection scenario FA: fast-aging,75–84,2323.6
+2029,Projection scenario M2: medium-growth,0–14,4680.3
+2029,Projection scenario M2: medium-growth,15–24,4078.4
+2029,Projection scenario M2: medium-growth,25–44,9547.9
+2029,Projection scenario M2: medium-growth,45–64,7725.4
+2029,Projection scenario M2: medium-growth,65–74,3751.4
+2029,Projection scenario M2: medium-growth,75–84,2315.8
+2029,Projection scenario M3: medium-growth,0–14,4674.2
+2029,Projection scenario M3: medium-growth,15–24,4070.9
+2029,Projection scenario M3: medium-growth,25–44,9521.8
+2029,Projection scenario M3: medium-growth,45–64,7722.6
+2029,Projection scenario M3: medium-growth,65–74,3751.8
+2029,Projection scenario M3: medium-growth,75–84,2317.2000000000003
+2029,Projection scenario M4: medium-growth,0–14,4687.0
+2029,Projection scenario M4: medium-growth,15–24,4082.4
+2029,Projection scenario M4: medium-growth,25–44,9551.6
+2029,Projection scenario M4: medium-growth,45–64,7733.2
+2029,Projection scenario M4: medium-growth,65–74,3751.8
+2029,Projection scenario M4: medium-growth,75–84,2315.6
+2029,Projection scenario M5: medium-growth,0–14,4696.5
+2029,Projection scenario M5: medium-growth,15–24,4085.3
+2029,Projection scenario M5: medium-growth,25–44,9580.1
+2029,Projection scenario M5: medium-growth,45–64,7732.8
+2029,Projection scenario M5: medium-growth,65–74,3744.4
+2029,Projection scenario M5: medium-growth,75–84,2311.2
+2029,Projection scenario M6: medium-growth,0–14,4655.5
+2029,Projection scenario M6: medium-growth,15–24,4053.0
+2029,Projection scenario M6: medium-growth,25–44,9479.0
+2029,Projection scenario M6: medium-growth,45–64,7701.4
+2029,Projection scenario M6: medium-growth,65–74,3732.8
+2029,Projection scenario M6: medium-growth,75–84,2306.8
+2029,Projection scenario SA: slow-aging,0–14,4786.7
+2029,Projection scenario SA: slow-aging,15–24,4205.3
+2029,Projection scenario SA: slow-aging,25–44,9759.1
+2029,Projection scenario SA: slow-aging,45–64,7743.7
+2029,Projection scenario SA: slow-aging,65–74,3729.2
+2029,Projection scenario SA: slow-aging,75–84,2291.9
+2030,High-growth,0–14,4822.9
+2030,High-growth,15–24,4295.8
+2030,High-growth,25–44,9912.6
+2030,High-growth,45–64,7774.400000000001
+2030,High-growth,65–74,3815.8
+2030,High-growth,75–84,2426.5
+2030,Low-growth,0–14,4482.0
+2030,Low-growth,15–24,3960.6
+2030,Low-growth,25–44,9249.8
+2030,Low-growth,45–64,7637.5
+2030,Low-growth,65–74,3764.9
+2030,Low-growth,75–84,2372.7
+2030,Medium-growth (reference),0–14,4642.6
+2030,Medium-growth (reference),15–24,4111.0
+2030,Medium-growth (reference),25–44,9551.5
+2030,Medium-growth (reference),45–64,7700.4
+2030,Medium-growth (reference),65–74,3789.8
+2030,Medium-growth (reference),75–84,2399.5
+2030,Projection scenario FA: fast-aging,0–14,4491.2
+2030,Projection scenario FA: fast-aging,15–24,3967.7999999999997
+2030,Projection scenario FA: fast-aging,25–44,9280.9
+2030,Projection scenario FA: fast-aging,45–64,7663.7
+2030,Projection scenario FA: fast-aging,65–74,3798.0
+2030,Projection scenario FA: fast-aging,75–84,2420.2
+2030,Projection scenario M2: medium-growth,0–14,4667.1
+2030,Projection scenario M2: medium-growth,15–24,4131.4
+2030,Projection scenario M2: medium-growth,25–44,9620.7
+2030,Projection scenario M2: medium-growth,45–64,7723.7
+2030,Projection scenario M2: medium-growth,65–74,3809.9
+2030,Projection scenario M2: medium-growth,75–84,2409.8
+2030,Projection scenario M3: medium-growth,0–14,4659.400000000001
+2030,Projection scenario M3: medium-growth,15–24,4122.4
+2030,Projection scenario M3: medium-growth,25–44,9587.0
+2030,Projection scenario M3: medium-growth,45–64,7719.8
+2030,Projection scenario M3: medium-growth,65–74,3810.2
+2030,Projection scenario M3: medium-growth,75–84,2411.6
+2030,Projection scenario M4: medium-growth,0–14,4675.0
+2030,Projection scenario M4: medium-growth,15–24,4136.7
+2030,Projection scenario M4: medium-growth,25–44,9625.7
+2030,Projection scenario M4: medium-growth,45–64,7732.9
+2030,Projection scenario M4: medium-growth,65–74,3810.6
+2030,Projection scenario M4: medium-growth,75–84,2409.7
+2030,Projection scenario M5: medium-growth,0–14,4686.7
+2030,Projection scenario M5: medium-growth,15–24,4140.8
+2030,Projection scenario M5: medium-growth,25–44,9660.7
+2030,Projection scenario M5: medium-growth,45–64,7733.1
+2030,Projection scenario M5: medium-growth,65–74,3801.4
+2030,Projection scenario M5: medium-growth,75–84,2403.8
+2030,Projection scenario M6: medium-growth,0–14,4635.099999999999
+2030,Projection scenario M6: medium-growth,15–24,4102.8
+2030,Projection scenario M6: medium-growth,25–44,9531.3
+2030,Projection scenario M6: medium-growth,45–64,7693.4
+2030,Projection scenario M6: medium-growth,65–74,3786.1
+2030,Projection scenario M6: medium-growth,75–84,2397.9
+2030,Projection scenario SA: slow-aging,0–14,4810.2
+2030,Projection scenario SA: slow-aging,15–24,4285.9
+2030,Projection scenario SA: slow-aging,25–44,9871.3
+2030,Projection scenario SA: slow-aging,45–64,7745.6
+2030,Projection scenario SA: slow-aging,65–74,3782.3999999999996
+2030,Projection scenario SA: slow-aging,75–84,2379.2
+2031,High-growth,0–14,4855.9
+2031,High-growth,15–24,4345.0
+2031,High-growth,25–44,10045.6
+2031,High-growth,45–64,7821.3
+2031,High-growth,65–74,3848.9
+2031,High-growth,75–84,2517.1
+2031,Low-growth,0–14,4423.5
+2031,Low-growth,15–24,3966.8
+2031,Low-growth,25–44,9264.1
+2031,Low-growth,45–64,7655.9
+2031,Low-growth,65–74,3787.1
+2031,Low-growth,75–84,2450.2000000000003
+2031,Medium-growth (reference),0–14,4627.3
+2031,Medium-growth (reference),15–24,4136.2
+2031,Medium-growth (reference),25–44,9620.5
+2031,Medium-growth (reference),45–64,7732.0
+2031,Medium-growth (reference),65–74,3817.3
+2031,Medium-growth (reference),75–84,2483.4
+2031,Projection scenario FA: fast-aging,0–14,4435.0
+2031,Projection scenario FA: fast-aging,15–24,3975.3999999999996
+2031,Projection scenario FA: fast-aging,25–44,9302.5
+2031,Projection scenario FA: fast-aging,45–64,7687.8
+2031,Projection scenario FA: fast-aging,65–74,3826.8
+2031,Projection scenario FA: fast-aging,75–84,2508.7
+2031,Projection scenario M2: medium-growth,0–14,4655.5
+2031,Projection scenario M2: medium-growth,15–24,4156.5
+2031,Projection scenario M2: medium-growth,25–44,9699.0
+2031,Projection scenario M2: medium-growth,45–64,7758.0
+2031,Projection scenario M2: medium-growth,65–74,3840.5
+2031,Projection scenario M2: medium-growth,75–84,2495.8
+2031,Projection scenario M3: medium-growth,0–14,4646.1
+2031,Projection scenario M3: medium-growth,15–24,4146.5
+2031,Projection scenario M3: medium-growth,25–44,9658.2
+2031,Projection scenario M3: medium-growth,45–64,7753.1
+2031,Projection scenario M3: medium-growth,65–74,3840.4
+2031,Projection scenario M3: medium-growth,75–84,2498.1
+2031,Projection scenario M4: medium-growth,0–14,4664.6
+2031,Projection scenario M4: medium-growth,15–24,4163.6
+2031,Projection scenario M4: medium-growth,25–44,9705.4
+2031,Projection scenario M4: medium-growth,45–64,7768.2
+2031,Projection scenario M4: medium-growth,65–74,3841.7
+2031,Projection scenario M4: medium-growth,75–84,2495.7
+2031,Projection scenario M5: medium-growth,0–14,4678.3
+2031,Projection scenario M5: medium-growth,15–24,4168.8
+2031,Projection scenario M5: medium-growth,25–44,9746.8
+2031,Projection scenario M5: medium-growth,45–64,7769.7
+2031,Projection scenario M5: medium-growth,65–74,3830.7000000000003
+2031,Projection scenario M5: medium-growth,75–84,2488.2
+2031,Projection scenario M6: medium-growth,0–14,4615.6
+2031,Projection scenario M6: medium-growth,15–24,4124.6
+2031,Projection scenario M6: medium-growth,25–44,9589.6
+2031,Projection scenario M6: medium-growth,45–64,7721.7
+2031,Projection scenario M6: medium-growth,65–74,3811.6
+2031,Projection scenario M6: medium-growth,75–84,2480.8
+2031,Projection scenario SA: slow-aging,0–14,4839.8
+2031,Projection scenario SA: slow-aging,15–24,4332.6
+2031,Projection scenario SA: slow-aging,25–44,9994.2
+2031,Projection scenario SA: slow-aging,45–64,7786.2
+2031,Projection scenario SA: slow-aging,65–74,3808.7
+2031,Projection scenario SA: slow-aging,75–84,2458.5
+2032,High-growth,0–14,4894.5
+2032,High-growth,15–24,4386.3
+2032,High-growth,25–44,10184.8
+2032,High-growth,45–64,7894.0
+2032,High-growth,65–74,3851.2
+2032,High-growth,75–84,2586.3999999999996
+2032,Low-growth,0–14,4363.9
+2032,Low-growth,15–24,3966.7
+2032,Low-growth,25–44,9283.4
+2032,Low-growth,45–64,7698.3
+2032,Low-growth,65–74,3778.2
+2032,Low-growth,75–84,2507.0
+2032,Medium-growth (reference),0–14,4613.9
+2032,Medium-growth (reference),15–24,4154.200000000001
+2032,Medium-growth (reference),25–44,9695.1
+2032,Medium-growth (reference),45–64,7788.2
+2032,Medium-growth (reference),65–74,3813.8
+2032,Medium-growth (reference),75–84,2546.3
+2032,Projection scenario FA: fast-aging,0–14,4378.0
+2032,Projection scenario FA: fast-aging,15–24,3976.8
+2032,Projection scenario FA: fast-aging,25–44,9329.0
+2032,Projection scenario FA: fast-aging,45–64,7736.0
+2032,Projection scenario FA: fast-aging,65–74,3824.2999999999997
+2032,Projection scenario FA: fast-aging,75–84,2575.8
+2032,Projection scenario M2: medium-growth,0–14,4645.4
+2032,Projection scenario M2: medium-growth,15–24,4174.4
+2032,Projection scenario M2: medium-growth,25–44,9780.2
+2032,Projection scenario M2: medium-growth,45–64,7816.3
+2032,Projection scenario M2: medium-growth,65–74,3839.1
+2032,Projection scenario M2: medium-growth,75–84,2560.8
+2032,Projection scenario M3: medium-growth,0–14,4634.599999999999
+2032,Projection scenario M3: medium-growth,15–24,4163.4
+2032,Projection scenario M3: medium-growth,25–44,9732.0
+2032,Projection scenario M3: medium-growth,45–64,7809.9
+2032,Projection scenario M3: medium-growth,65–74,3839.1
+2032,Projection scenario M3: medium-growth,75–84,2563.5
+2032,Projection scenario M4: medium-growth,0–14,4655.8
+2032,Projection scenario M4: medium-growth,15–24,4183.0
+2032,Projection scenario M4: medium-growth,25–44,9787.7
+2032,Projection scenario M4: medium-growth,45–64,7828.1
+2032,Projection scenario M4: medium-growth,65–74,3840.8
+2032,Projection scenario M4: medium-growth,75–84,2560.6
+2032,Projection scenario M5: medium-growth,0–14,4671.4
+2032,Projection scenario M5: medium-growth,15–24,4189.700000000001
+2032,Projection scenario M5: medium-growth,25–44,9835.3
+2032,Projection scenario M5: medium-growth,45–64,7831.1
+2032,Projection scenario M5: medium-growth,65–74,3828.6
+2032,Projection scenario M5: medium-growth,75–84,2551.6
+2032,Projection scenario M6: medium-growth,0–14,4597.0
+2032,Projection scenario M6: medium-growth,15–24,4138.8
+2032,Projection scenario M6: medium-growth,25–44,9650.8
+2032,Projection scenario M6: medium-growth,45–64,7773.9
+2032,Projection scenario M6: medium-growth,65–74,3805.6
+2032,Projection scenario M6: medium-growth,75–84,2542.5
+2032,Projection scenario SA: slow-aging,0–14,4874.6
+2032,Projection scenario SA: slow-aging,15–24,4371.2
+2032,Projection scenario SA: slow-aging,25–44,10122.6
+2032,Projection scenario SA: slow-aging,45–64,7851.7
+2032,Projection scenario SA: slow-aging,65–74,3804.5
+2032,Projection scenario SA: slow-aging,75–84,2517.4
+2033,High-growth,0–14,4939.4
+2033,High-growth,15–24,4419.5
+2033,High-growth,25–44,10326.3
+2033,High-growth,45–64,7979.7
+2033,High-growth,65–74,3845.0
+2033,High-growth,75–84,2663.6
+2033,Low-growth,0–14,4304.5
+2033,Low-growth,15–24,3958.8
+2033,Low-growth,25–44,9302.7
+2033,Low-growth,45–64,7750.7
+2033,Low-growth,65–74,3761.3
+2033,Low-growth,75–84,2571.0
+2033,Medium-growth (reference),0–14,4603.3
+2033,Medium-growth (reference),15–24,4164.6
+2033,Medium-growth (reference),25–44,9770.7
+2033,Medium-growth (reference),45–64,7855.9
+2033,Medium-growth (reference),65–74,3802.2
+2033,Medium-growth (reference),75–84,2617.0
+2033,Projection scenario FA: fast-aging,0–14,4321.1
+2033,Projection scenario FA: fast-aging,15–24,3970.7999999999997
+2033,Projection scenario FA: fast-aging,25–44,9356.0
+2033,Projection scenario FA: fast-aging,45–64,7794.5
+2033,Projection scenario FA: fast-aging,65–74,3813.2999999999997
+2033,Projection scenario FA: fast-aging,75–84,2650.7
+2033,Projection scenario M2: medium-growth,0–14,4637.3
+2033,Projection scenario M2: medium-growth,15–24,4184.0
+2033,Projection scenario M2: medium-growth,25–44,9859.6
+2033,Projection scenario M2: medium-growth,45–64,7885.6
+2033,Projection scenario M2: medium-growth,65–74,3829.0
+2033,Projection scenario M2: medium-growth,75–84,2633.1
+2033,Projection scenario M3: medium-growth,0–14,4625.0
+2033,Projection scenario M3: medium-growth,15–24,4171.9
+2033,Projection scenario M3: medium-growth,25–44,9804.9
+2033,Projection scenario M3: medium-growth,45–64,7877.5
+2033,Projection scenario M3: medium-growth,65–74,3828.8
+2033,Projection scenario M3: medium-growth,75–84,2636.5
+2033,Projection scenario M4: medium-growth,0–14,4648.9
+2033,Projection scenario M4: medium-growth,15–24,4194.4
+2033,Projection scenario M4: medium-growth,25–44,9868.2
+2033,Projection scenario M4: medium-growth,45–64,7898.8
+2033,Projection scenario M4: medium-growth,65–74,3831.6
+2033,Projection scenario M4: medium-growth,75–84,2633.0
+2033,Projection scenario M5: medium-growth,0–14,4666.4
+2033,Projection scenario M5: medium-growth,15–24,4202.3
+2033,Projection scenario M5: medium-growth,25–44,9922.1
+2033,Projection scenario M5: medium-growth,45–64,7903.0
+2033,Projection scenario M5: medium-growth,65–74,3818.2
+2033,Projection scenario M5: medium-growth,75–84,2622.2
+2033,Projection scenario M6: medium-growth,0–14,4580.3
+2033,Projection scenario M6: medium-growth,15–24,4144.8
+2033,Projection scenario M6: medium-growth,25–44,9710.2
+2033,Projection scenario M6: medium-growth,45–64,7836.2
+2033,Projection scenario M6: medium-growth,65–74,3791.3
+2033,Projection scenario M6: medium-growth,75–84,2611.5
+2033,Projection scenario SA: slow-aging,0–14,4915.2
+2033,Projection scenario SA: slow-aging,15–24,4401.4
+2033,Projection scenario SA: slow-aging,25–44,10253.0
+2033,Projection scenario SA: slow-aging,45–64,7930.0
+2033,Projection scenario SA: slow-aging,65–74,3792.4
+2033,Projection scenario SA: slow-aging,75–84,2583.8
+2034,High-growth,0–14,4991.5
+2034,High-growth,15–24,4449.6
+2034,High-growth,25–44,10453.0
+2034,High-growth,45–64,8082.8
+2034,High-growth,65–74,3837.1
+2034,High-growth,75–84,2749.0
+2034,Low-growth,0–14,4246.8
+2034,Low-growth,15–24,3948.4
+2034,Low-growth,25–44,9306.1
+2034,Low-growth,45–64,7818.3
+2034,Low-growth,65–74,3742.6
+2034,Low-growth,75–84,2642.3
+2034,Medium-growth (reference),0–14,4596.5
+2034,Medium-growth (reference),15–24,4172.0
+2034,Medium-growth (reference),25–44,9830.5
+2034,Medium-growth (reference),45–64,7939.8
+2034,Medium-growth (reference),65–74,3788.7
+2034,Medium-growth (reference),75–84,2695.0
+2034,Projection scenario FA: fast-aging,0–14,4266.0
+2034,Projection scenario FA: fast-aging,15–24,3962.2000000000003
+2034,Projection scenario FA: fast-aging,25–44,9366.4
+2034,Projection scenario FA: fast-aging,45–64,7868.5
+2034,Projection scenario FA: fast-aging,65–74,3800.0
+2034,Projection scenario FA: fast-aging,75–84,2733.1
+2034,Projection scenario M2: medium-growth,0–14,4632.7
+2034,Projection scenario M2: medium-growth,15–24,4190.5
+2034,Projection scenario M2: medium-growth,25–44,9920.7
+2034,Projection scenario M2: medium-growth,45–64,7970.8
+2034,Projection scenario M2: medium-growth,65–74,3816.4
+2034,Projection scenario M2: medium-growth,75–84,2713.2
+2034,Projection scenario M3: medium-growth,0–14,4618.7
+2034,Projection scenario M3: medium-growth,15–24,4177.1
+2034,Projection scenario M3: medium-growth,25–44,9859.4
+2034,Projection scenario M3: medium-growth,45–64,7960.099999999999
+2034,Projection scenario M3: medium-growth,65–74,3815.9
+2034,Projection scenario M3: medium-growth,75–84,2716.8
+2034,Projection scenario M4: medium-growth,0–14,4645.4
+2034,Projection scenario M4: medium-growth,15–24,4202.4
+2034,Projection scenario M4: medium-growth,25–44,9930.6
+2034,Projection scenario M4: medium-growth,45–64,7984.8
+2034,Projection scenario M4: medium-growth,65–74,3819.8
+2034,Projection scenario M4: medium-growth,75–84,2713.0
+2034,Projection scenario M5: medium-growth,0–14,4665.0
+2034,Projection scenario M5: medium-growth,15–24,4211.5
+2034,Projection scenario M5: medium-growth,25–44,9990.3
+2034,Projection scenario M5: medium-growth,45–64,7991.2
+2034,Projection scenario M5: medium-growth,65–74,3805.6000000000004
+2034,Projection scenario M5: medium-growth,75–84,2700.5
+2034,Projection scenario M6: medium-growth,0–14,4566.6
+2034,Projection scenario M6: medium-growth,15–24,4147.3
+2034,Projection scenario M6: medium-growth,25–44,9751.7
+2034,Projection scenario M6: medium-growth,45–64,7913.9
+2034,Projection scenario M6: medium-growth,65–74,3774.5
+2034,Projection scenario M6: medium-growth,75–84,2687.7
+2034,Projection scenario SA: slow-aging,0–14,4963.2
+2034,Projection scenario SA: slow-aging,15–24,4428.8
+2034,Projection scenario SA: slow-aging,25–44,10368.9
+2034,Projection scenario SA: slow-aging,45–64,8025.2
+2034,Projection scenario SA: slow-aging,65–74,3778.9
+2034,Projection scenario SA: slow-aging,75–84,2657.6
+2035,High-growth,0–14,5053.1
+2035,High-growth,15–24,4476.2
+2035,High-growth,25–44,10561.4
+2035,High-growth,45–64,8208.3
+2035,High-growth,65–74,3821.5
+2035,High-growth,75–84,2842.7
+2035,Low-growth,0–14,4192.4
+2035,Low-growth,15–24,3934.1
+2035,Low-growth,25–44,9289.1
+2035,Low-growth,45–64,7904.8
+2035,Low-growth,65–74,3716.6
+2035,Low-growth,75–84,2721.6
+2035,Medium-growth (reference),0–14,4595.8
+2035,Medium-growth (reference),15–24,4175.5
+2035,Medium-growth (reference),25–44,9870.8
+2035,Medium-growth (reference),45–64,8044.5
+2035,Medium-growth (reference),65–74,3767.6
+2035,Medium-growth (reference),75–84,2781.4
+2035,Projection scenario FA: fast-aging,0–14,4214.2
+2035,Projection scenario FA: fast-aging,15–24,3950.1
+2035,Projection scenario FA: fast-aging,25–44,9356.800000000001
+2035,Projection scenario FA: fast-aging,45–64,7961.8
+2035,Projection scenario FA: fast-aging,65–74,3778.8
+2035,Projection scenario FA: fast-aging,75–84,2823.8
+2035,Projection scenario M2: medium-growth,0–14,4633.4
+2035,Projection scenario M2: medium-growth,15–24,4192.799999999999
+2035,Projection scenario M2: medium-growth,25–44,9959.0
+2035,Projection scenario M2: medium-growth,45–64,8075.8
+2035,Projection scenario M2: medium-growth,65–74,3795.4
+2035,Projection scenario M2: medium-growth,75–84,2801.5
+2035,Projection scenario M3: medium-growth,0–14,4618.1
+2035,Projection scenario M3: medium-growth,15–24,4178.0
+2035,Projection scenario M3: medium-growth,25–44,9892.7
+2035,Projection scenario M3: medium-growth,45–64,8062.4
+2035,Projection scenario M3: medium-growth,65–74,3794.7000000000003
+2035,Projection scenario M3: medium-growth,75–84,2805.3
+2035,Projection scenario M4: medium-growth,0–14,4647.5
+2035,Projection scenario M4: medium-growth,15–24,4205.8
+2035,Projection scenario M4: medium-growth,25–44,9970.3
+2035,Projection scenario M4: medium-growth,45–64,8091.2
+2035,Projection scenario M4: medium-growth,65–74,3799.8
+2035,Projection scenario M4: medium-growth,75–84,2801.2
+2035,Projection scenario M5: medium-growth,0–14,4668.3
+2035,Projection scenario M5: medium-growth,15–24,4216.4
+2035,Projection scenario M5: medium-growth,25–44,10035.6
+2035,Projection scenario M5: medium-growth,45–64,8099.9
+2035,Projection scenario M5: medium-growth,65–74,3785.2
+2035,Projection scenario M5: medium-growth,75–84,2786.9
+2035,Projection scenario M6: medium-growth,0–14,4557.5
+2035,Projection scenario M6: medium-growth,15–24,4145.6
+2035,Projection scenario M6: medium-growth,25–44,9771.3
+2035,Projection scenario M6: medium-growth,45–64,8011.3
+2035,Projection scenario M6: medium-growth,65–74,3750.0
+2035,Projection scenario M6: medium-growth,75–84,2771.9
+2035,Projection scenario SA: slow-aging,0–14,5020.0
+2035,Projection scenario SA: slow-aging,15–24,4452.0
+2035,Projection scenario SA: slow-aging,25–44,10465.9
+2035,Projection scenario SA: slow-aging,45–64,8142.7
+2035,Projection scenario SA: slow-aging,65–74,3758.2
+2035,Projection scenario SA: slow-aging,75–84,2739.8
+2036,High-growth,0–14,5125.4
+2036,High-growth,15–24,4497.8
+2036,High-growth,25–44,10663.4
+2036,High-growth,45–64,8341.7
+2036,High-growth,65–74,3800.8
+2036,High-growth,75–84,2940.0
+2036,Low-growth,0–14,4143.3
+2036,Low-growth,15–24,3914.7999999999997
+2036,Low-growth,25–44,9264.5
+2036,Low-growth,45–64,7995.7
+2036,Low-growth,65–74,3685.3
+2036,Low-growth,75–84,2803.6
+2036,Medium-growth (reference),0–14,4602.8
+2036,Medium-growth (reference),15–24,4173.8
+2036,Medium-growth (reference),25–44,9904.0
+2036,Medium-growth (reference),45–64,8154.7
+2036,Medium-growth (reference),65–74,3741.4
+2036,Medium-growth (reference),75–84,2871.1
+2036,Projection scenario FA: fast-aging,0–14,4167.6
+2036,Projection scenario FA: fast-aging,15–24,3932.6000000000004
+2036,Projection scenario FA: fast-aging,25–44,9339.1
+2036,Projection scenario FA: fast-aging,45–64,8059.4
+2036,Projection scenario FA: fast-aging,65–74,3751.8
+2036,Projection scenario FA: fast-aging,75–84,2917.7
+2036,Projection scenario M2: medium-growth,0–14,4641.8
+2036,Projection scenario M2: medium-growth,15–24,4190.3
+2036,Projection scenario M2: medium-growth,25–44,9989.3
+2036,Projection scenario M2: medium-growth,45–64,8186.7
+2036,Projection scenario M2: medium-growth,65–74,3768.7
+2036,Projection scenario M2: medium-growth,75–84,2893.1
+2036,Projection scenario M3: medium-growth,0–14,4625.0
+2036,Projection scenario M3: medium-growth,15–24,4174.3
+2036,Projection scenario M3: medium-growth,25–44,9918.0
+2036,Projection scenario M3: medium-growth,45–64,8169.8
+2036,Projection scenario M3: medium-growth,65–74,3768.0
+2036,Projection scenario M3: medium-growth,75–84,2897.4
+2036,Projection scenario M4: medium-growth,0–14,4657.2
+2036,Projection scenario M4: medium-growth,15–24,4204.4
+2036,Projection scenario M4: medium-growth,25–44,10002.5
+2036,Projection scenario M4: medium-growth,45–64,8203.2
+2036,Projection scenario M4: medium-growth,65–74,3774.2
+2036,Projection scenario M4: medium-growth,75–84,2893.0
+2036,Projection scenario M5: medium-growth,0–14,4679.5
+2036,Projection scenario M5: medium-growth,15–24,4216.6
+2036,Projection scenario M5: medium-growth,25–44,10073.0
+2036,Projection scenario M5: medium-growth,45–64,8214.9
+2036,Projection scenario M5: medium-growth,65–74,3759.2
+2036,Projection scenario M5: medium-growth,75–84,2876.7
+2036,Projection scenario M6: medium-growth,0–14,4555.7
+2036,Projection scenario M6: medium-growth,15–24,4139.2
+2036,Projection scenario M6: medium-growth,25–44,9783.4
+2036,Projection scenario M6: medium-growth,45–64,8113.9
+2036,Projection scenario M6: medium-growth,65–74,3720.0
+2036,Projection scenario M6: medium-growth,75–84,2859.0
+2036,Projection scenario SA: slow-aging,0–14,5087.3
+2036,Projection scenario SA: slow-aging,15–24,4470.1
+2036,Projection scenario SA: slow-aging,25–44,10556.7
+2036,Projection scenario SA: slow-aging,45–64,8267.3
+2036,Projection scenario SA: slow-aging,65–74,3732.8
+2036,Projection scenario SA: slow-aging,75–84,2825.3
+2037,High-growth,0–14,5199.1
+2037,High-growth,15–24,4520.2
+2037,High-growth,25–44,10771.2
+2037,High-growth,45–64,8491.4
+2037,High-growth,65–74,3766.5
+2037,High-growth,75–84,3031.3999999999996
+2037,Low-growth,0–14,4090.0
+2037,Low-growth,15–24,3895.6
+2037,Low-growth,25–44,9244.2
+2037,Low-growth,45–64,8099.1
+2037,Low-growth,65–74,3641.0
+2037,Low-growth,75–84,2879.7
+2037,Medium-growth (reference),0–14,4607.7
+2037,Medium-growth (reference),15–24,4172.8
+2037,Medium-growth (reference),25–44,9941.5
+2037,Medium-growth (reference),45–64,8279.3
+2037,Medium-growth (reference),65–74,3701.9
+2037,Medium-growth (reference),75–84,2954.4
+2037,Projection scenario FA: fast-aging,0–14,4117.1
+2037,Projection scenario FA: fast-aging,15–24,3915.7
+2037,Projection scenario FA: fast-aging,25–44,9325.8
+2037,Projection scenario FA: fast-aging,45–64,8170.0
+2037,Projection scenario FA: fast-aging,65–74,3711.6
+2037,Projection scenario FA: fast-aging,75–84,3005.3
+2037,Projection scenario M2: medium-growth,0–14,4648.2
+2037,Projection scenario M2: medium-growth,15–24,4188.9
+2037,Projection scenario M2: medium-growth,25–44,10023.9
+2037,Projection scenario M2: medium-growth,45–64,8312.7
+2037,Projection scenario M2: medium-growth,65–74,3728.5
+2037,Projection scenario M2: medium-growth,75–84,2978.6
+2037,Projection scenario M3: medium-growth,0–14,4629.9
+2037,Projection scenario M3: medium-growth,15–24,4171.2
+2037,Projection scenario M3: medium-growth,25–44,9948.2
+2037,Projection scenario M3: medium-growth,45–64,8291.6
+2037,Projection scenario M3: medium-growth,65–74,3727.6
+2037,Projection scenario M3: medium-growth,75–84,2982.9
+2037,Projection scenario M4: medium-growth,0–14,4665.1
+2037,Projection scenario M4: medium-growth,15–24,4203.9
+2037,Projection scenario M4: medium-growth,25–44,10039.2
+2037,Projection scenario M4: medium-growth,45–64,8329.8
+2037,Projection scenario M4: medium-growth,65–74,3735.5
+2037,Projection scenario M4: medium-growth,75–84,2978.5
+2037,Projection scenario M5: medium-growth,0–14,4688.9
+2037,Projection scenario M5: medium-growth,15–24,4217.6
+2037,Projection scenario M5: medium-growth,25–44,10114.2
+2037,Projection scenario M5: medium-growth,45–64,8345.0
+2037,Projection scenario M5: medium-growth,65–74,3720.2
+2037,Projection scenario M5: medium-growth,75–84,2960.2
+2037,Projection scenario M6: medium-growth,0–14,4551.5
+2037,Projection scenario M6: medium-growth,15–24,4133.5
+2037,Projection scenario M6: medium-growth,25–44,9800.0
+2037,Projection scenario M6: medium-growth,45–64,8230.5
+2037,Projection scenario M6: medium-growth,65–74,3677.2
+2037,Projection scenario M6: medium-growth,75–84,2939.7000000000003
+2037,Projection scenario SA: slow-aging,0–14,5155.9
+2037,Projection scenario SA: slow-aging,15–24,4488.8
+2037,Projection scenario SA: slow-aging,25–44,10652.6
+2037,Projection scenario SA: slow-aging,45–64,8408.0
+2037,Projection scenario SA: slow-aging,65–74,3694.5
+2037,Projection scenario SA: slow-aging,75–84,2904.6
+2038,High-growth,0–14,5286.9
+2038,High-growth,15–24,4533.1
+2038,High-growth,25–44,10874.8
+2038,High-growth,45–64,8658.8
+2038,High-growth,65–74,3714.8
+2038,High-growth,75–84,3124.3
+2038,Low-growth,0–14,4045.3
+2038,Low-growth,15–24,3867.0
+2038,Low-growth,25–44,9219.1
+2038,Low-growth,45–64,8215.7
+2038,Low-growth,65–74,3579.6
+2038,Low-growth,75–84,2957.0
+2038,Medium-growth (reference),0–14,4623.6
+2038,Medium-growth (reference),15–24,4162.0
+2038,Medium-growth (reference),25–44,9974.8
+2038,Medium-growth (reference),45–64,8419.1
+2038,Medium-growth (reference),65–74,3645.0
+2038,Medium-growth (reference),75–84,3039.2
+2038,Projection scenario FA: fast-aging,0–14,4075.3
+2038,Projection scenario FA: fast-aging,15–24,3889.0
+2038,Projection scenario FA: fast-aging,25–44,9307.3
+2038,Projection scenario FA: fast-aging,45–64,8294.3
+2038,Projection scenario FA: fast-aging,65–74,3653.0
+2038,Projection scenario FA: fast-aging,75–84,3094.2
+2038,Projection scenario M2: medium-growth,0–14,4665.1
+2038,Projection scenario M2: medium-growth,15–24,4177.9
+2038,Projection scenario M2: medium-growth,25–44,10053.6
+2038,Projection scenario M2: medium-growth,45–64,8454.0
+2038,Projection scenario M2: medium-growth,65–74,3670.6
+2038,Projection scenario M2: medium-growth,75–84,3065.6
+2038,Projection scenario M3: medium-growth,0–14,4645.6
+2038,Projection scenario M3: medium-growth,15–24,4159.0
+2038,Projection scenario M3: medium-growth,25–44,9973.7
+2038,Projection scenario M3: medium-growth,45–64,8428.3
+2038,Projection scenario M3: medium-growth,65–74,3669.7
+2038,Projection scenario M3: medium-growth,75–84,3069.8
+2038,Projection scenario M4: medium-growth,0–14,4683.6
+2038,Projection scenario M4: medium-growth,15–24,4193.8
+2038,Projection scenario M4: medium-growth,25–44,10071.0
+2038,Projection scenario M4: medium-growth,45–64,8471.8
+2038,Projection scenario M4: medium-growth,65–74,3678.7
+2038,Projection scenario M4: medium-growth,75–84,3065.4
+2038,Projection scenario M5: medium-growth,0–14,4708.6
+2038,Projection scenario M5: medium-growth,15–24,4209.0
+2038,Projection scenario M5: medium-growth,25–44,10150.800000000001
+2038,Projection scenario M5: medium-growth,45–64,8491.0
+2038,Projection scenario M5: medium-growth,65–74,3663.4
+2038,Projection scenario M5: medium-growth,75–84,3045.4
+2038,Projection scenario M6: medium-growth,0–14,4557.9
+2038,Projection scenario M6: medium-growth,15–24,4118.4
+2038,Projection scenario M6: medium-growth,25–44,9811.7
+2038,Projection scenario M6: medium-growth,45–64,8361.7
+2038,Projection scenario M6: medium-growth,65–74,3617.0
+2038,Projection scenario M6: medium-growth,75–84,3021.8
+2038,Projection scenario SA: slow-aging,0–14,5238.1
+2038,Projection scenario SA: slow-aging,15–24,4497.9
+2038,Projection scenario SA: slow-aging,25–44,10744.9
+2038,Projection scenario SA: slow-aging,45–64,8565.4
+2038,Projection scenario SA: slow-aging,65–74,3639.4
+2038,Projection scenario SA: slow-aging,75–84,2985.8
+2039,High-growth,0–14,5369.8
+2039,High-growth,15–24,4558.2
+2039,High-growth,25–44,10974.9
+2039,High-growth,45–64,8835.8
+2039,High-growth,65–74,3663.6
+2039,High-growth,75–84,3206.0
+2039,Low-growth,0–14,3990.1
+2039,Low-growth,15–24,3849.8
+2039,Low-growth,25–44,9189.1
+2039,Low-growth,45–64,8337.5
+2039,Low-growth,65–74,3518.7999999999997
+2039,Low-growth,75–84,3023.1
+2039,Medium-growth (reference),0–14,4631.4
+2039,Medium-growth (reference),15–24,4163.0
+2039,Medium-growth (reference),25–44,10003.2
+2039,Medium-growth (reference),45–64,8566.2
+2039,Medium-growth (reference),65–74,3588.5
+2039,Medium-growth (reference),75–84,3112.9
+2039,Projection scenario FA: fast-aging,0–14,4023.0
+2039,Projection scenario FA: fast-aging,15–24,3874.2
+2039,Projection scenario FA: fast-aging,25–44,9284.300000000001
+2039,Projection scenario FA: fast-aging,45–64,8423.8
+2039,Projection scenario FA: fast-aging,65–74,3594.8
+2039,Projection scenario FA: fast-aging,75–84,3171.4
+2039,Projection scenario M2: medium-growth,0–14,4673.6
+2039,Projection scenario M2: medium-growth,15–24,4179.4
+2039,Projection scenario M2: medium-growth,25–44,10078.0
+2039,Projection scenario M2: medium-growth,45–64,8602.8
+2039,Projection scenario M2: medium-growth,65–74,3613.1
+2039,Projection scenario M2: medium-growth,75–84,3141.0
+2039,Projection scenario M3: medium-growth,0–14,4652.6
+2039,Projection scenario M3: medium-growth,15–24,4159.0
+2039,Projection scenario M3: medium-growth,25–44,9995.1
+2039,Projection scenario M3: medium-growth,45–64,8571.7
+2039,Projection scenario M3: medium-growth,65–74,3611.9
+2039,Projection scenario M3: medium-growth,75–84,3145.7
+2039,Projection scenario M4: medium-growth,0–14,4693.3
+2039,Projection scenario M4: medium-growth,15–24,4196.0
+2039,Projection scenario M4: medium-growth,25–44,10098.0
+2039,Projection scenario M4: medium-growth,45–64,8621.3
+2039,Projection scenario M4: medium-growth,65–74,3622.4
+2039,Projection scenario M4: medium-growth,75–84,3141.4
+2039,Projection scenario M5: medium-growth,0–14,4719.6
+2039,Projection scenario M5: medium-growth,15–24,4212.9
+2039,Projection scenario M5: medium-growth,25–44,10182.3
+2039,Projection scenario M5: medium-growth,45–64,8644.9
+2039,Projection scenario M5: medium-growth,65–74,3607.0
+2039,Projection scenario M5: medium-growth,75–84,3119.3
+2039,Projection scenario M6: medium-growth,0–14,4555.8
+2039,Projection scenario M6: medium-growth,15–24,4114.8
+2039,Projection scenario M6: medium-growth,25–44,9819.5
+2039,Projection scenario M6: medium-growth,45–64,8499.3
+2039,Projection scenario M6: medium-growth,65–74,3557.4
+2039,Projection scenario M6: medium-growth,75–84,3092.6
+2039,Projection scenario SA: slow-aging,0–14,5315.1
+2039,Projection scenario SA: slow-aging,15–24,4519.0
+2039,Projection scenario SA: slow-aging,25–44,10833.4
+2039,Projection scenario SA: slow-aging,45–64,8732.3
+2039,Projection scenario SA: slow-aging,65–74,3585.3
+2039,Projection scenario SA: slow-aging,75–84,3056.0
+2040,High-growth,0–14,5453.3
+2040,High-growth,15–24,4586.7
+2040,High-growth,25–44,11067.6
+2040,High-growth,45–64,9022.2
+2040,High-growth,65–74,3627.2
+2040,High-growth,75–84,3268.3
+2040,Low-growth,0–14,3930.8
+2040,Low-growth,15–24,3835.8
+2040,Low-growth,25–44,9151.9
+2040,Low-growth,45–64,8462.5
+2040,Low-growth,65–74,3472.5
+2040,Low-growth,75–84,3071.0
+2040,Medium-growth (reference),0–14,4636.7
+2040,Medium-growth (reference),15–24,4167.3
+2040,Medium-growth (reference),25–44,10024.1
+2040,Medium-growth (reference),45–64,8718.9
+2040,Medium-growth (reference),65–74,3547.0
+2040,Medium-growth (reference),75–84,3167.7
+2040,Projection scenario FA: fast-aging,0–14,3966.4
+2040,Projection scenario FA: fast-aging,15–24,3862.4
+2040,Projection scenario FA: fast-aging,25–44,9253.9
+2040,Projection scenario FA: fast-aging,45–64,8557.0
+2040,Projection scenario FA: fast-aging,65–74,3550.9
+2040,Projection scenario FA: fast-aging,75–84,3229.2
+2040,Projection scenario M2: medium-growth,0–14,4679.4
+2040,Projection scenario M2: medium-growth,15–24,4184.0
+2040,Projection scenario M2: medium-growth,25–44,10094.7
+2040,Projection scenario M2: medium-growth,45–64,8758.1
+2040,Projection scenario M2: medium-growth,65–74,3570.0
+2040,Projection scenario M2: medium-growth,75–84,3197.6
+2040,Projection scenario M3: medium-growth,0–14,4656.7
+2040,Projection scenario M3: medium-growth,15–24,4162.4
+2040,Projection scenario M3: medium-growth,25–44,10008.5
+2040,Projection scenario M3: medium-growth,45–64,8721.6
+2040,Projection scenario M3: medium-growth,65–74,3568.8
+2040,Projection scenario M3: medium-growth,75–84,3202.0
+2040,Projection scenario M4: medium-growth,0–14,4700.0
+2040,Projection scenario M4: medium-growth,15–24,4201.7
+2040,Projection scenario M4: medium-growth,25–44,10117.4
+2040,Projection scenario M4: medium-growth,45–64,8777.0
+2040,Projection scenario M4: medium-growth,65–74,3580.5
+2040,Projection scenario M4: medium-growth,75–84,3198.4
+2040,Projection scenario M5: medium-growth,0–14,4727.3
+2040,Projection scenario M5: medium-growth,15–24,4220.3
+2040,Projection scenario M5: medium-growth,25–44,10205.7
+2040,Projection scenario M5: medium-growth,45–64,8805.8
+2040,Projection scenario M5: medium-growth,65–74,3565.5
+2040,Projection scenario M5: medium-growth,75–84,3174.6
+2040,Projection scenario M6: medium-growth,0–14,4551.2
+2040,Projection scenario M6: medium-growth,15–24,4114.1
+2040,Projection scenario M6: medium-growth,25–44,9819.9
+2040,Projection scenario M6: medium-growth,45–64,8642.1
+2040,Projection scenario M6: medium-growth,65–74,3512.6
+2040,Projection scenario M6: medium-growth,75–84,3144.6
+2040,Projection scenario SA: slow-aging,0–14,5392.8
+2040,Projection scenario SA: slow-aging,15–24,4543.5
+2040,Projection scenario SA: slow-aging,25–44,10914.4
+2040,Projection scenario SA: slow-aging,45–64,8907.2
+2040,Projection scenario SA: slow-aging,65–74,3546.3
+2040,Projection scenario SA: slow-aging,75–84,3108.4
+2041,High-growth,0–14,5538.5
+2041,High-growth,15–24,4620.5
+2041,High-growth,25–44,11164.1
+2041,High-growth,45–64,9213.9
+2041,High-growth,65–74,3609.3
+2041,High-growth,75–84,3305.2
+2041,Low-growth,0–14,3887.3
+2041,Low-growth,15–24,3806.6
+2041,Low-growth,25–44,9118.5
+2041,Low-growth,45–64,8587.2
+2041,Low-growth,65–74,3444.1
+2041,Low-growth,75–84,3093.9
+2041,Medium-growth (reference),0–14,4650.6
+2041,Medium-growth (reference),15–24,4166.0
+2041,Medium-growth (reference),25–44,10048.1
+2041,Medium-growth (reference),45–64,8874.2
+2041,Medium-growth (reference),65–74,3523.2
+2041,Medium-growth (reference),75–84,3197.3
+2041,Projection scenario FA: fast-aging,0–14,3925.8
+2041,Projection scenario FA: fast-aging,15–24,3835.4
+2041,Projection scenario FA: fast-aging,25–44,9226.7
+2041,Projection scenario FA: fast-aging,45–64,8690.5
+2041,Projection scenario FA: fast-aging,65–74,3525.2
+2041,Projection scenario FA: fast-aging,75–84,3261.0
+2041,Projection scenario M2: medium-growth,0–14,4693.4
+2041,Projection scenario M2: medium-growth,15–24,4182.9
+2041,Projection scenario M2: medium-growth,25–44,10114.7
+2041,Projection scenario M2: medium-growth,45–64,8915.8
+2041,Projection scenario M2: medium-growth,65–74,3545.2
+2041,Projection scenario M2: medium-growth,75–84,3228.5
+2041,Projection scenario M3: medium-growth,0–14,4669.0
+2041,Projection scenario M3: medium-growth,15–24,4160.4
+2041,Projection scenario M3: medium-growth,25–44,10025.3
+2041,Projection scenario M3: medium-growth,45–64,8873.6
+2041,Projection scenario M3: medium-growth,65–74,3544.0
+2041,Projection scenario M3: medium-growth,75–84,3233.1
+2041,Projection scenario M4: medium-growth,0–14,4715.0
+2041,Projection scenario M4: medium-growth,15–24,4201.9
+2041,Projection scenario M4: medium-growth,25–44,10140.0
+2041,Projection scenario M4: medium-growth,45–64,8935.2
+2041,Projection scenario M4: medium-growth,65–74,3557.0
+2041,Projection scenario M4: medium-growth,75–84,3229.8
+2041,Projection scenario M5: medium-growth,0–14,4743.0
+2041,Projection scenario M5: medium-growth,15–24,4222.1
+2041,Projection scenario M5: medium-growth,25–44,10232.0
+2041,Projection scenario M5: medium-growth,45–64,8969.7
+2041,Projection scenario M5: medium-growth,65–74,3542.0
+2041,Projection scenario M5: medium-growth,75–84,3204.7
+2041,Projection scenario M6: medium-growth,0–14,4554.6
+2041,Projection scenario M6: medium-growth,15–24,4108.0
+2041,Projection scenario M6: medium-growth,25–44,9824.4
+2041,Projection scenario M6: medium-growth,45–64,8786.7
+2041,Projection scenario M6: medium-growth,65–74,3485.9
+2041,Projection scenario M6: medium-growth,75–84,3171.1
+2041,Projection scenario SA: slow-aging,0–14,5471.4
+2041,Projection scenario SA: slow-aging,15–24,4573.1
+2041,Projection scenario SA: slow-aging,25–44,10999.1
+2041,Projection scenario SA: slow-aging,45–64,9087.4
+2041,Projection scenario SA: slow-aging,65–74,3525.4
+2041,Projection scenario SA: slow-aging,75–84,3135.8
+2042,High-growth,0–14,5627.3
+2042,High-growth,15–24,4659.1
+2042,High-growth,25–44,11271.8
+2042,High-growth,45–64,9400.8
+2042,High-growth,65–74,3608.3
+2042,High-growth,75–84,3315.1
+2042,Low-growth,0–14,3856.6
+2042,Low-growth,15–24,3767.5
+2042,Low-growth,25–44,9096.2
+2042,Low-growth,45–64,8701.1
+2042,Low-growth,65–74,3431.5
+2042,Low-growth,75–84,3091.2
+2042,Medium-growth (reference),0–14,4672.5
+2042,Medium-growth (reference),15–24,4161.8
+2042,Medium-growth (reference),25–44,10083.1
+2042,Medium-growth (reference),45–64,9021.6
+2042,Medium-growth (reference),65–74,3515.8
+2042,Medium-growth (reference),75–84,3200.6
+2042,Projection scenario FA: fast-aging,0–14,3897.5
+2042,Projection scenario FA: fast-aging,15–24,3798.8
+2042,Projection scenario FA: fast-aging,25–44,9210.6
+2042,Projection scenario FA: fast-aging,45–64,8813.3
+2042,Projection scenario FA: fast-aging,65–74,3515.4
+2042,Projection scenario FA: fast-aging,75–84,3265.9
+2042,Projection scenario M2: medium-growth,0–14,4715.2
+2042,Projection scenario M2: medium-growth,15–24,4179.1
+2042,Projection scenario M2: medium-growth,25–44,10145.9
+2042,Projection scenario M2: medium-growth,45–64,9065.6
+2042,Projection scenario M2: medium-growth,65–74,3536.9
+2042,Projection scenario M2: medium-growth,75–84,3232.7
+2042,Projection scenario M3: medium-growth,0–14,4689.2
+2042,Projection scenario M3: medium-growth,15–24,4155.6
+2042,Projection scenario M3: medium-growth,25–44,10052.7
+2042,Projection scenario M3: medium-growth,45–64,9017.9
+2042,Projection scenario M3: medium-growth,65–74,3535.4
+2042,Projection scenario M3: medium-growth,75–84,3237.0
+2042,Projection scenario M4: medium-growth,0–14,4737.6
+2042,Projection scenario M4: medium-growth,15–24,4199.2
+2042,Projection scenario M4: medium-growth,25–44,10173.4
+2042,Projection scenario M4: medium-growth,45–64,9085.8
+2042,Projection scenario M4: medium-growth,65–74,3550.0
+2042,Projection scenario M4: medium-growth,75–84,3234.6
+2042,Projection scenario M5: medium-growth,0–14,4766.9
+2042,Projection scenario M5: medium-growth,15–24,4221.0
+2042,Projection scenario M5: medium-growth,25–44,10269.3
+2042,Projection scenario M5: medium-growth,45–64,9125.7
+2042,Projection scenario M5: medium-growth,65–74,3534.7
+2042,Projection scenario M5: medium-growth,75–84,3208.4
+2042,Projection scenario M6: medium-growth,0–14,4565.8
+2042,Projection scenario M6: medium-growth,15–24,4098.8
+2042,Projection scenario M6: medium-growth,25–44,9839.7
+2042,Projection scenario M6: medium-growth,45–64,8922.2
+2042,Projection scenario M6: medium-growth,65–74,3475.2
+2042,Projection scenario M6: medium-growth,75–84,3171.7
+2042,Projection scenario SA: slow-aging,0–14,5554.3
+2042,Projection scenario SA: slow-aging,15–24,4607.0
+2042,Projection scenario SA: slow-aging,25–44,11094.7
+2042,Projection scenario SA: slow-aging,45–64,9262.2
+2042,Projection scenario SA: slow-aging,65–74,3520.8
+2042,Projection scenario SA: slow-aging,75–84,3138.0
+2043,High-growth,0–14,5721.5
+2043,High-growth,15–24,4702.1
+2043,High-growth,25–44,11386.5
+2043,High-growth,45–64,9582.0
+2043,High-growth,65–74,3611.8
+2043,High-growth,75–84,3318.1
+2043,Low-growth,0–14,3834.8
+2043,Low-growth,15–24,3723.2
+2043,Low-growth,25–44,9081.0
+2043,Low-growth,45–64,8802.8
+2043,Low-growth,65–74,3422.7
+2043,Low-growth,75–84,3082.5
+2043,Medium-growth (reference),0–14,4701.2
+2043,Medium-growth (reference),15–24,4156.7
+2043,Medium-growth (reference),25–44,10124.7
+2043,Medium-growth (reference),45–64,9159.5
+2043,Medium-growth (reference),65–74,3512.8
+2043,Medium-growth (reference),75–84,3197.2999999999997
+2043,Projection scenario FA: fast-aging,0–14,3878.7000000000003
+2043,Projection scenario FA: fast-aging,15–24,3756.7999999999997
+2043,Projection scenario FA: fast-aging,25–44,9202.0
+2043,Projection scenario FA: fast-aging,45–64,8923.7
+2043,Projection scenario FA: fast-aging,65–74,3509.7000000000003
+2043,Projection scenario FA: fast-aging,75–84,3263.4
+2043,Projection scenario M2: medium-growth,0–14,4743.2
+2043,Projection scenario M2: medium-growth,15–24,4174.4
+2043,Projection scenario M2: medium-growth,25–44,10183.5
+2043,Projection scenario M2: medium-growth,45–64,9205.6
+2043,Projection scenario M2: medium-growth,65–74,3533.0
+2043,Projection scenario M2: medium-growth,75–84,3229.9
+2043,Projection scenario M3: medium-growth,0–14,4715.8
+2043,Projection scenario M3: medium-growth,15–24,4150.0
+2043,Projection scenario M3: medium-growth,25–44,10086.7
+2043,Projection scenario M3: medium-growth,45–64,9152.7
+2043,Projection scenario M3: medium-growth,65–74,3531.4
+2043,Projection scenario M3: medium-growth,75–84,3234.3
+2043,Projection scenario M4: medium-growth,0–14,4766.8
+2043,Projection scenario M4: medium-growth,15–24,4195.6
+2043,Projection scenario M4: medium-growth,25–44,10213.5
+2043,Projection scenario M4: medium-growth,45–64,9226.7
+2043,Projection scenario M4: medium-growth,65–74,3547.3
+2043,Projection scenario M4: medium-growth,75–84,3232.6
+2043,Projection scenario M5: medium-growth,0–14,4797.1
+2043,Projection scenario M5: medium-growth,15–24,4219.0
+2043,Projection scenario M5: medium-growth,25–44,10313.5
+2043,Projection scenario M5: medium-growth,45–64,9272.8
+2043,Projection scenario M5: medium-growth,65–74,3532.1
+2043,Projection scenario M5: medium-growth,75–84,3205.6
+2043,Projection scenario M6: medium-growth,0–14,4583.4
+2043,Projection scenario M6: medium-growth,15–24,4088.6
+2043,Projection scenario M6: medium-growth,25–44,9861.9
+2043,Projection scenario M6: medium-growth,45–64,9047.9
+2043,Projection scenario M6: medium-growth,65–74,3469.0
+2043,Projection scenario M6: medium-growth,75–84,3165.6
+2043,Projection scenario SA: slow-aging,0–14,5641.8
+2043,Projection scenario SA: slow-aging,15–24,4645.2
+2043,Projection scenario SA: slow-aging,25–44,11197.2
+2043,Projection scenario SA: slow-aging,45–64,9431.1
+2043,Projection scenario SA: slow-aging,65–74,3520.8
+2043,Projection scenario SA: slow-aging,75–84,3134.3
+2044,High-growth,0–14,5819.400000000001
+2044,High-growth,15–24,4751.3
+2044,High-growth,25–44,11513.1
+2044,High-growth,45–64,9749.4
+2044,High-growth,65–74,3617.7
+2044,High-growth,75–84,3320.0
+2044,Low-growth,0–14,3819.2
+2044,Low-growth,15–24,3677.2000000000003
+2044,Low-growth,25–44,9077.5
+2044,Low-growth,45–64,8883.8
+2044,Low-growth,65–74,3416.2
+2044,Low-growth,75–84,3072.8
+2044,Medium-growth (reference),0–14,4734.8
+2044,Medium-growth (reference),15–24,4153.3
+2044,Medium-growth (reference),25–44,10177.5
+2044,Medium-growth (reference),45–64,9280.1
+2044,Medium-growth (reference),65–74,3511.6
+2044,Medium-growth (reference),75–84,3192.8
+2044,Projection scenario FA: fast-aging,0–14,3865.8999999999996
+2044,Projection scenario FA: fast-aging,15–24,3713.2
+2044,Projection scenario FA: fast-aging,25–44,9205.1
+2044,Projection scenario FA: fast-aging,45–64,9013.9
+2044,Projection scenario FA: fast-aging,65–74,3505.8
+2044,Projection scenario FA: fast-aging,75–84,3259.4
+2044,Projection scenario M2: medium-growth,0–14,4776.0
+2044,Projection scenario M2: medium-growth,15–24,4171.8
+2044,Projection scenario M2: medium-growth,25–44,10232.7
+2044,Projection scenario M2: medium-growth,45–64,9327.9
+2044,Projection scenario M2: medium-growth,65–74,3531.4
+2044,Projection scenario M2: medium-growth,75–84,3225.9
+2044,Projection scenario M3: medium-growth,0–14,4747.0
+2044,Projection scenario M3: medium-growth,15–24,4146.2
+2044,Projection scenario M3: medium-growth,25–44,10131.8
+2044,Projection scenario M3: medium-growth,45–64,9270.5
+2044,Projection scenario M3: medium-growth,65–74,3529.2
+2044,Projection scenario M3: medium-growth,75–84,3230.2
+2044,Projection scenario M4: medium-growth,0–14,4800.8
+2044,Projection scenario M4: medium-growth,15–24,4194.0
+2044,Projection scenario M4: medium-growth,25–44,10264.8
+2044,Projection scenario M4: medium-growth,45–64,9350.3
+2044,Projection scenario M4: medium-growth,65–74,3546.8
+2044,Projection scenario M4: medium-growth,75–84,3229.2
+2044,Projection scenario M5: medium-growth,0–14,4831.9
+2044,Projection scenario M5: medium-growth,15–24,4219.0
+2044,Projection scenario M5: medium-growth,25–44,10368.6
+2044,Projection scenario M5: medium-growth,45–64,9402.5
+2044,Projection scenario M5: medium-growth,65–74,3531.4
+2044,Projection scenario M5: medium-growth,75–84,3201.9
+2044,Projection scenario M6: medium-growth,0–14,4605.6
+2044,Projection scenario M6: medium-growth,15–24,4080.1
+2044,Projection scenario M6: medium-growth,25–44,9896.0
+2044,Projection scenario M6: medium-growth,45–64,9155.7
+2044,Projection scenario M6: medium-growth,65–74,3464.8
+2044,Projection scenario M6: medium-growth,75–84,3158.3
+2044,Projection scenario SA: slow-aging,0–14,5732.9
+2044,Projection scenario SA: slow-aging,15–24,4689.3
+2044,Projection scenario SA: slow-aging,25–44,11310.7
+2044,Projection scenario SA: slow-aging,45–64,9585.4
+2044,Projection scenario SA: slow-aging,65–74,3523.4
+2044,Projection scenario SA: slow-aging,75–84,3130.2
+2045,High-growth,0–14,5920.8
+2045,High-growth,15–24,4808.2
+2045,High-growth,25–44,11642.7
+2045,High-growth,45–64,9906.8
+2045,High-growth,65–74,3630.4
+2045,High-growth,75–84,3316.4
+2045,Low-growth,0–14,3808.6
+2045,Low-growth,15–24,3631.4
+2045,Low-growth,25–44,9077.2
+2045,Low-growth,45–64,8948.8
+2045,Low-growth,65–74,3415.6
+2045,Low-growth,75–84,3058.8
+2045,Medium-growth (reference),0–14,4771.8
+2045,Medium-growth (reference),15–24,4153.5
+2045,Medium-growth (reference),25–44,10233.1
+2045,Medium-growth (reference),45–64,9386.9
+2045,Medium-growth (reference),65–74,3517.0
+2045,Medium-growth (reference),75–84,3183.4
+2045,Projection scenario FA: fast-aging,0–14,3858.1
+2045,Projection scenario FA: fast-aging,15–24,3670.0
+2045,Projection scenario FA: fast-aging,25–44,9211.5
+2045,Projection scenario FA: fast-aging,45–64,9087.6
+2045,Projection scenario FA: fast-aging,65–74,3507.8
+2045,Projection scenario FA: fast-aging,75–84,3249.9
+2045,Projection scenario M2: medium-growth,0–14,4812.1
+2045,Projection scenario M2: medium-growth,15–24,4172.799999999999
+2045,Projection scenario M2: medium-growth,25–44,10284.2
+2045,Projection scenario M2: medium-growth,45–64,9436.6
+2045,Projection scenario M2: medium-growth,65–74,3536.1
+2045,Projection scenario M2: medium-growth,75–84,3216.4
+2045,Projection scenario M3: medium-growth,0–14,4781.3
+2045,Projection scenario M3: medium-growth,15–24,4146.2
+2045,Projection scenario M3: medium-growth,25–44,10179.4
+2045,Projection scenario M3: medium-growth,45–64,9374.8
+2045,Projection scenario M3: medium-growth,65–74,3533.5
+2045,Projection scenario M3: medium-growth,75–84,3220.8
+2045,Projection scenario M4: medium-growth,0–14,4837.9
+2045,Projection scenario M4: medium-growth,15–24,4196.5
+2045,Projection scenario M4: medium-growth,25–44,10318.1
+2045,Projection scenario M4: medium-growth,45–64,9460.7
+2045,Projection scenario M4: medium-growth,65–74,3552.6
+2045,Projection scenario M4: medium-growth,75–84,3220.8
+2045,Projection scenario M5: medium-growth,0–14,4870.3
+2045,Projection scenario M5: medium-growth,15–24,4222.6
+2045,Projection scenario M5: medium-growth,25–44,10425.8
+2045,Projection scenario M5: medium-growth,45–64,9518.9
+2045,Projection scenario M5: medium-growth,65–74,3537.3
+2045,Projection scenario M5: medium-growth,75–84,3193.1
+2045,Projection scenario M6: medium-growth,0–14,4631.5
+2045,Projection scenario M6: medium-growth,15–24,4074.6000000000004
+2045,Projection scenario M6: medium-growth,25–44,9932.6
+2045,Projection scenario M6: medium-growth,45–64,9249.5
+2045,Projection scenario M6: medium-growth,65–74,3466.9
+2045,Projection scenario M6: medium-growth,75–84,3146.1
+2045,Projection scenario SA: slow-aging,0–14,5827.5
+2045,Projection scenario SA: slow-aging,15–24,4740.9
+2045,Projection scenario SA: slow-aging,25–44,11427.4
+2045,Projection scenario SA: slow-aging,45–64,9729.8
+2045,Projection scenario SA: slow-aging,65–74,3532.8
+2045,Projection scenario SA: slow-aging,75–84,3121.7
+2046,High-growth,0–14,6025.2
+2046,High-growth,15–24,4874.700000000001
+2046,High-growth,25–44,11781.5
+2046,High-growth,45–64,10047.0
+2046,High-growth,65–74,3649.9
+2046,High-growth,75–84,3309.4
+2046,Low-growth,0–14,3801.6
+2046,Low-growth,15–24,3588.7
+2046,Low-growth,25–44,9085.2
+2046,Low-growth,45–64,8991.1
+2046,Low-growth,65–74,3421.3
+2046,Low-growth,75–84,3041.9
+2046,Medium-growth (reference),0–14,4812.3
+2046,Medium-growth (reference),15–24,4159.5
+2046,Medium-growth (reference),25–44,10296.6
+2046,Medium-growth (reference),45–64,9473.7
+2046,Medium-growth (reference),65–74,3529.0
+2046,Medium-growth (reference),75–84,3171.2
+2046,Projection scenario FA: fast-aging,0–14,3853.9
+2046,Projection scenario FA: fast-aging,15–24,3629.6000000000004
+2046,Projection scenario FA: fast-aging,25–44,9226.3
+2046,Projection scenario FA: fast-aging,45–64,9138.6
+2046,Projection scenario FA: fast-aging,65–74,3515.9
+2046,Projection scenario FA: fast-aging,75–84,3236.3
+2046,Projection scenario M2: medium-growth,0–14,4851.0
+2046,Projection scenario M2: medium-growth,15–24,4179.8
+2046,Projection scenario M2: medium-growth,25–44,10344.0
+2046,Projection scenario M2: medium-growth,45–64,9525.300000000001
+2046,Projection scenario M2: medium-growth,65–74,3547.9
+2046,Projection scenario M2: medium-growth,75–84,3203.7
+2046,Projection scenario M3: medium-growth,0–14,4818.9
+2046,Projection scenario M3: medium-growth,15–24,4152.0
+2046,Projection scenario M3: medium-growth,25–44,10235.1
+2046,Projection scenario M3: medium-growth,45–64,9458.0
+2046,Projection scenario M3: medium-growth,65–74,3544.7
+2046,Projection scenario M3: medium-growth,75–84,3207.8
+2046,Projection scenario M4: medium-growth,0–14,4878.1
+2046,Projection scenario M4: medium-growth,15–24,4204.6
+2046,Projection scenario M4: medium-growth,25–44,10379.8
+2046,Projection scenario M4: medium-growth,45–64,9550.7
+2046,Projection scenario M4: medium-growth,65–74,3565.4
+2046,Projection scenario M4: medium-growth,75–84,3208.9
+2046,Projection scenario M5: medium-growth,0–14,4911.7
+2046,Projection scenario M5: medium-growth,15–24,4232.3
+2046,Projection scenario M5: medium-growth,25–44,10491.8
+2046,Projection scenario M5: medium-growth,45–64,9615.1
+2046,Projection scenario M5: medium-growth,65–74,3550.0
+2046,Projection scenario M5: medium-growth,75–84,3181.0
+2046,Projection scenario M6: medium-growth,0–14,4660.5
+2046,Projection scenario M6: medium-growth,15–24,4074.4
+2046,Projection scenario M6: medium-growth,25–44,9978.1
+2046,Projection scenario M6: medium-growth,45–64,9323.3
+2046,Projection scenario M6: medium-growth,65–74,3475.7
+2046,Projection scenario M6: medium-growth,75–84,3130.6
+2046,Projection scenario SA: slow-aging,0–14,5925.0
+2046,Projection scenario SA: slow-aging,15–24,4801.6
+2046,Projection scenario SA: slow-aging,25–44,11552.9
+2046,Projection scenario SA: slow-aging,45–64,9857.0
+2046,Projection scenario SA: slow-aging,65–74,3549.2
+2046,Projection scenario SA: slow-aging,75–84,3110.8
+2047,High-growth,0–14,6132.6
+2047,High-growth,15–24,4941.5
+2047,High-growth,25–44,11922.6
+2047,High-growth,45–64,10192.0
+2047,High-growth,65–74,3687.0
+2047,High-growth,75–84,3290.5
+2047,Low-growth,0–14,3797.6
+2047,Low-growth,15–24,3540.2999999999997
+2047,Low-growth,25–44,9094.699999999999
+2047,Low-growth,45–64,9031.7
+2047,Low-growth,65–74,3442.9
+2047,Low-growth,75–84,3013.9
+2047,Medium-growth (reference),0–14,4855.3
+2047,Medium-growth (reference),15–24,4162.3
+2047,Medium-growth (reference),25–44,10361.6
+2047,Medium-growth (reference),45–64,9562.1
+2047,Medium-growth (reference),65–74,3557.6
+2047,Medium-growth (reference),75–84,3147.2
+2047,Projection scenario FA: fast-aging,0–14,3852.7
+2047,Projection scenario FA: fast-aging,15–24,3583.9
+2047,Projection scenario FA: fast-aging,25–44,9242.5
+2047,Projection scenario FA: fast-aging,45–64,9188.0
+2047,Projection scenario FA: fast-aging,65–74,3540.6
+2047,Projection scenario FA: fast-aging,75–84,3210.7
+2047,Projection scenario M2: medium-growth,0–14,4892.3
+2047,Projection scenario M2: medium-growth,15–24,4183.6
+2047,Projection scenario M2: medium-growth,25–44,10405.1
+2047,Projection scenario M2: medium-growth,45–64,9614.9
+2047,Projection scenario M2: medium-growth,65–74,3576.6
+2047,Projection scenario M2: medium-growth,75–84,3179.2
+2047,Projection scenario M3: medium-growth,0–14,4858.4
+2047,Projection scenario M3: medium-growth,15–24,4154.8
+2047,Projection scenario M3: medium-growth,25–44,10292.1
+2047,Projection scenario M3: medium-growth,45–64,9542.8
+2047,Projection scenario M3: medium-growth,65–74,3572.9
+2047,Projection scenario M3: medium-growth,75–84,3183.1
+2047,Projection scenario M4: medium-growth,0–14,4920.7
+2047,Projection scenario M4: medium-growth,15–24,4209.7
+2047,Projection scenario M4: medium-growth,25–44,10442.7
+2047,Projection scenario M4: medium-growth,45–64,9641.8
+2047,Projection scenario M4: medium-growth,65–74,3594.8
+2047,Projection scenario M4: medium-growth,75–84,3185.4
+2047,Projection scenario M5: medium-growth,0–14,4955.5
+2047,Projection scenario M5: medium-growth,15–24,4238.4
+2047,Projection scenario M5: medium-growth,25–44,10558.9
+2047,Projection scenario M5: medium-growth,45–64,9712.5
+2047,Projection scenario M5: medium-growth,65–74,3579.8
+2047,Projection scenario M5: medium-growth,75–84,3157.5
+2047,Projection scenario M6: medium-growth,0–14,4692.1
+2047,Projection scenario M6: medium-growth,15–24,4070.8999999999996
+2047,Projection scenario M6: medium-growth,25–44,10025.0
+2047,Projection scenario M6: medium-growth,45–64,9396.8
+2047,Projection scenario M6: medium-growth,65–74,3500.9
+2047,Projection scenario M6: medium-growth,75–84,3103.9
+2047,Projection scenario SA: slow-aging,0–14,6024.9
+2047,Projection scenario SA: slow-aging,15–24,4862.8
+2047,Projection scenario SA: slow-aging,25–44,11680.6
+2047,Projection scenario SA: slow-aging,45–64,9988.5
+2047,Projection scenario SA: slow-aging,65–74,3582.3
+2047,Projection scenario SA: slow-aging,75–84,3089.0
+2048,High-growth,0–14,6241.7
+2048,High-growth,15–24,5020.8
+2048,High-growth,25–44,12049.3
+2048,High-growth,45–64,10340.0
+2048,High-growth,65–74,3741.9
+2048,High-growth,75–84,3257.8
+2048,Low-growth,0–14,3796.0
+2048,Low-growth,15–24,3498.1
+2048,Low-growth,25–44,9088.9
+2048,Low-growth,45–64,9069.6
+2048,Low-growth,65–74,3480.8
+2048,Low-growth,75–84,2973.2
+2048,Medium-growth (reference),0–14,4899.8
+2048,Medium-growth (reference),15–24,4173.7
+2048,Medium-growth (reference),25–44,10411.5
+2048,Medium-growth (reference),45–64,9649.8
+2048,Medium-growth (reference),65–74,3603.2
+2048,Medium-growth (reference),75–84,3109.9
+2048,Projection scenario FA: fast-aging,0–14,3853.9
+2048,Projection scenario FA: fast-aging,15–24,3544.4
+2048,Projection scenario FA: fast-aging,25–44,9243.0
+2048,Projection scenario FA: fast-aging,45–64,9234.8
+2048,Projection scenario FA: fast-aging,65–74,3582.1
+2048,Projection scenario FA: fast-aging,75–84,3170.7
+2048,Projection scenario M2: medium-growth,0–14,4935.2
+2048,Projection scenario M2: medium-growth,15–24,4196.3
+2048,Projection scenario M2: medium-growth,25–44,10449.8
+2048,Projection scenario M2: medium-growth,45–64,9704.9
+2048,Projection scenario M2: medium-growth,65–74,3622.7
+2048,Projection scenario M2: medium-growth,75–84,3141.0
+2048,Projection scenario M3: medium-growth,0–14,4900.0
+2048,Projection scenario M3: medium-growth,15–24,4166.299999999999
+2048,Projection scenario M3: medium-growth,25–44,10333.6
+2048,Projection scenario M3: medium-growth,45–64,9627.2
+2048,Projection scenario M3: medium-growth,65–74,3618.4
+2048,Projection scenario M3: medium-growth,75–84,3144.9
+2048,Projection scenario M4: medium-growth,0–14,4965.2
+2048,Projection scenario M4: medium-growth,15–24,4223.6
+2048,Projection scenario M4: medium-growth,25–44,10489.8
+2048,Projection scenario M4: medium-growth,45–64,9733.3
+2048,Projection scenario M4: medium-growth,65–74,3641.7000000000003
+2048,Projection scenario M4: medium-growth,75–84,3148.3
+2048,Projection scenario M5: medium-growth,0–14,5001.2
+2048,Projection scenario M5: medium-growth,15–24,4253.6
+2048,Projection scenario M5: medium-growth,25–44,10609.5
+2048,Projection scenario M5: medium-growth,45–64,9810.0
+2048,Projection scenario M5: medium-growth,65–74,3626.7
+2048,Projection scenario M5: medium-growth,75–84,3120.4
+2048,Projection scenario M6: medium-growth,0–14,4725.7
+2048,Projection scenario M6: medium-growth,15–24,4075.4
+2048,Projection scenario M6: medium-growth,25–44,10057.6
+2048,Projection scenario M6: medium-growth,45–64,9469.3
+2048,Projection scenario M6: medium-growth,65–74,3542.8
+2048,Projection scenario M6: medium-growth,75–84,3064.1
+2048,Projection scenario SA: slow-aging,0–14,6126.7
+2048,Projection scenario SA: slow-aging,15–24,4936.0
+2048,Projection scenario SA: slow-aging,25–44,11793.6
+2048,Projection scenario SA: slow-aging,45–64,10122.2
+2048,Projection scenario SA: slow-aging,65–74,3632.9
+2048,Projection scenario SA: slow-aging,75–84,3054.8
+2049,High-growth,0–14,6352.1
+2049,High-growth,15–24,5094.7
+2049,High-growth,25–44,12180.3
+2049,High-growth,45–64,10493.3
+2049,High-growth,65–74,3806.4
+2049,High-growth,75–84,3225.9
+2049,Low-growth,0–14,3796.1
+2049,Low-growth,15–24,3444.9
+2049,Low-growth,25–44,9086.2
+2049,Low-growth,45–64,9107.5
+2049,Low-growth,65–74,3526.8
+2049,Low-growth,75–84,2933.6
+2049,Medium-growth (reference),0–14,4945.6
+2049,Medium-growth (reference),15–24,4176.3
+2049,Medium-growth (reference),25–44,10464.0
+2049,Medium-growth (reference),45–64,9740.5
+2049,Medium-growth (reference),65–74,3657.4
+2049,Medium-growth (reference),75–84,3073.7
+2049,Projection scenario FA: fast-aging,0–14,3856.7
+2049,Projection scenario FA: fast-aging,15–24,3493.6000000000004
+2049,Projection scenario FA: fast-aging,25–44,9246.2
+2049,Projection scenario FA: fast-aging,45–64,9281.9
+2049,Projection scenario FA: fast-aging,65–74,3631.7
+2049,Projection scenario FA: fast-aging,75–84,3131.3
+2049,Projection scenario M2: medium-growth,0–14,4978.900000000001
+2049,Projection scenario M2: medium-growth,15–24,4199.5
+2049,Projection scenario M2: medium-growth,25–44,10497.0
+2049,Projection scenario M2: medium-growth,45–64,9798.3
+2049,Projection scenario M2: medium-growth,65–74,3677.8
+2049,Projection scenario M2: medium-growth,75–84,3103.8
+2049,Projection scenario M3: medium-growth,0–14,4942.2
+2049,Projection scenario M3: medium-growth,15–24,4168.4
+2049,Projection scenario M3: medium-growth,25–44,10377.8
+2049,Projection scenario M3: medium-growth,45–64,9714.2
+2049,Projection scenario M3: medium-growth,65–74,3672.8
+2049,Projection scenario M3: medium-growth,75–84,3107.8
+2049,Projection scenario M4: medium-growth,0–14,5010.0
+2049,Projection scenario M4: medium-growth,15–24,4227.9
+2049,Projection scenario M4: medium-growth,25–44,10539.2
+2049,Projection scenario M4: medium-growth,45–64,9828.4
+2049,Projection scenario M4: medium-growth,65–74,3697.2
+2049,Projection scenario M4: medium-growth,75–84,3112.2
+2049,Projection scenario M5: medium-growth,0–14,5047.7
+2049,Projection scenario M5: medium-growth,15–24,4259.0
+2049,Projection scenario M5: medium-growth,25–44,10663.5
+2049,Projection scenario M5: medium-growth,45–64,9911.2
+2049,Projection scenario M5: medium-growth,65–74,3682.8
+2049,Projection scenario M5: medium-growth,75–84,3084.5
+2049,Projection scenario M6: medium-growth,0–14,4760.0
+2049,Projection scenario M6: medium-growth,15–24,4071.2000000000003
+2049,Projection scenario M6: medium-growth,25–44,10093.4
+2049,Projection scenario M6: medium-growth,45–64,9543.2
+2049,Projection scenario M6: medium-growth,65–74,3593.0
+2049,Projection scenario M6: medium-growth,75–84,3025.4
+2049,Projection scenario SA: slow-aging,0–14,6229.4
+2049,Projection scenario SA: slow-aging,15–24,5003.5
+2049,Projection scenario SA: slow-aging,25–44,11911.2
+2049,Projection scenario SA: slow-aging,45–64,10261.2
+2049,Projection scenario SA: slow-aging,65–74,3692.6
+2049,Projection scenario SA: slow-aging,75–84,3022.2
+2050,High-growth,0–14,6462.6
+2050,High-growth,15–24,5168.5
+2050,High-growth,25–44,12319.0
+2050,High-growth,45–64,10641.0
+2050,High-growth,65–74,3877.2
+2050,High-growth,75–84,3206.9
+2050,Low-growth,0–14,3797.2
+2050,Low-growth,15–24,3385.7
+2050,Low-growth,25–44,9088.0
+2050,Low-growth,45–64,9135.3
+2050,Low-growth,65–74,3577.6
+2050,Low-growth,75–84,2906.4
+2050,Medium-growth (reference),0–14,4991.2
+2050,Medium-growth (reference),15–24,4175.5
+2050,Medium-growth (reference),25–44,10522.3
+2050,Medium-growth (reference),45–64,9822.7
+2050,Medium-growth (reference),65–74,3717.2
+2050,Medium-growth (reference),75–84,3050.2
+2050,Projection scenario FA: fast-aging,0–14,3860.6
+2050,Projection scenario FA: fast-aging,15–24,3436.8
+2050,Projection scenario FA: fast-aging,25–44,9254.7
+2050,Projection scenario FA: fast-aging,45–64,9318.7
+2050,Projection scenario FA: fast-aging,65–74,3686.6
+2050,Projection scenario FA: fast-aging,75–84,3104.7
+2050,Projection scenario M2: medium-growth,0–14,5022.4
+2050,Projection scenario M2: medium-growth,15–24,4199.2
+2050,Projection scenario M2: medium-growth,25–44,10550.5
+2050,Projection scenario M2: medium-growth,45–64,9882.8
+2050,Projection scenario M2: medium-growth,65–74,3738.6
+2050,Projection scenario M2: medium-growth,75–84,3079.4
+2050,Projection scenario M3: medium-growth,0–14,4984.2
+2050,Projection scenario M3: medium-growth,15–24,4166.799999999999
+2050,Projection scenario M3: medium-growth,25–44,10428.6
+2050,Projection scenario M3: medium-growth,45–64,9792.6
+2050,Projection scenario M3: medium-growth,65–74,3732.9
+2050,Projection scenario M3: medium-growth,75–84,3083.0
+2050,Projection scenario M4: medium-growth,0–14,5055.2
+2050,Projection scenario M4: medium-growth,15–24,4228.1
+2050,Projection scenario M4: medium-growth,25–44,10595.6
+2050,Projection scenario M4: medium-growth,45–64,9914.3
+2050,Projection scenario M4: medium-growth,65–74,3758.6
+2050,Projection scenario M4: medium-growth,75–84,3088.6
+2050,Projection scenario M5: medium-growth,0–14,5094.1
+2050,Projection scenario M5: medium-growth,15–24,4260.0
+2050,Projection scenario M5: medium-growth,25–44,10724.0
+2050,Projection scenario M5: medium-growth,45–64,10003.4
+2050,Projection scenario M5: medium-growth,65–74,3744.6
+2050,Projection scenario M5: medium-growth,75–84,3061.0
+2050,Projection scenario M6: medium-growth,0–14,4794.6
+2050,Projection scenario M6: medium-growth,15–24,4063.6
+2050,Projection scenario M6: medium-growth,25–44,10135.4
+2050,Projection scenario M6: medium-growth,45–64,9608.2
+2050,Projection scenario M6: medium-growth,65–74,3648.8
+2050,Projection scenario M6: medium-growth,75–84,2999.0
+2050,Projection scenario SA: slow-aging,0–14,6332.3
+2050,Projection scenario SA: slow-aging,15–24,5070.6
+2050,Projection scenario SA: slow-aging,25–44,12035.9
+2050,Projection scenario SA: slow-aging,45–64,10394.3
+2050,Projection scenario SA: slow-aging,65–74,3758.4
+2050,Projection scenario SA: slow-aging,75–84,3002.2
+2051,High-growth,0–14,0.0
+2051,High-growth,15–24,0.0
+2051,High-growth,25–44,0.0
+2051,High-growth,45–64,0.0
+2051,High-growth,65–74,0.0
+2051,High-growth,75–84,0.0
+2051,Low-growth,0–14,0.0
+2051,Low-growth,15–24,0.0
+2051,Low-growth,25–44,0.0
+2051,Low-growth,45–64,0.0
+2051,Low-growth,65–74,0.0
+2051,Low-growth,75–84,0.0
+2051,Medium-growth (reference),0–14,0.0
+2051,Medium-growth (reference),15–24,0.0
+2051,Medium-growth (reference),25–44,0.0
+2051,Medium-growth (reference),45–64,0.0
+2051,Medium-growth (reference),65–74,0.0
+2051,Medium-growth (reference),75–84,0.0
+2051,Projection scenario M2: medium-growth,0–14,0.0
+2051,Projection scenario M2: medium-growth,15–24,0.0
+2051,Projection scenario M2: medium-growth,25–44,0.0
+2051,Projection scenario M2: medium-growth,45–64,0.0
+2051,Projection scenario M2: medium-growth,65–74,0.0
+2051,Projection scenario M2: medium-growth,75–84,0.0
+2051,Projection scenario M3: medium-growth,0–14,0.0
+2051,Projection scenario M3: medium-growth,15–24,0.0
+2051,Projection scenario M3: medium-growth,25–44,0.0
+2051,Projection scenario M3: medium-growth,45–64,0.0
+2051,Projection scenario M3: medium-growth,65–74,0.0
+2051,Projection scenario M3: medium-growth,75–84,0.0
+2051,Projection scenario M4: medium-growth,0–14,0.0
+2051,Projection scenario M4: medium-growth,15–24,0.0
+2051,Projection scenario M4: medium-growth,25–44,0.0
+2051,Projection scenario M4: medium-growth,45–64,0.0
+2051,Projection scenario M4: medium-growth,65–74,0.0
+2051,Projection scenario M4: medium-growth,75–84,0.0
+2051,Projection scenario M5: medium-growth,0–14,0.0
+2051,Projection scenario M5: medium-growth,15–24,0.0
+2051,Projection scenario M5: medium-growth,25–44,0.0
+2051,Projection scenario M5: medium-growth,45–64,0.0
+2051,Projection scenario M5: medium-growth,65–74,0.0
+2051,Projection scenario M5: medium-growth,75–84,0.0
+2052,High-growth,0–14,0.0
+2052,High-growth,15–24,0.0
+2052,High-growth,25–44,0.0
+2052,High-growth,45–64,0.0
+2052,High-growth,65–74,0.0
+2052,High-growth,75–84,0.0
+2052,Low-growth,0–14,0.0
+2052,Low-growth,15–24,0.0
+2052,Low-growth,25–44,0.0
+2052,Low-growth,45–64,0.0
+2052,Low-growth,65–74,0.0
+2052,Low-growth,75–84,0.0
+2052,Medium-growth (reference),0–14,0.0
+2052,Medium-growth (reference),15–24,0.0
+2052,Medium-growth (reference),25–44,0.0
+2052,Medium-growth (reference),45–64,0.0
+2052,Medium-growth (reference),65–74,0.0
+2052,Medium-growth (reference),75–84,0.0
+2052,Projection scenario M2: medium-growth,0–14,0.0
+2052,Projection scenario M2: medium-growth,15–24,0.0
+2052,Projection scenario M2: medium-growth,25–44,0.0
+2052,Projection scenario M2: medium-growth,45–64,0.0
+2052,Projection scenario M2: medium-growth,65–74,0.0
+2052,Projection scenario M2: medium-growth,75–84,0.0
+2052,Projection scenario M3: medium-growth,0–14,0.0
+2052,Projection scenario M3: medium-growth,15–24,0.0
+2052,Projection scenario M3: medium-growth,25–44,0.0
+2052,Projection scenario M3: medium-growth,45–64,0.0
+2052,Projection scenario M3: medium-growth,65–74,0.0
+2052,Projection scenario M3: medium-growth,75–84,0.0
+2052,Projection scenario M4: medium-growth,0–14,0.0
+2052,Projection scenario M4: medium-growth,15–24,0.0
+2052,Projection scenario M4: medium-growth,25–44,0.0
+2052,Projection scenario M4: medium-growth,45–64,0.0
+2052,Projection scenario M4: medium-growth,65–74,0.0
+2052,Projection scenario M4: medium-growth,75–84,0.0
+2052,Projection scenario M5: medium-growth,0–14,0.0
+2052,Projection scenario M5: medium-growth,15–24,0.0
+2052,Projection scenario M5: medium-growth,25–44,0.0
+2052,Projection scenario M5: medium-growth,45–64,0.0
+2052,Projection scenario M5: medium-growth,65–74,0.0
+2052,Projection scenario M5: medium-growth,75–84,0.0
+2053,High-growth,0–14,0.0
+2053,High-growth,15–24,0.0
+2053,High-growth,25–44,0.0
+2053,High-growth,45–64,0.0
+2053,High-growth,65–74,0.0
+2053,High-growth,75–84,0.0
+2053,Low-growth,0–14,0.0
+2053,Low-growth,15–24,0.0
+2053,Low-growth,25–44,0.0
+2053,Low-growth,45–64,0.0
+2053,Low-growth,65–74,0.0
+2053,Low-growth,75–84,0.0
+2053,Medium-growth (reference),0–14,0.0
+2053,Medium-growth (reference),15–24,0.0
+2053,Medium-growth (reference),25–44,0.0
+2053,Medium-growth (reference),45–64,0.0
+2053,Medium-growth (reference),65–74,0.0
+2053,Medium-growth (reference),75–84,0.0
+2053,Projection scenario M2: medium-growth,0–14,0.0
+2053,Projection scenario M2: medium-growth,15–24,0.0
+2053,Projection scenario M2: medium-growth,25–44,0.0
+2053,Projection scenario M2: medium-growth,45–64,0.0
+2053,Projection scenario M2: medium-growth,65–74,0.0
+2053,Projection scenario M2: medium-growth,75–84,0.0
+2053,Projection scenario M3: medium-growth,0–14,0.0
+2053,Projection scenario M3: medium-growth,15–24,0.0
+2053,Projection scenario M3: medium-growth,25–44,0.0
+2053,Projection scenario M3: medium-growth,45–64,0.0
+2053,Projection scenario M3: medium-growth,65–74,0.0
+2053,Projection scenario M3: medium-growth,75–84,0.0
+2053,Projection scenario M4: medium-growth,0–14,0.0
+2053,Projection scenario M4: medium-growth,15–24,0.0
+2053,Projection scenario M4: medium-growth,25–44,0.0
+2053,Projection scenario M4: medium-growth,45–64,0.0
+2053,Projection scenario M4: medium-growth,65–74,0.0
+2053,Projection scenario M4: medium-growth,75–84,0.0
+2053,Projection scenario M5: medium-growth,0–14,0.0
+2053,Projection scenario M5: medium-growth,15–24,0.0
+2053,Projection scenario M5: medium-growth,25–44,0.0
+2053,Projection scenario M5: medium-growth,45–64,0.0
+2053,Projection scenario M5: medium-growth,65–74,0.0
+2053,Projection scenario M5: medium-growth,75–84,0.0
+2054,High-growth,0–14,0.0
+2054,High-growth,15–24,0.0
+2054,High-growth,25–44,0.0
+2054,High-growth,45–64,0.0
+2054,High-growth,65–74,0.0
+2054,High-growth,75–84,0.0
+2054,Low-growth,0–14,0.0
+2054,Low-growth,15–24,0.0
+2054,Low-growth,25–44,0.0
+2054,Low-growth,45–64,0.0
+2054,Low-growth,65–74,0.0
+2054,Low-growth,75–84,0.0
+2054,Medium-growth (reference),0–14,0.0
+2054,Medium-growth (reference),15–24,0.0
+2054,Medium-growth (reference),25–44,0.0
+2054,Medium-growth (reference),45–64,0.0
+2054,Medium-growth (reference),65–74,0.0
+2054,Medium-growth (reference),75–84,0.0
+2054,Projection scenario M2: medium-growth,0–14,0.0
+2054,Projection scenario M2: medium-growth,15–24,0.0
+2054,Projection scenario M2: medium-growth,25–44,0.0
+2054,Projection scenario M2: medium-growth,45–64,0.0
+2054,Projection scenario M2: medium-growth,65–74,0.0
+2054,Projection scenario M2: medium-growth,75–84,0.0
+2054,Projection scenario M3: medium-growth,0–14,0.0
+2054,Projection scenario M3: medium-growth,15–24,0.0
+2054,Projection scenario M3: medium-growth,25–44,0.0
+2054,Projection scenario M3: medium-growth,45–64,0.0
+2054,Projection scenario M3: medium-growth,65–74,0.0
+2054,Projection scenario M3: medium-growth,75–84,0.0
+2054,Projection scenario M4: medium-growth,0–14,0.0
+2054,Projection scenario M4: medium-growth,15–24,0.0
+2054,Projection scenario M4: medium-growth,25–44,0.0
+2054,Projection scenario M4: medium-growth,45–64,0.0
+2054,Projection scenario M4: medium-growth,65–74,0.0
+2054,Projection scenario M4: medium-growth,75–84,0.0
+2054,Projection scenario M5: medium-growth,0–14,0.0
+2054,Projection scenario M5: medium-growth,15–24,0.0
+2054,Projection scenario M5: medium-growth,25–44,0.0
+2054,Projection scenario M5: medium-growth,45–64,0.0
+2054,Projection scenario M5: medium-growth,65–74,0.0
+2054,Projection scenario M5: medium-growth,75–84,0.0
+2055,High-growth,0–14,0.0
+2055,High-growth,15–24,0.0
+2055,High-growth,25–44,0.0
+2055,High-growth,45–64,0.0
+2055,High-growth,65–74,0.0
+2055,High-growth,75–84,0.0
+2055,Low-growth,0–14,0.0
+2055,Low-growth,15–24,0.0
+2055,Low-growth,25–44,0.0
+2055,Low-growth,45–64,0.0
+2055,Low-growth,65–74,0.0
+2055,Low-growth,75–84,0.0
+2055,Medium-growth (reference),0–14,0.0
+2055,Medium-growth (reference),15–24,0.0
+2055,Medium-growth (reference),25–44,0.0
+2055,Medium-growth (reference),45–64,0.0
+2055,Medium-growth (reference),65–74,0.0
+2055,Medium-growth (reference),75–84,0.0
+2055,Projection scenario M2: medium-growth,0–14,0.0
+2055,Projection scenario M2: medium-growth,15–24,0.0
+2055,Projection scenario M2: medium-growth,25–44,0.0
+2055,Projection scenario M2: medium-growth,45–64,0.0
+2055,Projection scenario M2: medium-growth,65–74,0.0
+2055,Projection scenario M2: medium-growth,75–84,0.0
+2055,Projection scenario M3: medium-growth,0–14,0.0
+2055,Projection scenario M3: medium-growth,15–24,0.0
+2055,Projection scenario M3: medium-growth,25–44,0.0
+2055,Projection scenario M3: medium-growth,45–64,0.0
+2055,Projection scenario M3: medium-growth,65–74,0.0
+2055,Projection scenario M3: medium-growth,75–84,0.0
+2055,Projection scenario M4: medium-growth,0–14,0.0
+2055,Projection scenario M4: medium-growth,15–24,0.0
+2055,Projection scenario M4: medium-growth,25–44,0.0
+2055,Projection scenario M4: medium-growth,45–64,0.0
+2055,Projection scenario M4: medium-growth,65–74,0.0
+2055,Projection scenario M4: medium-growth,75–84,0.0
+2055,Projection scenario M5: medium-growth,0–14,0.0
+2055,Projection scenario M5: medium-growth,15–24,0.0
+2055,Projection scenario M5: medium-growth,25–44,0.0
+2055,Projection scenario M5: medium-growth,45–64,0.0
+2055,Projection scenario M5: medium-growth,65–74,0.0
+2055,Projection scenario M5: medium-growth,75–84,0.0
+2056,High-growth,0–14,0.0
+2056,High-growth,15–24,0.0
+2056,High-growth,25–44,0.0
+2056,High-growth,45–64,0.0
+2056,High-growth,65–74,0.0
+2056,High-growth,75–84,0.0
+2056,Low-growth,0–14,0.0
+2056,Low-growth,15–24,0.0
+2056,Low-growth,25–44,0.0
+2056,Low-growth,45–64,0.0
+2056,Low-growth,65–74,0.0
+2056,Low-growth,75–84,0.0
+2056,Medium-growth (reference),0–14,0.0
+2056,Medium-growth (reference),15–24,0.0
+2056,Medium-growth (reference),25–44,0.0
+2056,Medium-growth (reference),45–64,0.0
+2056,Medium-growth (reference),65–74,0.0
+2056,Medium-growth (reference),75–84,0.0
+2056,Projection scenario M2: medium-growth,0–14,0.0
+2056,Projection scenario M2: medium-growth,15–24,0.0
+2056,Projection scenario M2: medium-growth,25–44,0.0
+2056,Projection scenario M2: medium-growth,45–64,0.0
+2056,Projection scenario M2: medium-growth,65–74,0.0
+2056,Projection scenario M2: medium-growth,75–84,0.0
+2056,Projection scenario M3: medium-growth,0–14,0.0
+2056,Projection scenario M3: medium-growth,15–24,0.0
+2056,Projection scenario M3: medium-growth,25–44,0.0
+2056,Projection scenario M3: medium-growth,45–64,0.0
+2056,Projection scenario M3: medium-growth,65–74,0.0
+2056,Projection scenario M3: medium-growth,75–84,0.0
+2056,Projection scenario M4: medium-growth,0–14,0.0
+2056,Projection scenario M4: medium-growth,15–24,0.0
+2056,Projection scenario M4: medium-growth,25–44,0.0
+2056,Projection scenario M4: medium-growth,45–64,0.0
+2056,Projection scenario M4: medium-growth,65–74,0.0
+2056,Projection scenario M4: medium-growth,75–84,0.0
+2056,Projection scenario M5: medium-growth,0–14,0.0
+2056,Projection scenario M5: medium-growth,15–24,0.0
+2056,Projection scenario M5: medium-growth,25–44,0.0
+2056,Projection scenario M5: medium-growth,45–64,0.0
+2056,Projection scenario M5: medium-growth,65–74,0.0
+2056,Projection scenario M5: medium-growth,75–84,0.0
+2057,High-growth,0–14,0.0
+2057,High-growth,15–24,0.0
+2057,High-growth,25–44,0.0
+2057,High-growth,45–64,0.0
+2057,High-growth,65–74,0.0
+2057,High-growth,75–84,0.0
+2057,Low-growth,0–14,0.0
+2057,Low-growth,15–24,0.0
+2057,Low-growth,25–44,0.0
+2057,Low-growth,45–64,0.0
+2057,Low-growth,65–74,0.0
+2057,Low-growth,75–84,0.0
+2057,Medium-growth (reference),0–14,0.0
+2057,Medium-growth (reference),15–24,0.0
+2057,Medium-growth (reference),25–44,0.0
+2057,Medium-growth (reference),45–64,0.0
+2057,Medium-growth (reference),65–74,0.0
+2057,Medium-growth (reference),75–84,0.0
+2057,Projection scenario M2: medium-growth,0–14,0.0
+2057,Projection scenario M2: medium-growth,15–24,0.0
+2057,Projection scenario M2: medium-growth,25–44,0.0
+2057,Projection scenario M2: medium-growth,45–64,0.0
+2057,Projection scenario M2: medium-growth,65–74,0.0
+2057,Projection scenario M2: medium-growth,75–84,0.0
+2057,Projection scenario M3: medium-growth,0–14,0.0
+2057,Projection scenario M3: medium-growth,15–24,0.0
+2057,Projection scenario M3: medium-growth,25–44,0.0
+2057,Projection scenario M3: medium-growth,45–64,0.0
+2057,Projection scenario M3: medium-growth,65–74,0.0
+2057,Projection scenario M3: medium-growth,75–84,0.0
+2057,Projection scenario M4: medium-growth,0–14,0.0
+2057,Projection scenario M4: medium-growth,15–24,0.0
+2057,Projection scenario M4: medium-growth,25–44,0.0
+2057,Projection scenario M4: medium-growth,45–64,0.0
+2057,Projection scenario M4: medium-growth,65–74,0.0
+2057,Projection scenario M4: medium-growth,75–84,0.0
+2057,Projection scenario M5: medium-growth,0–14,0.0
+2057,Projection scenario M5: medium-growth,15–24,0.0
+2057,Projection scenario M5: medium-growth,25–44,0.0
+2057,Projection scenario M5: medium-growth,45–64,0.0
+2057,Projection scenario M5: medium-growth,65–74,0.0
+2057,Projection scenario M5: medium-growth,75–84,0.0
+2058,High-growth,0–14,0.0
+2058,High-growth,15–24,0.0
+2058,High-growth,25–44,0.0
+2058,High-growth,45–64,0.0
+2058,High-growth,65–74,0.0
+2058,High-growth,75–84,0.0
+2058,Low-growth,0–14,0.0
+2058,Low-growth,15–24,0.0
+2058,Low-growth,25–44,0.0
+2058,Low-growth,45–64,0.0
+2058,Low-growth,65–74,0.0
+2058,Low-growth,75–84,0.0
+2058,Medium-growth (reference),0–14,0.0
+2058,Medium-growth (reference),15–24,0.0
+2058,Medium-growth (reference),25–44,0.0
+2058,Medium-growth (reference),45–64,0.0
+2058,Medium-growth (reference),65–74,0.0
+2058,Medium-growth (reference),75–84,0.0
+2058,Projection scenario M2: medium-growth,0–14,0.0
+2058,Projection scenario M2: medium-growth,15–24,0.0
+2058,Projection scenario M2: medium-growth,25–44,0.0
+2058,Projection scenario M2: medium-growth,45–64,0.0
+2058,Projection scenario M2: medium-growth,65–74,0.0
+2058,Projection scenario M2: medium-growth,75–84,0.0
+2058,Projection scenario M3: medium-growth,0–14,0.0
+2058,Projection scenario M3: medium-growth,15–24,0.0
+2058,Projection scenario M3: medium-growth,25–44,0.0
+2058,Projection scenario M3: medium-growth,45–64,0.0
+2058,Projection scenario M3: medium-growth,65–74,0.0
+2058,Projection scenario M3: medium-growth,75–84,0.0
+2058,Projection scenario M4: medium-growth,0–14,0.0
+2058,Projection scenario M4: medium-growth,15–24,0.0
+2058,Projection scenario M4: medium-growth,25–44,0.0
+2058,Projection scenario M4: medium-growth,45–64,0.0
+2058,Projection scenario M4: medium-growth,65–74,0.0
+2058,Projection scenario M4: medium-growth,75–84,0.0
+2058,Projection scenario M5: medium-growth,0–14,0.0
+2058,Projection scenario M5: medium-growth,15–24,0.0
+2058,Projection scenario M5: medium-growth,25–44,0.0
+2058,Projection scenario M5: medium-growth,45–64,0.0
+2058,Projection scenario M5: medium-growth,65–74,0.0
+2058,Projection scenario M5: medium-growth,75–84,0.0
+2059,High-growth,0–14,0.0
+2059,High-growth,15–24,0.0
+2059,High-growth,25–44,0.0
+2059,High-growth,45–64,0.0
+2059,High-growth,65–74,0.0
+2059,High-growth,75–84,0.0
+2059,Low-growth,0–14,0.0
+2059,Low-growth,15–24,0.0
+2059,Low-growth,25–44,0.0
+2059,Low-growth,45–64,0.0
+2059,Low-growth,65–74,0.0
+2059,Low-growth,75–84,0.0
+2059,Medium-growth (reference),0–14,0.0
+2059,Medium-growth (reference),15–24,0.0
+2059,Medium-growth (reference),25–44,0.0
+2059,Medium-growth (reference),45–64,0.0
+2059,Medium-growth (reference),65–74,0.0
+2059,Medium-growth (reference),75–84,0.0
+2059,Projection scenario M2: medium-growth,0–14,0.0
+2059,Projection scenario M2: medium-growth,15–24,0.0
+2059,Projection scenario M2: medium-growth,25–44,0.0
+2059,Projection scenario M2: medium-growth,45–64,0.0
+2059,Projection scenario M2: medium-growth,65–74,0.0
+2059,Projection scenario M2: medium-growth,75–84,0.0
+2059,Projection scenario M3: medium-growth,0–14,0.0
+2059,Projection scenario M3: medium-growth,15–24,0.0
+2059,Projection scenario M3: medium-growth,25–44,0.0
+2059,Projection scenario M3: medium-growth,45–64,0.0
+2059,Projection scenario M3: medium-growth,65–74,0.0
+2059,Projection scenario M3: medium-growth,75–84,0.0
+2059,Projection scenario M4: medium-growth,0–14,0.0
+2059,Projection scenario M4: medium-growth,15–24,0.0
+2059,Projection scenario M4: medium-growth,25–44,0.0
+2059,Projection scenario M4: medium-growth,45–64,0.0
+2059,Projection scenario M4: medium-growth,65–74,0.0
+2059,Projection scenario M4: medium-growth,75–84,0.0
+2059,Projection scenario M5: medium-growth,0–14,0.0
+2059,Projection scenario M5: medium-growth,15–24,0.0
+2059,Projection scenario M5: medium-growth,25–44,0.0
+2059,Projection scenario M5: medium-growth,45–64,0.0
+2059,Projection scenario M5: medium-growth,65–74,0.0
+2059,Projection scenario M5: medium-growth,75–84,0.0
+2060,High-growth,0–14,0.0
+2060,High-growth,15–24,0.0
+2060,High-growth,25–44,0.0
+2060,High-growth,45–64,0.0
+2060,High-growth,65–74,0.0
+2060,High-growth,75–84,0.0
+2060,Low-growth,0–14,0.0
+2060,Low-growth,15–24,0.0
+2060,Low-growth,25–44,0.0
+2060,Low-growth,45–64,0.0
+2060,Low-growth,65–74,0.0
+2060,Low-growth,75–84,0.0
+2060,Medium-growth (reference),0–14,0.0
+2060,Medium-growth (reference),15–24,0.0
+2060,Medium-growth (reference),25–44,0.0
+2060,Medium-growth (reference),45–64,0.0
+2060,Medium-growth (reference),65–74,0.0
+2060,Medium-growth (reference),75–84,0.0
+2060,Projection scenario M2: medium-growth,0–14,0.0
+2060,Projection scenario M2: medium-growth,15–24,0.0
+2060,Projection scenario M2: medium-growth,25–44,0.0
+2060,Projection scenario M2: medium-growth,45–64,0.0
+2060,Projection scenario M2: medium-growth,65–74,0.0
+2060,Projection scenario M2: medium-growth,75–84,0.0
+2060,Projection scenario M3: medium-growth,0–14,0.0
+2060,Projection scenario M3: medium-growth,15–24,0.0
+2060,Projection scenario M3: medium-growth,25–44,0.0
+2060,Projection scenario M3: medium-growth,45–64,0.0
+2060,Projection scenario M3: medium-growth,65–74,0.0
+2060,Projection scenario M3: medium-growth,75–84,0.0
+2060,Projection scenario M4: medium-growth,0–14,0.0
+2060,Projection scenario M4: medium-growth,15–24,0.0
+2060,Projection scenario M4: medium-growth,25–44,0.0
+2060,Projection scenario M4: medium-growth,45–64,0.0
+2060,Projection scenario M4: medium-growth,65–74,0.0
+2060,Projection scenario M4: medium-growth,75–84,0.0
+2060,Projection scenario M5: medium-growth,0–14,0.0
+2060,Projection scenario M5: medium-growth,15–24,0.0
+2060,Projection scenario M5: medium-growth,25–44,0.0
+2060,Projection scenario M5: medium-growth,45–64,0.0
+2060,Projection scenario M5: medium-growth,65–74,0.0
+2060,Projection scenario M5: medium-growth,75–84,0.0
+2061,High-growth,0–14,0.0
+2061,High-growth,15–24,0.0
+2061,High-growth,25–44,0.0
+2061,High-growth,45–64,0.0
+2061,High-growth,65–74,0.0
+2061,High-growth,75–84,0.0
+2061,Low-growth,0–14,0.0
+2061,Low-growth,15–24,0.0
+2061,Low-growth,25–44,0.0
+2061,Low-growth,45–64,0.0
+2061,Low-growth,65–74,0.0
+2061,Low-growth,75–84,0.0
+2061,Medium-growth (reference),0–14,0.0
+2061,Medium-growth (reference),15–24,0.0
+2061,Medium-growth (reference),25–44,0.0
+2061,Medium-growth (reference),45–64,0.0
+2061,Medium-growth (reference),65–74,0.0
+2061,Medium-growth (reference),75–84,0.0
+2061,Projection scenario M2: medium-growth,0–14,0.0
+2061,Projection scenario M2: medium-growth,15–24,0.0
+2061,Projection scenario M2: medium-growth,25–44,0.0
+2061,Projection scenario M2: medium-growth,45–64,0.0
+2061,Projection scenario M2: medium-growth,65–74,0.0
+2061,Projection scenario M2: medium-growth,75–84,0.0
+2061,Projection scenario M3: medium-growth,0–14,0.0
+2061,Projection scenario M3: medium-growth,15–24,0.0
+2061,Projection scenario M3: medium-growth,25–44,0.0
+2061,Projection scenario M3: medium-growth,45–64,0.0
+2061,Projection scenario M3: medium-growth,65–74,0.0
+2061,Projection scenario M3: medium-growth,75–84,0.0
+2061,Projection scenario M4: medium-growth,0–14,0.0
+2061,Projection scenario M4: medium-growth,15–24,0.0
+2061,Projection scenario M4: medium-growth,25–44,0.0
+2061,Projection scenario M4: medium-growth,45–64,0.0
+2061,Projection scenario M4: medium-growth,65–74,0.0
+2061,Projection scenario M4: medium-growth,75–84,0.0
+2061,Projection scenario M5: medium-growth,0–14,0.0
+2061,Projection scenario M5: medium-growth,15–24,0.0
+2061,Projection scenario M5: medium-growth,25–44,0.0
+2061,Projection scenario M5: medium-growth,45–64,0.0
+2061,Projection scenario M5: medium-growth,65–74,0.0
+2061,Projection scenario M5: medium-growth,75–84,0.0
+2062,High-growth,0–14,0.0
+2062,High-growth,15–24,0.0
+2062,High-growth,25–44,0.0
+2062,High-growth,45–64,0.0
+2062,High-growth,65–74,0.0
+2062,High-growth,75–84,0.0
+2062,Low-growth,0–14,0.0
+2062,Low-growth,15–24,0.0
+2062,Low-growth,25–44,0.0
+2062,Low-growth,45–64,0.0
+2062,Low-growth,65–74,0.0
+2062,Low-growth,75–84,0.0
+2062,Medium-growth (reference),0–14,0.0
+2062,Medium-growth (reference),15–24,0.0
+2062,Medium-growth (reference),25–44,0.0
+2062,Medium-growth (reference),45–64,0.0
+2062,Medium-growth (reference),65–74,0.0
+2062,Medium-growth (reference),75–84,0.0
+2062,Projection scenario M2: medium-growth,0–14,0.0
+2062,Projection scenario M2: medium-growth,15–24,0.0
+2062,Projection scenario M2: medium-growth,25–44,0.0
+2062,Projection scenario M2: medium-growth,45–64,0.0
+2062,Projection scenario M2: medium-growth,65–74,0.0
+2062,Projection scenario M2: medium-growth,75–84,0.0
+2062,Projection scenario M3: medium-growth,0–14,0.0
+2062,Projection scenario M3: medium-growth,15–24,0.0
+2062,Projection scenario M3: medium-growth,25–44,0.0
+2062,Projection scenario M3: medium-growth,45–64,0.0
+2062,Projection scenario M3: medium-growth,65–74,0.0
+2062,Projection scenario M3: medium-growth,75–84,0.0
+2062,Projection scenario M4: medium-growth,0–14,0.0
+2062,Projection scenario M4: medium-growth,15–24,0.0
+2062,Projection scenario M4: medium-growth,25–44,0.0
+2062,Projection scenario M4: medium-growth,45–64,0.0
+2062,Projection scenario M4: medium-growth,65–74,0.0
+2062,Projection scenario M4: medium-growth,75–84,0.0
+2062,Projection scenario M5: medium-growth,0–14,0.0
+2062,Projection scenario M5: medium-growth,15–24,0.0
+2062,Projection scenario M5: medium-growth,25–44,0.0
+2062,Projection scenario M5: medium-growth,45–64,0.0
+2062,Projection scenario M5: medium-growth,65–74,0.0
+2062,Projection scenario M5: medium-growth,75–84,0.0
+2063,High-growth,0–14,0.0
+2063,High-growth,15–24,0.0
+2063,High-growth,25–44,0.0
+2063,High-growth,45–64,0.0
+2063,High-growth,65–74,0.0
+2063,High-growth,75–84,0.0
+2063,Low-growth,0–14,0.0
+2063,Low-growth,15–24,0.0
+2063,Low-growth,25–44,0.0
+2063,Low-growth,45–64,0.0
+2063,Low-growth,65–74,0.0
+2063,Low-growth,75–84,0.0
+2063,Medium-growth (reference),0–14,0.0
+2063,Medium-growth (reference),15–24,0.0
+2063,Medium-growth (reference),25–44,0.0
+2063,Medium-growth (reference),45–64,0.0
+2063,Medium-growth (reference),65–74,0.0
+2063,Medium-growth (reference),75–84,0.0
+2063,Projection scenario M2: medium-growth,0–14,0.0
+2063,Projection scenario M2: medium-growth,15–24,0.0
+2063,Projection scenario M2: medium-growth,25–44,0.0
+2063,Projection scenario M2: medium-growth,45–64,0.0
+2063,Projection scenario M2: medium-growth,65–74,0.0
+2063,Projection scenario M2: medium-growth,75–84,0.0
+2063,Projection scenario M3: medium-growth,0–14,0.0
+2063,Projection scenario M3: medium-growth,15–24,0.0
+2063,Projection scenario M3: medium-growth,25–44,0.0
+2063,Projection scenario M3: medium-growth,45–64,0.0
+2063,Projection scenario M3: medium-growth,65–74,0.0
+2063,Projection scenario M3: medium-growth,75–84,0.0
+2063,Projection scenario M4: medium-growth,0–14,0.0
+2063,Projection scenario M4: medium-growth,15–24,0.0
+2063,Projection scenario M4: medium-growth,25–44,0.0
+2063,Projection scenario M4: medium-growth,45–64,0.0
+2063,Projection scenario M4: medium-growth,65–74,0.0
+2063,Projection scenario M4: medium-growth,75–84,0.0
+2063,Projection scenario M5: medium-growth,0–14,0.0
+2063,Projection scenario M5: medium-growth,15–24,0.0
+2063,Projection scenario M5: medium-growth,25–44,0.0
+2063,Projection scenario M5: medium-growth,45–64,0.0
+2063,Projection scenario M5: medium-growth,65–74,0.0
+2063,Projection scenario M5: medium-growth,75–84,0.0
