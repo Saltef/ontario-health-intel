@@ -2,3 +2,8 @@ streamlit
 plotly
 pandas
 numpy
+streamlit
+leafmap
+geopandas
+openpyxl
+pyarrow
