@@ -71,14 +71,16 @@ PROJECTION_SCENARIOS = {
 
 def _download_csv(table_id: str) -> pd.DataFrame:
     """Uses the 2026 REST API to get the current download link and bypass blocks."""
-    # 1. Ask the StatCan API for the 'live' download URL
+    # 1. Get the authorized 'live' download URL from the REST API
     api_url = f"https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/{table_id}/en"
+    
+    # We add a User-Agent so the server doesn't see us as a 'bot'
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     
-    log.info(f"Requesting fresh download link for {table_id}...")
+    log.info(f"Requesting authorized link for {table_id}...")
     
     try:
-        # Get the real ZIP URL from the API
+        # Request the download link
         resp = requests.get(api_url, headers=headers, timeout=30)
         resp.raise_for_status()
         download_url = resp.json().get("object")
@@ -86,13 +88,13 @@ def _download_csv(table_id: str) -> pd.DataFrame:
         if not download_url:
             raise ValueError(f"API succeeded but returned no URL for {table_id}")
 
-        log.info(f"Downloading ZIP from: {download_url}")
+        log.info(f"Downloading from: {download_url}")
         
-        # 2. Download the actual file
+        # 2. Perform the actual ZIP download
         r = requests.get(download_url, headers=headers, timeout=120)
         r.raise_for_status()
         
-        # 3. Extract and load
+        # 3. Extract the CSV from the ZIP content
         with zipfile.ZipFile(io.BytesIO(r.content)) as z:
             csv_candidates = [n for n in z.namelist() if n.endswith(".csv") and "MetaData" not in n]
             csv_name = csv_candidates[0]
@@ -101,12 +103,12 @@ def _download_csv(table_id: str) -> pd.DataFrame:
                 
             raw_path = RAW_DIR / f"statcan_{table_id}.csv"
             raw_path.write_bytes(data)
-            log.info(f"  Successfully saved to → {raw_path}")
+            log.info(f"  Successfully extracted → {raw_path}")
             
             return pd.read_csv(io.BytesIO(data), encoding="utf-8-sig", low_memory=False)
             
     except Exception as e:
-        log.error(f"Failed to fetch {table_id}: {e}")
+        log.error(f"Critical Failure fetching {table_id}: {e}")
         raise
 
 def _update_meta(key: str, rows: int, source_table: str):
