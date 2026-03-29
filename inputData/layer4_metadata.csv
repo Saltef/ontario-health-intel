@@ -1,0 +1,73 @@
+category,key,value,unit,formula_or_definition,source_or_notes
+dataset,file_purpose,Layer 4 cost model outputs by condition with year-based projections from Layer 3.,,,
+dataset,projection_years_available,"2024,2029,2034",year,,Derived from layer3_predictive_trajectory.csv
+dataset,projection_scenario_rule,2024 uses Historical; future years use Reference.,,,Applied in transformation script
+dataset,scope,Ontario-level condition cost model; not city-level allocation yet.,,,
+formula,total_cost_2024,,dollars,admissions_2024 * avg_cost_per_admission,
+formula,avoidable_share_of_condition_total_2024,,ratio (0-1),avoidable_cost_2024 / total_cost_2024,
+formula,avoidable_share_of_condition_total_2024_pct,,percent,avoidable_share_of_condition_total_2024 * 100,
+formula,condition_share_of_layer4_total_cost_2024,,ratio (0-1),total_cost_2024 / sum(total_cost_2024) across all conditions,
+formula,condition_share_of_layer4_total_cost_2024_pct,,percent,condition_share_of_layer4_total_cost_2024 * 100,
+formula,condition_share_of_layer4_avoidable_cost_2024,,ratio (0-1),avoidable_cost_2024 / sum(avoidable_cost_2024) across all conditions,
+formula,condition_share_of_layer4_avoidable_cost_2024_pct,,percent,condition_share_of_layer4_avoidable_cost_2024 * 100,
+formula,total_cost_2029,,dollars,admissions_2029 * avg_cost_per_admission,
+formula,avoidable_share_of_condition_total_2029,,ratio (0-1),avoidable_cost_2029 / total_cost_2029,
+formula,avoidable_share_of_condition_total_2029_pct,,percent,avoidable_share_of_condition_total_2029 * 100,
+formula,condition_share_of_layer4_total_cost_2029,,ratio (0-1),total_cost_2029 / sum(total_cost_2029) across all conditions,
+formula,condition_share_of_layer4_total_cost_2029_pct,,percent,condition_share_of_layer4_total_cost_2029 * 100,
+formula,condition_share_of_layer4_avoidable_cost_2029,,ratio (0-1),avoidable_cost_2029 / sum(avoidable_cost_2029) across all conditions,
+formula,condition_share_of_layer4_avoidable_cost_2029_pct,,percent,condition_share_of_layer4_avoidable_cost_2029 * 100,
+formula,total_cost_2034,,dollars,admissions_2034 * avg_cost_per_admission,
+formula,avoidable_share_of_condition_total_2034,,ratio (0-1),avoidable_cost_2034 / total_cost_2034,
+formula,avoidable_share_of_condition_total_2034_pct,,percent,avoidable_share_of_condition_total_2034 * 100,
+formula,condition_share_of_layer4_total_cost_2034,,ratio (0-1),total_cost_2034 / sum(total_cost_2034) across all conditions,
+formula,condition_share_of_layer4_total_cost_2034_pct,,percent,condition_share_of_layer4_total_cost_2034 * 100,
+formula,condition_share_of_layer4_avoidable_cost_2034,,ratio (0-1),avoidable_cost_2034 / sum(avoidable_cost_2034) across all conditions,
+formula,condition_share_of_layer4_avoidable_cost_2034_pct,,percent,condition_share_of_layer4_avoidable_cost_2034 * 100,
+formula,avoidable_cost_growth_pct_2024_to_2034,,percent,((avoidable_cost_2034 / avoidable_cost_2024) - 1) * 100,
+column_definition,condition,Column in layer4_cost_analysis.csv: condition,,,Auto-generated
+column_definition,avg_cost_per_admission,Column in layer4_cost_analysis.csv: avg_cost_per_admission,,,Auto-generated
+column_definition,managed_care_cost_alternative,Column in layer4_cost_analysis.csv: managed_care_cost_alternative,,,Auto-generated
+column_definition,potential_savings_per_admission,Column in layer4_cost_analysis.csv: potential_savings_per_admission,,,Auto-generated
+column_definition,savings_5yr,Column in layer4_cost_analysis.csv: savings_5yr,,,Auto-generated
+column_definition,savings_10yr,Column in layer4_cost_analysis.csv: savings_10yr,,,Auto-generated
+column_definition,admissions_2024,Column in layer4_cost_analysis.csv: admissions_2024,,,Auto-generated
+column_definition,total_cost_2024,Column in layer4_cost_analysis.csv: total_cost_2024,,,Auto-generated
+column_definition,avoidable_admissions_2024,Column in layer4_cost_analysis.csv: avoidable_admissions_2024,,,Auto-generated
+column_definition,avoidable_cost_2024,Column in layer4_cost_analysis.csv: avoidable_cost_2024,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2024,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2024,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2024_pct,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2024_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2024,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2024,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2024_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2024_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2024,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2024,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2024_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2024_pct,,,Auto-generated
+column_definition,admissions_2029,Column in layer4_cost_analysis.csv: admissions_2029,,,Auto-generated
+column_definition,total_cost_2029,Column in layer4_cost_analysis.csv: total_cost_2029,,,Auto-generated
+column_definition,avoidable_admissions_2029,Column in layer4_cost_analysis.csv: avoidable_admissions_2029,,,Auto-generated
+column_definition,avoidable_cost_2029,Column in layer4_cost_analysis.csv: avoidable_cost_2029,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2029,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2029,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2029_pct,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2029_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2029,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2029,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2029_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2029_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2029,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2029,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2029_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2029_pct,,,Auto-generated
+column_definition,admissions_2034,Column in layer4_cost_analysis.csv: admissions_2034,,,Auto-generated
+column_definition,total_cost_2034,Column in layer4_cost_analysis.csv: total_cost_2034,,,Auto-generated
+column_definition,avoidable_admissions_2034,Column in layer4_cost_analysis.csv: avoidable_admissions_2034,,,Auto-generated
+column_definition,avoidable_cost_2034,Column in layer4_cost_analysis.csv: avoidable_cost_2034,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2034,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2034,,,Auto-generated
+column_definition,avoidable_share_of_condition_total_2034_pct,Column in layer4_cost_analysis.csv: avoidable_share_of_condition_total_2034_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2034,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2034,,,Auto-generated
+column_definition,condition_share_of_layer4_total_cost_2034_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_total_cost_2034_pct,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2034,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2034,,,Auto-generated
+column_definition,condition_share_of_layer4_avoidable_cost_2034_pct,Column in layer4_cost_analysis.csv: condition_share_of_layer4_avoidable_cost_2034_pct,,,Auto-generated
+simple_summary,summary_2024_plain,"In 2024, the model estimates about $101,001,890 in total costs across the tracked conditions. About $32,452,471 (32.1%) is classified as potentially avoidable.",,,Computed from layer4_cost_analysis.csv totals by year.
+simple_summary,summary_2029_plain,"In 2029, the model estimates about $112,212,273 in total costs across the tracked conditions. About $35,992,892 (32.1%) is classified as potentially avoidable.",,,Computed from layer4_cost_analysis.csv totals by year.
+simple_summary,summary_2034_plain,"In 2034, the model estimates about $125,128,551 in total costs across the tracked conditions. About $40,054,172 (32.0%) is classified as potentially avoidable.",,,Computed from layer4_cost_analysis.csv totals by year.
+simple_summary,summary_avoidable_growth_2024_to_2034,"From 2024 to 2034, projected avoidable cost grows from about $32,452,471 to $40,054,172 (about 23.4% growth).",percent,,Computed from yearly avoidable cost totals.
+simple_summary,summary_top_drivers_2034,"The largest avoidable cost drivers in 2034 are: Mental Health ($10,579,491), COPD ($6,917,065), Chronic Kidney Disease ($6,050,870).",,,Top 3 by avoidable_cost_2034 in layer4_cost_analysis.csv.
+method_summary,method_total_cost,Total yearly cost per condition is admissions multiplied by average cost per admission.,dollars,total_cost_YEAR = admissions_YEAR * avg_cost_per_admission,"Admissions come from Layer 3 trajectory (Historical for 2024, Reference for future years)."
+method_summary,method_avoidable_cost,Avoidable yearly cost comes from projected avoidable admissions multiplied by average cost per admission.,dollars,avoidable_cost_YEAR = avoidable_admissions_YEAR * avg_cost_per_admission,Avoidable admissions are sourced from layer3_predictive_trajectory.csv.
+method_summary,method_avoidable_share_percent,The avoidable percentage shows what share of total cost could potentially be prevented.,percent,avoidable_share_of_condition_total_YEAR_pct = (avoidable_cost_YEAR / total_cost_YEAR) * 100,Calculated per condition and year.
+method_summary,method_condition_portfolio_share,Portfolio share tells how much each condition contributes to the total cost or avoidable cost pool in a year.,percent,condition_share_of_layer4_total_cost_YEAR_pct = (condition total_cost_YEAR / sum of all condition total_cost_YEAR) * 100,Same logic applied for avoidable cost share columns.
+method_summary,method_scenario_choice,Baseline year uses historical values; projected years use the reference growth trajectory.,,2024 -> Historical; 2029/2034 -> Reference,Selection rule used in transformation pipeline.

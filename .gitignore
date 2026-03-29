@@ -1,0 +1,7 @@
+# Local generated datasets
+data/raw/
+data/processed/
+
+# Python caches
+__pycache__/
+*.pyc
