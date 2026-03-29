@@ -1,24 +1,21 @@
 # Ontario Health Intel
 
-Ontario Health Intel is a Python/Streamlit prototype for exploring Ontario population growth and primary-care pressure trends, with data ingestion paths for Statistics Canada and CIHI datasets.
+Ontario Health Intel is a Streamlit-based analytics prototype for showing Ontario healthcare burden and economics across four layers:
 
-## What Is In This Repo Right Now
+1. Population baseline
+2. Current hospitalization burden
+3. Predictive trajectory
+4. Cost and avoidable-savings analysis
 
-The codebase currently has:
-
-- Data fetch/load utilities for:
-  - Statistics Canada (automated downloads)
-  - CIHI (manual file download + normalization)
-- Several dashboard prototypes (not all are fully production-ready yet)
-- Basic data directories and metadata tracking
+The current emphasis is on Layer 2 to Layer 4 condition-level modeling, with projection years available for 2024, 2029, and 2034.
 
 ## Tech Stack
 
 - Python
 - Streamlit
 - Pandas / NumPy
-- Plotly / PyDeck / Leafmap
-- GeoPandas
+- Plotly
+- OpenPyXL (for CIHI/NPDB workbook ingestion)
 
 ## Setup
 
@@ -28,75 +25,122 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Data Workflow
+## Core Data Files
 
-### 1) Fetch Statistics Canada datasets
+Primary dashboard inputs live in `inputData/`:
 
-This writes processed CSV outputs under `data/processed/` and updates `data/metadata.json`.
+- `layer1_population_demographics.csv`
+- `layer2_current_burden.csv`
+- `layer3_predictive_trajectory.csv`
+- `layer4_cost_analysis.csv`
+- `layer4_metadata.csv`
+
+`layer4_cost_analysis.csv` now includes year-specific cost views for 2024, 2029, and 2034, plus percent columns for share metrics (for easier demo readability).
+
+`layer4_metadata.csv` stores formulas, column definitions, and plain-language finance summaries.
+
+## Run Options
+
+### Main launcher
+
+```powershell
+python streamlit.py
+```
+
+This launches `Home.py`.
+
+### Direct Streamlit entrypoint
+
+```powershell
+streamlit run Home.py
+```
+
+### Standalone data manager page
+
+```powershell
+streamlit run 00_data_manager.py
+```
+
+## Data Refresh Commands
+
+### StatsCan auto-fetch
 
 ```powershell
 python -m fetch.statcan
 ```
 
-Outputs:
+Outputs to `data/processed/` (for population mapping workflows).
 
-- `data/processed/population_by_age_lhin.csv`
-- `data/processed/population_projections.csv`
-
-### 2) Load CIHI datasets (manual source files)
-
-Place CIHI files in `data/raw/` (for example `physicians_in_canada*.xlsx`, `regulated_nurses*.xlsx`), then run:
+### CIHI loaders
 
 ```powershell
 python -m fetch.cihi_loader
 ```
 
-Typical outputs:
-
-- `data/processed/providers_by_lhin.csv`
-- `data/processed/np_by_lhin.csv`
-
-## Running Dashboards
-
-This repo has multiple Streamlit entry points:
-
-```powershell
-streamlit run ontario_health_l1.py
-streamlit run map_dashboard.py
-streamlit run app\physician_map.py
-streamlit run app\main.py
-```
-
-Notes:
-
-- `ontario_health_l1.py` is the most self-contained demo (uses built-in baseline data).
-- `map_dashboard.py` and `app/*` require processed files/geography assets to exist first.
+Parses supported CIHI files from `data/raw/` and writes normalized outputs to `data/processed/`.
 
 ## Repository Layout
 
 ```text
-app/                 Streamlit app modules
-fetch/               Data ingestion and normalization scripts
-pages/               Streamlit multipage files
-scripts/             Older/auxiliary data sync scripts
-utils/               Shared data helpers
-data/
-  raw/               Source files (downloaded/uploaded)
-  processed/         Cleaned outputs for dashboards
-  static/            Static lookup files (for example LHIN coordinates)
-  metadata.json      Dataset freshness + provenance
+inputData/                 Layered dashboard inputs and metadata
+fetch/                     Data ingestion scripts (StatsCan, CIHI)
+utils/                     Shared loaders/helpers for projection logic
+data/                      Auto-fetched and processed auxiliary datasets
+app/, pages/, scripts/     Legacy/prototype app modules and utilities
 ```
 
-## Current Implementation Gaps (Observed From Code)
+## Future Roadmap
 
-- `pages/00_data_manager.py` currently fails compilation (`IndentationError` at line 4).
-- `pages/00_data_manager.py` references `process_cihi_upload` in `utils.data_store`, but that function is not present.
-- `app/main.py` references `gpd` without importing `geopandas as gpd`.
-- Some dashboards expect geography files under `data/geography/` that are not committed in this repo snapshot.
+### Platform Stabilization
 
-## Suggested Order For Local Use
+- Consolidate to one production Streamlit app path (`Home.py` + validated pages).
+- Remove or archive legacy duplicate entrypoints (`app/*`, `map_dashboard.py`, `ontario_health_l1.py`).
+- Standardize imports and module layout (single loader/util package structure).
+- Add compatibility checks so dashboards fail gracefully when schema changes.
 
-1. Install dependencies.
-2. Run `python -m fetch.statcan`.
-3. (Optional) add CIHI files and run `python -m fetch.cihi_loader`.
-4. Start with `streamlit run ontario_health_l1.py`.
+### Data Quality and Governance
+
+- Add strict schema contracts for `layer1` to `layer4` with automated validation.
+- Expand `layer4_metadata.csv` into a full data dictionary + assumptions registry.
+- Add dataset freshness tracking (last refresh, source version, confidence by field).
+- Create reproducible ETL scripts to regenerate dashboard inputs from raw sources.
+
+### Economic Modeling Enhancements
+
+- Add inflation-adjusted and nominal cost views for every projection year.
+- Add scenario-based economics (Low/Reference/High) beyond current reference path.
+- Introduce additional cost drivers:
+  - Workforce pressure (overtime, locum, vacancy costs)
+  - Readmission costs and avoidable revisit penalties
+  - ALC/LOS bed-day opportunity costs
+  - Community-care substitution costs
+  - Drug and diagnostics inflation factors
+- Add sensitivity analysis for key assumptions (avoidability %, growth rates, unit costs).
+
+### Geographic Expansion
+
+- Move from Ontario-level condition economics to city/LHIN-level financial projections.
+- Add allocation models linking population growth and age mix to local cost burden.
+- Add map layers for "cost growth hotspots" and "avoidable-cost opportunity zones."
+
+### Product and Demo Features
+
+- Add a "Demo mode" narrative flow with prebuilt story steps and key KPI callouts.
+- Add downloadable executive summary exports (CSV/PDF) for selected scenario/year.
+- Add intervention planner: expected impact and cost ranges by condition and region.
+- Add side-by-side baseline vs intervention view for decision-making workshops.
+
+### Engineering and Delivery
+
+- Add automated tests for loaders, formulas, and cross-layer consistency.
+- Add CI checks (lint, type checks, schema checks, smoke tests).
+- Add environment bootstrap scripts for one-command local setup.
+- Add release/versioning notes so model and data updates are traceable over time.
+
+## Recommended Demo Flow
+
+1. Run `python streamlit.py`.
+2. Present Layer 2 burden context (volume, avoidability, wait times).
+3. Present Layer 3 trajectory (2024 to 2034 growth by condition).
+4. Present Layer 4 economics (total cost, avoidable cost, concentration, growth).
+5. Use `layer4_metadata.csv` to explain formulas and assumptions clearly during Q&A.
