@@ -1,5 +1,4 @@
-import io, json, zipfile, logging, requests
-from datetime import datetime, timezone
+import io, zipfile, logging, requests
 from pathlib import Path
 import pandas as pd
 
@@ -22,7 +21,6 @@ LHIN_MAP = {
     "3590": "North East", "3610": "North West"
 }
 
-# Target age groups for your healthcare burden models
 AGE_MAP = {
     "0 to 4 years": "0–14", "5 to 9 years": "0–14", "10 to 14 years": "0–14",
     "15 to 19 years": "15–24", "20 to 24 years": "15–24",
@@ -36,41 +34,37 @@ def fetch_lhin_data():
     api_url = f"https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/{TABLE_ID}/en"
     
     try:
-        # 1. API Call & Unzip
         download_url = requests.get(api_url).json()['object']
         r = requests.get(download_url)
         with zipfile.ZipFile(io.BytesIO(r.content)) as z:
             csv_name = [f for f in z.namelist() if f.endswith('.csv') and 'MetaData' not in f][0]
             df = pd.read_csv(z.open(csv_name), low_memory=False)
         
-        # 2. Force headers to uppercase for consistency
+        # Force headers to uppercase for consistency
         df.columns = [c.strip().upper() for c in df.columns]
         
-        # 3. Dynamic Column Detection
-        # Identify Age column by checking unique values rather than header string
+        # DYNAMIC COLUMN DETECTION: Find age by looking for "year" in the data
         age_col = None
         for col in df.columns:
-            if df[col].astype(str).str.contains('year', case=False).any():
+            # Check if any cell in the first 100 rows contains "year"
+            if df[col].astype(str).head(100).str.contains('year', case=False).any():
                 age_col = col
                 break
         
         if not age_col:
+            log.error(f"Available columns: {list(df.columns)}")
             raise ValueError("Could not find a column containing age strings (e.g., 'years').")
 
-        # 4. Processing
         df['year'] = pd.to_numeric(df['REF_DATE'].astype(str).str[:4])
         df['HR_CODE'] = df['DGUID'].astype(str).str[-4:]
         df['LHIN'] = df['HR_CODE'].map(LHIN_MAP)
         df['mapped_age'] = df[age_col].map(AGE_MAP)
         
-        # Filter for only relevant LHINs and Age Groups
+        # Filter and Aggregate
         df = df[df['LHIN'].notna() & df['mapped_age'].notna()]
-        
-        # Aggregate across Sex/Gender (Value is typically the 'VALUE' column)
         final = df.groupby(['LHIN', 'year', 'mapped_age'], as_index=False)['VALUE'].sum()
         final.columns = ['LHIN', 'year', 'age_group', 'population']
         
-        # 5. Export
         save_path = OUT_DIR / "population_by_age_lhin.csv"
         final.to_csv(save_path, index=False)
         log.info(f"✅ SUCCESS: {len(final)} records saved to {save_path}")
