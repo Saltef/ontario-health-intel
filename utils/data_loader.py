@@ -1,51 +1,62 @@
 import pandas as pd
 import numpy as np
 from pathlib import Path
+import streamlit as st
 
-# Paths based on your statcan.py output
-ROOT = Path(__file__).parent.parent
-PROCESSED_DIR = ROOT / "data" / "processed"
+# Explicit path resolution for Codespaces/Local
+ROOT = Path(__file__).resolve().parent.parent
+PROCESSED_FILE = ROOT / "data" / "processed" / "population_by_age_lhin.csv"
 INPUT_DIR = ROOT / "inputData"
 
 def get_projected_lhin_map(condition_name, target_year=2024):
     """
     Combines StatCan LHIN populations with Condition baseline rates.
-    Uses target_year to scale the provincial burden.
     """
-    # 1. Load Data
-    df_burden = pd.read_csv(INPUT_DIR / "layer2_current_burden.csv")
-    # StatCan fetcher creates this: LHIN, year, age_group, population
-    df_pop = pd.read_csv(PROCESSED_DIR / "population_by_age_lhin.csv")
-    
-    # 2. Extract Baseline (2024) and Condition stats
+    # 1. Safety Check: Does the fetcher's output exist?
+    if not PROCESSED_FILE.exists():
+        st.error(f"🚨 Data file missing: {PROCESSED_FILE}. Run 'python3 fetch/statcan.py' first.")
+        return pd.DataFrame()
+
+    # 2. Load Data
+    try:
+        df_burden = pd.read_csv(INPUT_DIR / "layer2_current_burden.csv")
+        df_pop = pd.read_csv(PROCESSED_FILE)
+    except FileNotFoundError as e:
+        st.error(f"🚨 Could not find input files: {e}")
+        return pd.DataFrame()
+
+    # 3. Extract Baseline Condition stats
+    if condition_name not in df_burden['condition'].values:
+        return pd.DataFrame()
     cond_stats = df_burden[df_burden['condition'] == condition_name].iloc[0]
-    
-    # 3. Aggregate LHIN data for the target year
+
+    # 4. Filter for the Target Year
     df_year = df_pop[df_pop['year'] == target_year].copy()
     if df_year.empty:
-        # Fallback: If projection year isn't in LHIN file, use max year available
         df_year = df_pop[df_pop['year'] == df_pop['year'].max()].copy()
 
-    # 4. Proxy Weights (Senior Skew)
+    # 5. Create Regional Summary (Age Buckets)
+    # The groups created by your fetcher: '0–14', '15–24', '25–44', '45–64', '65–74', '75–84', '85+'
     senior_groups = ['65–74', '75–84', '85+']
-    lhin_summary = df_year.groupby('LHIN').apply(
-        lambda x: pd.Series({
-            'pop_total': x['population'].sum(),
-            'pop_65_plus': x[x['age_group'].isin(senior_groups)]['population'].sum()
-        })
-    ).reset_index()
-
-    # 5. Apply "Age Inflation" logic
-    # Older regions get more weight for conditions like COPD
-    senior_weighted = ['COPD', 'Stroke', 'Pneumonia', 'Heart Failure']
     
+    def calc_group_stats(group):
+        return pd.Series({
+            'pop_total': group['population'].sum(),
+            'pop_65_plus': group[group['age_group'].isin(senior_groups)]['population'].sum()
+        })
+
+    lhin_summary = df_year.groupby('LHIN', group_keys=False).apply(calc_group_stats).reset_index()
+
+    # 6. Apply Proxy Weighting
+    senior_weighted = ['COPD', 'Stroke', 'Pneumonia', 'Heart Failure']
     if condition_name in senior_weighted:
         total_seniors = lhin_summary['pop_65_plus'].sum()
-        lhin_summary['weight'] = lhin_summary['pop_65_plus'] / total_seniors
+        lhin_summary['weight'] = lhin_summary['pop_65_plus'] / total_seniors if total_seniors > 0 else 0
     else:
-        lhin_summary['weight'] = lhin_summary['pop_total'] / lhin_summary['pop_total'].sum()
+        total_pop = lhin_summary['pop_total'].sum()
+        lhin_summary['weight'] = lhin_summary['pop_total'] / total_pop if total_pop > 0 else 0
 
-    # 6. Final Calculations
+    # 7. Final Projection
     lhin_summary['predicted_admissions'] = lhin_summary['weight'] * cond_stats['admissions']
     lhin_summary['predicted_cost'] = lhin_summary['weight'] * cond_stats['total_cost']
     
