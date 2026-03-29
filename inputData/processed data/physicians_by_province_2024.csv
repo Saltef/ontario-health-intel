@@ -1,0 +1,43 @@
+Province,Provider_Type,Total_Physicians,Rural,Urban
+Alberta,All physicians,11750,793,10916
+Alberta,Family medicine physicians,5734,725,4980
+Alberta,Specialists,6016,68,5936
+British Columbia,All physicians,15460,757,14673
+British Columbia,Family medicine physicians,7838,685,7139
+British Columbia,Specialists,7622,72,7534
+Canada,All physicians,99555,6957,92326
+Canada,Family medicine physicians,49188,6010,43034
+Canada,Specialists,50367,947,49292
+Manitoba,All physicians,3357,385,2961
+Manitoba,Family medicine physicians,1670,341,1324
+Manitoba,Specialists,1687,44,1637
+New Brunswick,All physicians,2214,330,1882
+New Brunswick,Family medicine physicians,1179,303,875
+New Brunswick,Specialists,1035,27,1007
+Newfoundland and Labrador,All physicians,1421,291,1127
+Newfoundland and Labrador,Family medicine physicians,662,206,455
+Newfoundland and Labrador,Specialists,759,85,672
+Northwest Territories,All physicians,51,11,40
+Northwest Territories,Family medicine physicians,39,11,28
+Northwest Territories,Specialists,12,0,12
+Nova Scotia,All physicians,2888,532,2328
+Nova Scotia,Family medicine physicians,1329,353,964
+Nova Scotia,Specialists,1559,179,1364
+Nunavut,All physicians,23,23,0
+Nunavut,Family medicine physicians,20,20,0
+Nunavut,Specialists,3,3,0
+Ontario,All physicians,35653,1446,34089
+Ontario,Family medicine physicians,17304,1279,15967
+Ontario,Specialists,18349,167,18122
+Prince Edward Island,All physicians,377,41,331
+Prince Edward Island,Family medicine physicians,211,41,167
+Prince Edward Island,Specialists,166,0,164
+Quebec,All physicians,23562,2072,21477
+Quebec,Family medicine physicians,11701,1775,9920
+Quebec,Specialists,11861,297,11557
+Saskatchewan,All physicians,2709,265,2423
+Saskatchewan,Family medicine physicians,1429,260,1154
+Saskatchewan,Specialists,1280,5,1269
+Yukon,All physicians,90,11,79
+Yukon,Family medicine physicians,72,11,61
+Yukon,Specialists,18,0,18

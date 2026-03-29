@@ -1,0 +1,15 @@
+Province,Province_Full,Population_2024,Total_Physicians,Rural,Urban,Physicians_per_100K
+Alberta,Alberta,4700000.0,11750,793,10916,250.0
+British Columbia,British Columbia,5600000.0,15460,757,14673,276.1
+Canada,Canada,,99555,6957,92326,
+Manitoba,Manitoba,1400000.0,3357,385,2961,239.8
+New Brunswick,New Brunswick,820000.0,2214,330,1882,270.0
+Newfoundland and Labrador,Newfoundland and Labrador,540000.0,1421,291,1127,263.1
+Northwest Territories,Northwest Territories,45000.0,51,11,40,113.3
+Nova Scotia,Nova Scotia,1000000.0,2888,532,2328,288.8
+Nunavut,Nunavut,40000.0,23,23,0,57.5
+Ontario,Ontario,15500000.0,35653,1446,34089,230.0
+Prince Edward Island,Prince Edward Island,170000.0,377,41,331,221.8
+Quebec,Quebec,8900000.0,23562,2072,21477,264.7
+Saskatchewan,Saskatchewan,1200000.0,2709,265,2423,225.8
+Yukon,Yukon,45000.0,90,11,79,200.0

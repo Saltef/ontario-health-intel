@@ -1,0 +1,9 @@
+condition,primary_specialty,wait_weeks_ontario_specialist,wait_weeks_canada_specialist,wait_weeks_canada_total,data_source,confidence,notes
+Heart Failure,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,High,Internal Medicine treats most heart failure patients in outpatient setting
+COPD,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,High,Respirology is subspecialty of Internal Medicine; using Internal Med as proxy
+Chronic Kidney Disease,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,High,Nephrology is subspecialty of Internal Medicine; using Internal Med as proxy
+Type 2 Diabetes,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,High,Endocrinology is subspecialty of Internal Medicine; using Internal Med as proxy
+Hypertension,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,High,Cardiology is subspecialty of Internal Medicine; using Internal Med as proxy
+Stroke,Neurology,10.7,10.1,49.9,Fraser Institute 2025 - Neurosurgery (proxy),Medium,Using Neurosurgery as proxy; most stroke care is medical (neurology) not surgical
+Pneumonia,Internal Medicine,10.7,12.1,21.2,Fraser Institute 2025 - Internal Medicine,Medium,Infectious disease/respirology are subspecialties of Internal Medicine
+Mental Health,Psychiatry,,,,Not available in Fraser Institute 2025,None,Psychiatry wait times not included in Fraser survey

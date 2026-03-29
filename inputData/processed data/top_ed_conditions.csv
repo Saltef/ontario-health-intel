@@ -1,0 +1,14 @@
+Main_Problem,ED_Visits,ED_LOS_90pct_hours,Non_Admitted_Pct,Admitted_Pct,Extra
+"Pneumonia, organism unspecified",220223.0,20.0,78.6,21.4,
+Dorsalgia (back pain),215761.0,8.8,97.2,2.8,
+Acute upper respiratory infections of multiple and unspecified sites,213293.0,6.0,98.9,1.1,
+Other disorders of urinary system,178251.0,12.6,88.6,11.4,L03
+Open wound of wrist and hand,154290.0,5.7,99.7,0.3,
+Cellulitis,152845.0,9.9,91.3,8.7,J06
+Other medical care,147134.0,4.2,98.0,2.0,
+Open wound of head,126927.0,7.5,98.6,1.4,
+* Emergency department visits without a main problem diagnosis are excluded from this analysis.,,,,,
+† Admitted cases include patients who were admitted to the reporting facility and do not include patients who were transferred to another facility.,,,,,
+"NACRS abstracts that contain Main/Other Problem and are reported in this table include all (>95%) in Ontario, Saskatchewan, Alberta and the Yukon, as well as some in P.E.I. and Nova Scotia. In 2024–2025, the percentages of records including Main/Other Problem were as follows: 73% of ED visits in P.E.I. and 22% of ED visits in Nova Scotia.",,,,,
+Source,,,,,
+"National Ambulatory Care Reporting System, 2024–2025, Canadian Institute for Health Information.",,,,,

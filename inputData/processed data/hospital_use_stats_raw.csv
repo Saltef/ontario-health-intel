@@ -1,0 +1,24 @@
+Variable,Category,Value,Percentage of hospitalizations with code Z59.0*
+Total number of hospitalizations,,29321.0,100.0
+Hospitalizations admitted through the emergency department,,27230.0,92.87
+Hospitalizations with discharge disposition...,Absent without leave; Left against medical advice; Did not return from pass/leave; Died while on pass/leave; or Suicide while out of facility,6709.0,22.88
+Hospitalizations with discharge disposition...,In-hospital death,529.0,1.8
+Total LOS,Average LOS (in days),15.4,
+Total LOS,Hospitalizations with LOS greater than 30 days,3606.0,12.3
+ALC†,Average ALC days (in days),4.1,
+ALC†,Hospitalizations with reported ALC days,3031.0,11.86
+ALC†,Hospitalizations with ALC days greater than 30 days,897.0,3.51
+Average hospital cost ($)‡,,16784.62,
+Notes,,,
+* Percentage is calculated using all acute inpatient hospitalizations for patients experiencing homelessness in the Hospital Morbidity Database in 2022–2023.,,,
+"† ALC results for Quebec are not included (N without Quebec = 25,548). ALC definitions and data collection are different in Quebec, resulting in ALC cases that represent a sub-group of the ALC population found in other jurisdictions.",,,
+"‡ Hospital costs for patients experiencing homelessness are estimated by integrating financial and clinical information. Estimated hospital costs exclude compensation paid to physicians. As financial information is not available for 2022–2023, financial information for 2021–2022 was inflated using Statistics Canada’s Consumer Price Index (CPI) for 2022–2023 to estimate costs for hospitalizations during 2022–2023. Refer to the Notes to readers tab for more information.",,,
+n/a: Not applicable. ,,,
+LOS: Length of stay. Defined as the number of days a patient spends in hospital from time of admission to time of discharge.,,,
+"ALC: Alternate level of care. A patient occupying a bed in a facility who does not require the intensity of resources/services provided in that care setting (acute, chronic or complex continuing care, mental health or rehabilitation) is designated ""alternate level of care.""
+",,,
+"Table excludes newborns, stillborns and cadaveric donors.",,,
+Sources,,,
+"Hospital Morbidity Database, 2022–2023, and Canadian MIS Database, 2021–2022, Canadian Institute for Health Information.",,,
+"Statistics Canada. Table 18-10-0004-01: Consumer Price Index, monthly, not seasonally adjusted, April 2022.",,,
+End of worksheet,,,

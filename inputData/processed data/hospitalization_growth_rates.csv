@@ -1,0 +1,6 @@
+condition,first_year,last_year,years_span,first_volume,last_volume,absolute_change,cagr_pct,num_cmgs,data_source,confidence
+COPD,2017–2018,2021–2022,4,154427.0,82938.0,-71489.0,-14.393334511417422,1,CIHI Patient Cost Estimator (DAD),"Medium (5 years, all-province aggregate)"
+Heart Failure,2017–2018,2021–2022,4,171760.0,161789.0,-9971.0,-1.4840068619163205,4,CIHI Patient Cost Estimator (DAD),"Medium (5 years, all-province aggregate)"
+Stroke,2017–2018,2021–2022,4,5425.0,4189.0,-1236.0,-6.2594160797109115,2,CIHI Patient Cost Estimator (DAD),"Medium (5 years, all-province aggregate)"
+CKD,2017–2018,2021–2022,4,33447.0,35592.0,2145.0,1.5661068253373989,2,CIHI Patient Cost Estimator (DAD),"Medium (5 years, all-province aggregate)"
+Diabetes,2017–2018,2021–2022,4,44396.0,43906.0,-490.0,-0.27707519336790387,2,CIHI Patient Cost Estimator (DAD),"Medium (5 years, all-province aggregate)"

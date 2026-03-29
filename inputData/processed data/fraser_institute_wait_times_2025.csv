@@ -1,0 +1,15 @@
+specialty,total_wait_weeks,gp_to_specialist_weeks,specialist_to_treatment_weeks,wait_1993_weeks,change_since_1993_pct,province
+Internal Medicine,21.2,12.1,9.0,10.1,109.9009900990099,Canada
+Medical Oncology,4.7,2.2,2.5,,,Canada
+Radiation Oncology,4.2,1.8,2.3,,,Canada
+Weight/Bariatric Medicine,28.6,15.3,13.3,,,Canada
+Plastic Surgery,41.5,17.1,24.5,5.9,603.3898305084746,Canada
+Ophthalmology,40.6,15.6,25.0,3.1,1209.6774193548385,Canada
+Orthopaedic Surgery,43.8,21.4,22.4,3.1,1312.9032258064515,Canada
+Otolaryngology,22.4,10.5,10.2,2.0,1019.9999999999999,Canada
+General Surgery,22.4,10.5,10.2,,,Canada
+Neurosurgery,49.9,10.1,39.7,6.7,644.7761194029849,Canada
+Orthopaedic Surgery (Elective),48.6,21.3,27.2,8.1,500.0,Canada
+Cardiovascular Surgery (Elective),25.7,8.8,17.3,3.4,655.8823529411766,Canada
+Urology,25.7,17.3,8.3,4.2,511.90476190476187,Canada
+All Specialties (Ontario Average),19.2,10.7,8.5,,,Ontario

@@ -1,0 +1,1302 @@
+1,2,3,4,5,6,7,8,9,10,11
+ID,Year,Province/Territory,Type of provider,Supply: number of providers,Supply: inflow,Supply: outflow ,Supply: renewal,Workforce: number of providers,Inflow %,Outflow%
+2015AlbertaAll physicians,2015,Alberta,All physicians,10019,—,—,—,—,—,—
+2015British ColumbiaAll physicians,2015,British Columbia,All physicians,10917,—,—,—,—,—,—
+2015ManitobaAll physicians,2015,Manitoba,All physicians,2659,—,—,—,—,—,—
+2015New BrunswickAll physicians,2015,New Brunswick,All physicians,1674,—,—,—,—,—,—
+2015Newfoundland and LabradorAll physicians,2015,Newfoundland and Labrador,All physicians,1282,—,—,—,—,—,—
+2015Northwest TerritoriesAll physicians,2015,Northwest Territories,All physicians,37,—,—,—,—,—,—
+2015Nova ScotiaAll physicians,2015,Nova Scotia,All physicians,2465,—,—,—,—,—,—
+2015NunavutAll physicians,2015,Nunavut,All physicians,10,—,—,—,—,—,—
+2015OntarioAll physicians,2015,Ontario,All physicians,30494,—,—,—,—,—,—
+2015Prince Edward IslandAll physicians,2015,Prince Edward Island,All physicians,266,—,—,—,—,—,—
+2015Provinces/territories with available dataAll physicians,2015,Provinces/territories with available data,All physicians,82198,—,—,—,—,—,—
+2015QuebecAll physicians,2015,Quebec,All physicians,20055,—,—,—,—,—,—
+2015SaskatchewanAll physicians,2015,Saskatchewan,All physicians,2241,—,—,—,—,—,—
+2015YukonAll physicians,2015,Yukon,All physicians,79,—,—,—,—,—,—
+2015AlbertaFamily medicine physicians,2015,Alberta,Family medicine physicians,5213,—,—,—,—,—,—
+2015British ColumbiaFamily medicine physicians,2015,British Columbia,Family medicine physicians,5852,—,—,—,—,—,—
+2015ManitobaFamily medicine physicians,2015,Manitoba,Family medicine physicians,1386,—,—,—,—,—,—
+2015New BrunswickFamily medicine physicians,2015,New Brunswick,Family medicine physicians,914,—,—,—,—,—,—
+2015Newfoundland and LabradorFamily medicine physicians,2015,Newfoundland and Labrador,Family medicine physicians,666,—,—,—,—,—,—
+2015Northwest TerritoriesFamily medicine physicians,2015,Northwest Territories,Family medicine physicians,30,—,—,—,—,—,—
+2015Nova ScotiaFamily medicine physicians,2015,Nova Scotia,Family medicine physicians,1241,—,—,—,—,—,—
+2015NunavutFamily medicine physicians,2015,Nunavut,Family medicine physicians,9,—,—,—,—,—,—
+2015OntarioFamily medicine physicians,2015,Ontario,Family medicine physicians,15077,—,—,—,—,—,—
+2015Prince Edward IslandFamily medicine physicians,2015,Prince Edward Island,Family medicine physicians,147,—,—,—,—,—,—
+2015Provinces/territories with available dataFamily medicine physicians,2015,Provinces/territories with available data,Family medicine physicians,41551,—,—,—,—,—,—
+2015QuebecFamily medicine physicians,2015,Quebec,Family medicine physicians,9703,—,—,—,—,—,—
+2015SaskatchewanFamily medicine physicians,2015,Saskatchewan,Family medicine physicians,1245,—,—,—,—,—,—
+2015YukonFamily medicine physicians,2015,Yukon,Family medicine physicians,68,—,—,—,—,—,—
+2015AlbertaSpecialists,2015,Alberta,Specialists,4806,—,—,—,—,—,—
+2015British ColumbiaSpecialists,2015,British Columbia,Specialists,5065,—,—,—,—,—,—
+2015ManitobaSpecialists,2015,Manitoba,Specialists,1273,—,—,—,—,—,—
+2015New BrunswickSpecialists,2015,New Brunswick,Specialists,760,—,—,—,—,—,—
+2015Newfoundland and LabradorSpecialists,2015,Newfoundland and Labrador,Specialists,616,—,—,—,—,—,—
+2015Northwest TerritoriesSpecialists,2015,Northwest Territories,Specialists,7,—,—,—,—,—,—
+2015Nova ScotiaSpecialists,2015,Nova Scotia,Specialists,1224,—,—,—,—,—,—
+2015NunavutSpecialists,2015,Nunavut,Specialists,1,—,—,—,—,—,—
+2015OntarioSpecialists,2015,Ontario,Specialists,15417,—,—,—,—,—,—
+2015Prince Edward IslandSpecialists,2015,Prince Edward Island,Specialists,119,—,—,—,—,—,—
+2015Provinces/territories with available dataSpecialists,2015,Provinces/territories with available data,Specialists,40647,—,—,—,—,—,—
+2015QuebecSpecialists,2015,Quebec,Specialists,10352,—,—,—,—,—,—
+2015SaskatchewanSpecialists,2015,Saskatchewan,Specialists,996,—,—,—,—,—,—
+2015YukonSpecialists,2015,Yukon,Specialists,11,—,—,—,—,—,—
+2016AlbertaAll physicians,2016,Alberta,All physicians,10294,—,—,—,—,—,—
+2016British ColumbiaAll physicians,2016,British Columbia,All physicians,11547,—,—,—,—,—,—
+2016ManitobaAll physicians,2016,Manitoba,All physicians,2748,—,—,—,—,—,—
+2016New BrunswickAll physicians,2016,New Brunswick,All physicians,1735,—,—,—,—,—,—
+2016Newfoundland and LabradorAll physicians,2016,Newfoundland and Labrador,All physicians,1315,—,—,—,—,—,—
+2016Northwest TerritoriesAll physicians,2016,Northwest Territories,All physicians,33,—,—,—,—,—,—
+2016Nova ScotiaAll physicians,2016,Nova Scotia,All physicians,2457,—,—,—,—,—,—
+2016NunavutAll physicians,2016,Nunavut,All physicians,8,—,—,—,—,—,—
+2016OntarioAll physicians,2016,Ontario,All physicians,31017,—,—,—,—,—,—
+2016Prince Edward IslandAll physicians,2016,Prince Edward Island,All physicians,279,—,—,—,—,—,—
+2016Provinces/territories with available dataAll physicians,2016,Provinces/territories with available data,All physicians,84063,—,—,—,—,—,—
+2016QuebecAll physicians,2016,Quebec,All physicians,20270,—,—,—,—,—,—
+2016SaskatchewanAll physicians,2016,Saskatchewan,All physicians,2282,—,—,—,—,—,—
+2016YukonAll physicians,2016,Yukon,All physicians,78,—,—,—,—,—,—
+2016AlbertaFamily medicine physicians,2016,Alberta,Family medicine physicians,5320,—,—,—,—,—,—
+2016British ColumbiaFamily medicine physicians,2016,British Columbia,Family medicine physicians,6189,—,—,—,—,—,—
+2016ManitobaFamily medicine physicians,2016,Manitoba,Family medicine physicians,1423,—,—,—,—,—,—
+2016New BrunswickFamily medicine physicians,2016,New Brunswick,Family medicine physicians,960,—,—,—,—,—,—
+2016Newfoundland and LabradorFamily medicine physicians,2016,Newfoundland and Labrador,Family medicine physicians,682,—,—,—,—,—,—
+2016Northwest TerritoriesFamily medicine physicians,2016,Northwest Territories,Family medicine physicians,25,—,—,—,—,—,—
+2016Nova ScotiaFamily medicine physicians,2016,Nova Scotia,Family medicine physicians,1215,—,—,—,—,—,—
+2016NunavutFamily medicine physicians,2016,Nunavut,Family medicine physicians,7,—,—,—,—,—,—
+2016OntarioFamily medicine physicians,2016,Ontario,Family medicine physicians,15417,—,—,—,—,—,—
+2016Prince Edward IslandFamily medicine physicians,2016,Prince Edward Island,Family medicine physicians,152,—,—,—,—,—,—
+2016Provinces/territories with available dataFamily medicine physicians,2016,Provinces/territories with available data,Family medicine physicians,42522,—,—,—,—,—,—
+2016QuebecFamily medicine physicians,2016,Quebec,Family medicine physicians,9823,—,—,—,—,—,—
+2016SaskatchewanFamily medicine physicians,2016,Saskatchewan,Family medicine physicians,1241,—,—,—,—,—,—
+2016YukonFamily medicine physicians,2016,Yukon,Family medicine physicians,68,—,—,—,—,—,—
+2016AlbertaSpecialists,2016,Alberta,Specialists,4974,—,—,—,—,—,—
+2016British ColumbiaSpecialists,2016,British Columbia,Specialists,5358,—,—,—,—,—,—
+2016ManitobaSpecialists,2016,Manitoba,Specialists,1325,—,—,—,—,—,—
+2016New BrunswickSpecialists,2016,New Brunswick,Specialists,775,—,—,—,—,—,—
+2016Newfoundland and LabradorSpecialists,2016,Newfoundland and Labrador,Specialists,633,—,—,—,—,—,—
+2016Northwest TerritoriesSpecialists,2016,Northwest Territories,Specialists,8,—,—,—,—,—,—
+2016Nova ScotiaSpecialists,2016,Nova Scotia,Specialists,1242,—,—,—,—,—,—
+2016NunavutSpecialists,2016,Nunavut,Specialists,1,—,—,—,—,—,—
+2016OntarioSpecialists,2016,Ontario,Specialists,15600,—,—,—,—,—,—
+2016Prince Edward IslandSpecialists,2016,Prince Edward Island,Specialists,127,—,—,—,—,—,—
+2016Provinces/territories with available dataSpecialists,2016,Provinces/territories with available data,Specialists,41541,—,—,—,—,—,—
+2016QuebecSpecialists,2016,Quebec,Specialists,10447,—,—,—,—,—,—
+2016SaskatchewanSpecialists,2016,Saskatchewan,Specialists,1041,—,—,—,—,—,—
+2016YukonSpecialists,2016,Yukon,Specialists,10,—,—,—,—,—,—
+2017AlbertaAll physicians,2017,Alberta,All physicians,10680,—,—,—,—,—,—
+2017British ColumbiaAll physicians,2017,British Columbia,All physicians,11803,—,—,—,—,—,—
+2017ManitobaAll physicians,2017,Manitoba,All physicians,2833,—,—,—,—,—,—
+2017New BrunswickAll physicians,2017,New Brunswick,All physicians,1797,—,—,—,—,—,—
+2017Newfoundland and LabradorAll physicians,2017,Newfoundland and Labrador,All physicians,1347,—,—,—,—,—,—
+2017Northwest TerritoriesAll physicians,2017,Northwest Territories,All physicians,35,—,—,—,—,—,—
+2017Nova ScotiaAll physicians,2017,Nova Scotia,All physicians,2455,—,—,—,—,—,—
+2017NunavutAll physicians,2017,Nunavut,All physicians,8,—,—,—,—,—,—
+2017OntarioAll physicians,2017,Ontario,All physicians,32055,—,—,—,—,—,—
+2017Prince Edward IslandAll physicians,2017,Prince Edward Island,All physicians,289,—,—,—,—,—,—
+2017Provinces/territories with available dataAll physicians,2017,Provinces/territories with available data,All physicians,86643,—,—,—,—,—,—
+2017QuebecAll physicians,2017,Quebec,All physicians,20908,—,—,—,—,—,—
+2017SaskatchewanAll physicians,2017,Saskatchewan,All physicians,2356,—,—,—,—,—,—
+2017YukonAll physicians,2017,Yukon,All physicians,77,—,—,—,—,—,—
+2017AlbertaFamily medicine physicians,2017,Alberta,Family medicine physicians,5524,—,—,—,—,—,—
+2017British ColumbiaFamily medicine physicians,2017,British Columbia,Family medicine physicians,6372,—,—,—,—,—,—
+2017ManitobaFamily medicine physicians,2017,Manitoba,Family medicine physicians,1481,—,—,—,—,—,—
+2017New BrunswickFamily medicine physicians,2017,New Brunswick,Family medicine physicians,988,—,—,—,—,—,—
+2017Newfoundland and LabradorFamily medicine physicians,2017,Newfoundland and Labrador,Family medicine physicians,728,—,—,—,—,—,—
+2017Northwest TerritoriesFamily medicine physicians,2017,Northwest Territories,Family medicine physicians,27,—,—,—,—,—,—
+2017Nova ScotiaFamily medicine physicians,2017,Nova Scotia,Family medicine physicians,1233,—,—,—,—,—,—
+2017NunavutFamily medicine physicians,2017,Nunavut,Family medicine physicians,6,—,—,—,—,—,—
+2017OntarioFamily medicine physicians,2017,Ontario,Family medicine physicians,16088,—,—,—,—,—,—
+2017Prince Edward IslandFamily medicine physicians,2017,Prince Edward Island,Family medicine physicians,158,—,—,—,—,—,—
+2017Provinces/territories with available dataFamily medicine physicians,2017,Provinces/territories with available data,Family medicine physicians,44191,—,—,—,—,—,—
+2017QuebecFamily medicine physicians,2017,Quebec,Family medicine physicians,10200,—,—,—,—,—,—
+2017SaskatchewanFamily medicine physicians,2017,Saskatchewan,Family medicine physicians,1319,—,—,—,—,—,—
+2017YukonFamily medicine physicians,2017,Yukon,Family medicine physicians,67,—,—,—,—,—,—
+2017AlbertaSpecialists,2017,Alberta,Specialists,5156,—,—,—,—,—,—
+2017British ColumbiaSpecialists,2017,British Columbia,Specialists,5431,—,—,—,—,—,—
+2017ManitobaSpecialists,2017,Manitoba,Specialists,1352,—,—,—,—,—,—
+2017New BrunswickSpecialists,2017,New Brunswick,Specialists,809,—,—,—,—,—,—
+2017Newfoundland and LabradorSpecialists,2017,Newfoundland and Labrador,Specialists,619,—,—,—,—,—,—
+2017Northwest TerritoriesSpecialists,2017,Northwest Territories,Specialists,8,—,—,—,—,—,—
+2017Nova ScotiaSpecialists,2017,Nova Scotia,Specialists,1222,—,—,—,—,—,—
+2017NunavutSpecialists,2017,Nunavut,Specialists,2,—,—,—,—,—,—
+2017OntarioSpecialists,2017,Ontario,Specialists,15967,—,—,—,—,—,—
+2017Prince Edward IslandSpecialists,2017,Prince Edward Island,Specialists,131,—,—,—,—,—,—
+2017Provinces/territories with available dataSpecialists,2017,Provinces/territories with available data,Specialists,42452,—,—,—,—,—,—
+2017QuebecSpecialists,2017,Quebec,Specialists,10708,—,—,—,—,—,—
+2017SaskatchewanSpecialists,2017,Saskatchewan,Specialists,1037,—,—,—,—,—,—
+2017YukonSpecialists,2017,Yukon,Specialists,10,—,—,—,—,—,—
+2018AlbertaAll physicians,2018,Alberta,All physicians,10806,—,—,—,—,—,—
+2018British ColumbiaAll physicians,2018,British Columbia,All physicians,12553,—,—,—,—,—,—
+2018ManitobaAll physicians,2018,Manitoba,All physicians,2918,—,—,—,—,—,—
+2018New BrunswickAll physicians,2018,New Brunswick,All physicians,1885,—,—,—,—,—,—
+2018Newfoundland and LabradorAll physicians,2018,Newfoundland and Labrador,All physicians,1414,—,—,—,—,—,—
+2018Northwest TerritoriesAll physicians,2018,Northwest Territories,All physicians,41,—,—,—,—,—,—
+2018Nova ScotiaAll physicians,2018,Nova Scotia,All physicians,2616,—,—,—,—,—,—
+2018NunavutAll physicians,2018,Nunavut,All physicians,17,—,—,—,—,—,—
+2018OntarioAll physicians,2018,Ontario,All physicians,33872,—,—,—,—,—,—
+2018Prince Edward IslandAll physicians,2018,Prince Edward Island,All physicians,305,—,—,—,—,—,—
+2018Provinces/territories with available dataAll physicians,2018,Provinces/territories with available data,All physicians,89772,—,—,—,—,—,—
+2018QuebecAll physicians,2018,Quebec,All physicians,20878,—,—,—,—,—,—
+2018SaskatchewanAll physicians,2018,Saskatchewan,All physicians,2390,—,—,—,—,—,—
+2018YukonAll physicians,2018,Yukon,All physicians,77,—,—,—,—,—,—
+2018AlbertaFamily medicine physicians,2018,Alberta,Family medicine physicians,5489,—,—,—,—,—,—
+2018British ColumbiaFamily medicine physicians,2018,British Columbia,Family medicine physicians,6721,—,—,—,—,—,—
+2018ManitobaFamily medicine physicians,2018,Manitoba,Family medicine physicians,1488,—,—,—,—,—,—
+2018New BrunswickFamily medicine physicians,2018,New Brunswick,Family medicine physicians,1026,—,—,—,—,—,—
+2018Newfoundland and LabradorFamily medicine physicians,2018,Newfoundland and Labrador,Family medicine physicians,724,—,—,—,—,—,—
+2018Northwest TerritoriesFamily medicine physicians,2018,Northwest Territories,Family medicine physicians,35,—,—,—,—,—,—
+2018Nova ScotiaFamily medicine physicians,2018,Nova Scotia,Family medicine physicians,1292,—,—,—,—,—,—
+2018NunavutFamily medicine physicians,2018,Nunavut,Family medicine physicians,12,—,—,—,—,—,—
+2018OntarioFamily medicine physicians,2018,Ontario,Family medicine physicians,16814,—,—,—,—,—,—
+2018Prince Edward IslandFamily medicine physicians,2018,Prince Edward Island,Family medicine physicians,174,—,—,—,—,—,—
+2018Provinces/territories with available dataFamily medicine physicians,2018,Provinces/territories with available data,Family medicine physicians,45450,—,—,—,—,—,—
+2018QuebecFamily medicine physicians,2018,Quebec,Family medicine physicians,10292,—,—,—,—,—,—
+2018SaskatchewanFamily medicine physicians,2018,Saskatchewan,Family medicine physicians,1319,—,—,—,—,—,—
+2018YukonFamily medicine physicians,2018,Yukon,Family medicine physicians,64,—,—,—,—,—,—
+2018AlbertaSpecialists,2018,Alberta,Specialists,5317,—,—,—,—,—,—
+2018British ColumbiaSpecialists,2018,British Columbia,Specialists,5832,—,—,—,—,—,—
+2018ManitobaSpecialists,2018,Manitoba,Specialists,1430,—,—,—,—,—,—
+2018New BrunswickSpecialists,2018,New Brunswick,Specialists,859,—,—,—,—,—,—
+2018Newfoundland and LabradorSpecialists,2018,Newfoundland and Labrador,Specialists,690,—,—,—,—,—,—
+2018Northwest TerritoriesSpecialists,2018,Northwest Territories,Specialists,6,—,—,—,—,—,—
+2018Nova ScotiaSpecialists,2018,Nova Scotia,Specialists,1324,—,—,—,—,—,—
+2018NunavutSpecialists,2018,Nunavut,Specialists,5,—,—,—,—,—,—
+2018OntarioSpecialists,2018,Ontario,Specialists,17058,—,—,—,—,—,—
+2018Prince Edward IslandSpecialists,2018,Prince Edward Island,Specialists,131,—,—,—,—,—,—
+2018Provinces/territories with available dataSpecialists,2018,Provinces/territories with available data,Specialists,44322,—,—,—,—,—,—
+2018QuebecSpecialists,2018,Quebec,Specialists,10586,—,—,—,—,—,—
+2018SaskatchewanSpecialists,2018,Saskatchewan,Specialists,1071,—,—,—,—,—,—
+2018YukonSpecialists,2018,Yukon,Specialists,13,—,—,—,—,—,—
+2019AlbertaAll physicians,2019,Alberta,All physicians,11205,—,—,—,—,—,—
+2019British ColumbiaAll physicians,2019,British Columbia,All physicians,12757,—,—,—,—,—,—
+2019ManitobaAll physicians,2019,Manitoba,All physicians,2979,—,—,—,—,—,—
+2019New BrunswickAll physicians,2019,New Brunswick,All physicians,1923,—,—,—,—,—,—
+2019Newfoundland and LabradorAll physicians,2019,Newfoundland and Labrador,All physicians,1357,—,—,—,—,—,—
+2019Northwest TerritoriesAll physicians,2019,Northwest Territories,All physicians,44,—,—,—,—,—,—
+2019Nova ScotiaAll physicians,2019,Nova Scotia,All physicians,2624,—,—,—,—,—,—
+2019NunavutAll physicians,2019,Nunavut,All physicians,21,—,—,—,—,—,—
+2019OntarioAll physicians,2019,Ontario,All physicians,34091,—,—,—,—,—,—
+2019Prince Edward IslandAll physicians,2019,Prince Edward Island,All physicians,323,—,—,—,—,—,—
+2019Provinces/territories with available dataAll physicians,2019,Provinces/territories with available data,All physicians,91372,—,—,—,—,—,—
+2019QuebecAll physicians,2019,Quebec,All physicians,21485,—,—,—,—,—,—
+2019SaskatchewanAll physicians,2019,Saskatchewan,All physicians,2484,—,—,—,—,—,—
+2019YukonAll physicians,2019,Yukon,All physicians,79,—,—,—,—,—,—
+2019AlbertaFamily medicine physicians,2019,Alberta,Family medicine physicians,5599,—,—,—,—,—,—
+2019British ColumbiaFamily medicine physicians,2019,British Columbia,Family medicine physicians,6687,—,—,—,—,—,—
+2019ManitobaFamily medicine physicians,2019,Manitoba,Family medicine physicians,1491,—,—,—,—,—,—
+2019New BrunswickFamily medicine physicians,2019,New Brunswick,Family medicine physicians,1058,—,—,—,—,—,—
+2019Newfoundland and LabradorFamily medicine physicians,2019,Newfoundland and Labrador,Family medicine physicians,692,—,—,—,—,—,—
+2019Northwest TerritoriesFamily medicine physicians,2019,Northwest Territories,Family medicine physicians,37,—,—,—,—,—,—
+2019Nova ScotiaFamily medicine physicians,2019,Nova Scotia,Family medicine physicians,1295,—,—,—,—,—,—
+2019NunavutFamily medicine physicians,2019,Nunavut,Family medicine physicians,17,—,—,—,—,—,—
+2019OntarioFamily medicine physicians,2019,Ontario,Family medicine physicians,16863,—,—,—,—,—,—
+2019Prince Edward IslandFamily medicine physicians,2019,Prince Edward Island,Family medicine physicians,176,—,—,—,—,—,—
+2019Provinces/territories with available dataFamily medicine physicians,2019,Provinces/territories with available data,Family medicine physicians,46131,—,—,—,—,—,—
+2019QuebecFamily medicine physicians,2019,Quebec,Family medicine physicians,10786,—,—,—,—,—,—
+2019SaskatchewanFamily medicine physicians,2019,Saskatchewan,Family medicine physicians,1363,—,—,—,—,—,—
+2019YukonFamily medicine physicians,2019,Yukon,Family medicine physicians,67,—,—,—,—,—,—
+2019AlbertaSpecialists,2019,Alberta,Specialists,5606,—,—,—,—,—,—
+2019British ColumbiaSpecialists,2019,British Columbia,Specialists,6070,—,—,—,—,—,—
+2019ManitobaSpecialists,2019,Manitoba,Specialists,1488,—,—,—,—,—,—
+2019New BrunswickSpecialists,2019,New Brunswick,Specialists,865,—,—,—,—,—,—
+2019Newfoundland and LabradorSpecialists,2019,Newfoundland and Labrador,Specialists,665,—,—,—,—,—,—
+2019Northwest TerritoriesSpecialists,2019,Northwest Territories,Specialists,7,—,—,—,—,—,—
+2019Nova ScotiaSpecialists,2019,Nova Scotia,Specialists,1329,—,—,—,—,—,—
+2019NunavutSpecialists,2019,Nunavut,Specialists,4,—,—,—,—,—,—
+2019OntarioSpecialists,2019,Ontario,Specialists,17228,—,—,—,—,—,—
+2019Prince Edward IslandSpecialists,2019,Prince Edward Island,Specialists,147,—,—,—,—,—,—
+2019Provinces/territories with available dataSpecialists,2019,Provinces/territories with available data,Specialists,45241,—,—,—,—,—,—
+2019QuebecSpecialists,2019,Quebec,Specialists,10699,—,—,—,—,—,—
+2019SaskatchewanSpecialists,2019,Saskatchewan,Specialists,1121,—,—,—,—,—,—
+2019YukonSpecialists,2019,Yukon,Specialists,12,—,—,—,—,—,—
+2020AlbertaAll physicians,2020,Alberta,All physicians,11197,—,—,—,—,—,—
+2020British ColumbiaAll physicians,2020,British Columbia,All physicians,13073,—,—,—,—,—,—
+2020ManitobaAll physicians,2020,Manitoba,All physicians,2987,—,—,—,—,—,—
+2020New BrunswickAll physicians,2020,New Brunswick,All physicians,1949,—,—,—,—,—,—
+2020Newfoundland and LabradorAll physicians,2020,Newfoundland and Labrador,All physicians,1361,—,—,—,—,—,—
+2020Northwest TerritoriesAll physicians,2020,Northwest Territories,All physicians,52,—,—,—,—,—,—
+2020Nova ScotiaAll physicians,2020,Nova Scotia,All physicians,2719,—,—,—,—,—,—
+2020NunavutAll physicians,2020,Nunavut,All physicians,25,—,—,—,—,—,—
+2020OntarioAll physicians,2020,Ontario,All physicians,33830,—,—,—,—,—,—
+2020Prince Edward IslandAll physicians,2020,Prince Edward Island,All physicians,322,—,—,—,—,—,—
+2020Provinces/territories with available dataAll physicians,2020,Provinces/territories with available data,All physicians,92173,—,—,—,—,—,—
+2020QuebecAll physicians,2020,Quebec,All physicians,22038,—,—,—,—,—,—
+2020SaskatchewanAll physicians,2020,Saskatchewan,All physicians,2535,—,—,—,—,—,—
+2020YukonAll physicians,2020,Yukon,All physicians,85,—,—,—,—,—,—
+2020AlbertaFamily medicine physicians,2020,Alberta,Family medicine physicians,5496,—,—,—,—,—,—
+2020British ColumbiaFamily medicine physicians,2020,British Columbia,Family medicine physicians,6884,—,—,—,—,—,—
+2020ManitobaFamily medicine physicians,2020,Manitoba,Family medicine physicians,1494,—,—,—,—,—,—
+2020New BrunswickFamily medicine physicians,2020,New Brunswick,Family medicine physicians,1072,—,—,—,—,—,—
+2020Newfoundland and LabradorFamily medicine physicians,2020,Newfoundland and Labrador,Family medicine physicians,684,—,—,—,—,—,—
+2020Northwest TerritoriesFamily medicine physicians,2020,Northwest Territories,Family medicine physicians,40,—,—,—,—,—,—
+2020Nova ScotiaFamily medicine physicians,2020,Nova Scotia,Family medicine physicians,1365,—,—,—,—,—,—
+2020NunavutFamily medicine physicians,2020,Nunavut,Family medicine physicians,21,—,—,—,—,—,—
+2020OntarioFamily medicine physicians,2020,Ontario,Family medicine physicians,16990,—,—,—,—,—,—
+2020Prince Edward IslandFamily medicine physicians,2020,Prince Edward Island,Family medicine physicians,175,—,—,—,—,—,—
+2020Provinces/territories with available dataFamily medicine physicians,2020,Provinces/territories with available data,Family medicine physicians,46797,—,—,—,—,—,—
+2020QuebecFamily medicine physicians,2020,Quebec,Family medicine physicians,11098,—,—,—,—,—,—
+2020SaskatchewanFamily medicine physicians,2020,Saskatchewan,Family medicine physicians,1407,—,—,—,—,—,—
+2020YukonFamily medicine physicians,2020,Yukon,Family medicine physicians,71,—,—,—,—,—,—
+2020AlbertaSpecialists,2020,Alberta,Specialists,5701,—,—,—,—,—,—
+2020British ColumbiaSpecialists,2020,British Columbia,Specialists,6189,—,—,—,—,—,—
+2020ManitobaSpecialists,2020,Manitoba,Specialists,1493,—,—,—,—,—,—
+2020New BrunswickSpecialists,2020,New Brunswick,Specialists,877,—,—,—,—,—,—
+2020Newfoundland and LabradorSpecialists,2020,Newfoundland and Labrador,Specialists,677,—,—,—,—,—,—
+2020Northwest TerritoriesSpecialists,2020,Northwest Territories,Specialists,12,—,—,—,—,—,—
+2020Nova ScotiaSpecialists,2020,Nova Scotia,Specialists,1354,—,—,—,—,—,—
+2020NunavutSpecialists,2020,Nunavut,Specialists,4,—,—,—,—,—,—
+2020OntarioSpecialists,2020,Ontario,Specialists,16840,—,—,—,—,—,—
+2020Prince Edward IslandSpecialists,2020,Prince Edward Island,Specialists,147,—,—,—,—,—,—
+2020Provinces/territories with available dataSpecialists,2020,Provinces/territories with available data,Specialists,45376,—,—,—,—,—,—
+2020QuebecSpecialists,2020,Quebec,Specialists,10940,—,—,—,—,—,—
+2020SaskatchewanSpecialists,2020,Saskatchewan,Specialists,1128,—,—,—,—,—,—
+2020YukonSpecialists,2020,Yukon,Specialists,14,—,—,—,—,—,—
+2021AlbertaAll physicians,2021,Alberta,All physicians,11085,—,—,—,—,—,—
+2021British ColumbiaAll physicians,2021,British Columbia,All physicians,13540,—,—,—,—,—,—
+2021ManitobaAll physicians,2021,Manitoba,All physicians,2996,—,—,—,—,—,—
+2021New BrunswickAll physicians,2021,New Brunswick,All physicians,2022,—,—,—,—,—,—
+2021Newfoundland and LabradorAll physicians,2021,Newfoundland and Labrador,All physicians,1378,—,—,—,—,—,—
+2021Northwest TerritoriesAll physicians,2021,Northwest Territories,All physicians,53,—,—,—,—,—,—
+2021Nova ScotiaAll physicians,2021,Nova Scotia,All physicians,2736,—,—,—,—,—,—
+2021NunavutAll physicians,2021,Nunavut,All physicians,22,—,—,—,—,—,—
+2021OntarioAll physicians,2021,Ontario,All physicians,34860,—,—,—,—,—,—
+2021Prince Edward IslandAll physicians,2021,Prince Edward Island,All physicians,344,—,—,—,—,—,—
+2021Provinces/territories with available dataAll physicians,2021,Provinces/territories with available data,All physicians,94119,—,—,—,—,—,—
+2021QuebecAll physicians,2021,Quebec,All physicians,22451,—,—,—,—,—,—
+2021SaskatchewanAll physicians,2021,Saskatchewan,All physicians,2547,—,—,—,—,—,—
+2021YukonAll physicians,2021,Yukon,All physicians,85,—,—,—,—,—,—
+2021AlbertaFamily medicine physicians,2021,Alberta,Family medicine physicians,5423,—,—,—,—,—,—
+2021British ColumbiaFamily medicine physicians,2021,British Columbia,Family medicine physicians,7118,—,—,—,—,—,—
+2021ManitobaFamily medicine physicians,2021,Manitoba,Family medicine physicians,1505,—,—,—,—,—,—
+2021New BrunswickFamily medicine physicians,2021,New Brunswick,Family medicine physicians,1103,—,—,—,—,—,—
+2021Newfoundland and LabradorFamily medicine physicians,2021,Newfoundland and Labrador,Family medicine physicians,695,—,—,—,—,—,—
+2021Northwest TerritoriesFamily medicine physicians,2021,Northwest Territories,Family medicine physicians,42,—,—,—,—,—,—
+2021Nova ScotiaFamily medicine physicians,2021,Nova Scotia,Family medicine physicians,1374,—,—,—,—,—,—
+2021NunavutFamily medicine physicians,2021,Nunavut,Family medicine physicians,18,—,—,—,—,—,—
+2021OntarioFamily medicine physicians,2021,Ontario,Family medicine physicians,17220,—,—,—,—,—,—
+2021Prince Edward IslandFamily medicine physicians,2021,Prince Edward Island,Family medicine physicians,186,—,—,—,—,—,—
+2021Provinces/territories with available dataFamily medicine physicians,2021,Provinces/territories with available data,Family medicine physicians,47449,—,—,—,—,—,—
+2021QuebecFamily medicine physicians,2021,Quebec,Family medicine physicians,11334,—,—,—,—,—,—
+2021SaskatchewanFamily medicine physicians,2021,Saskatchewan,Family medicine physicians,1360,—,—,—,—,—,—
+2021YukonFamily medicine physicians,2021,Yukon,Family medicine physicians,71,—,—,—,—,—,—
+2021AlbertaSpecialists,2021,Alberta,Specialists,5662,—,—,—,—,—,—
+2021British ColumbiaSpecialists,2021,British Columbia,Specialists,6422,—,—,—,—,—,—
+2021ManitobaSpecialists,2021,Manitoba,Specialists,1491,—,—,—,—,—,—
+2021New BrunswickSpecialists,2021,New Brunswick,Specialists,919,—,—,—,—,—,—
+2021Newfoundland and LabradorSpecialists,2021,Newfoundland and Labrador,Specialists,683,—,—,—,—,—,—
+2021Northwest TerritoriesSpecialists,2021,Northwest Territories,Specialists,11,—,—,—,—,—,—
+2021Nova ScotiaSpecialists,2021,Nova Scotia,Specialists,1362,—,—,—,—,—,—
+2021NunavutSpecialists,2021,Nunavut,Specialists,4,—,—,—,—,—,—
+2021OntarioSpecialists,2021,Ontario,Specialists,17640,—,—,—,—,—,—
+2021Prince Edward IslandSpecialists,2021,Prince Edward Island,Specialists,158,—,—,—,—,—,—
+2021Provinces/territories with available dataSpecialists,2021,Provinces/territories with available data,Specialists,46670,—,—,—,—,—,—
+2021QuebecSpecialists,2021,Quebec,Specialists,11117,—,—,—,—,—,—
+2021SaskatchewanSpecialists,2021,Saskatchewan,Specialists,1187,—,—,—,—,—,—
+2021YukonSpecialists,2021,Yukon,Specialists,14,—,—,—,—,—,—
+2022AlbertaAll physicians,2022,Alberta,All physicians,11078,—,—,—,—,—,—
+2022British ColumbiaAll physicians,2022,British Columbia,All physicians,14353,—,—,—,—,—,—
+2022ManitobaAll physicians,2022,Manitoba,All physicians,3031,—,—,—,—,—,—
+2022New BrunswickAll physicians,2022,New Brunswick,All physicians,2163,—,—,—,—,—,—
+2022Newfoundland and LabradorAll physicians,2022,Newfoundland and Labrador,All physicians,1415,—,—,—,—,—,—
+2022Northwest TerritoriesAll physicians,2022,Northwest Territories,All physicians,57,—,—,—,—,—,—
+2022Nova ScotiaAll physicians,2022,Nova Scotia,All physicians,2758,—,—,—,—,—,—
+2022NunavutAll physicians,2022,Nunavut,All physicians,29,—,—,—,—,—,—
+2022OntarioAll physicians,2022,Ontario,All physicians,35320,—,—,—,—,—,—
+2022Prince Edward IslandAll physicians,2022,Prince Edward Island,All physicians,356,—,—,—,—,—,—
+2022Provinces/territories with available dataAll physicians,2022,Provinces/territories with available data,All physicians,96020,—,—,—,—,—,—
+2022QuebecAll physicians,2022,Quebec,All physicians,22765,—,—,—,—,—,—
+2022SaskatchewanAll physicians,2022,Saskatchewan,All physicians,2606,—,—,—,—,—,—
+2022YukonAll physicians,2022,Yukon,All physicians,89,—,—,—,—,—,—
+2022AlbertaFamily medicine physicians,2022,Alberta,Family medicine physicians,5417,—,—,—,—,—,—
+2022British ColumbiaFamily medicine physicians,2022,British Columbia,Family medicine physicians,7523,—,—,—,—,—,—
+2022ManitobaFamily medicine physicians,2022,Manitoba,Family medicine physicians,1570,—,—,—,—,—,—
+2022New BrunswickFamily medicine physicians,2022,New Brunswick,Family medicine physicians,1124,—,—,—,—,—,—
+2022Newfoundland and LabradorFamily medicine physicians,2022,Newfoundland and Labrador,Family medicine physicians,702,—,—,—,—,—,—
+2022Northwest TerritoriesFamily medicine physicians,2022,Northwest Territories,Family medicine physicians,45,—,—,—,—,—,—
+2022Nova ScotiaFamily medicine physicians,2022,Nova Scotia,Family medicine physicians,1346,—,—,—,—,—,—
+2022NunavutFamily medicine physicians,2022,Nunavut,Family medicine physicians,25,—,—,—,—,—,—
+2022OntarioFamily medicine physicians,2022,Ontario,Family medicine physicians,17416,—,—,—,—,—,—
+2022Prince Edward IslandFamily medicine physicians,2022,Prince Edward Island,Family medicine physicians,195,—,—,—,—,—,—
+2022Provinces/territories with available dataFamily medicine physicians,2022,Provinces/territories with available data,Family medicine physicians,48292,—,—,—,—,—,—
+2022QuebecFamily medicine physicians,2022,Quebec,Family medicine physicians,11449,—,—,—,—,—,—
+2022SaskatchewanFamily medicine physicians,2022,Saskatchewan,Family medicine physicians,1406,—,—,—,—,—,—
+2022YukonFamily medicine physicians,2022,Yukon,Family medicine physicians,74,—,—,—,—,—,—
+2022AlbertaSpecialists,2022,Alberta,Specialists,5661,—,—,—,—,—,—
+2022British ColumbiaSpecialists,2022,British Columbia,Specialists,6830,—,—,—,—,—,—
+2022ManitobaSpecialists,2022,Manitoba,Specialists,1461,—,—,—,—,—,—
+2022New BrunswickSpecialists,2022,New Brunswick,Specialists,1039,—,—,—,—,—,—
+2022Newfoundland and LabradorSpecialists,2022,Newfoundland and Labrador,Specialists,713,—,—,—,—,—,—
+2022Northwest TerritoriesSpecialists,2022,Northwest Territories,Specialists,12,—,—,—,—,—,—
+2022Nova ScotiaSpecialists,2022,Nova Scotia,Specialists,1412,—,—,—,—,—,—
+2022NunavutSpecialists,2022,Nunavut,Specialists,4,—,—,—,—,—,—
+2022OntarioSpecialists,2022,Ontario,Specialists,17904,—,—,—,—,—,—
+2022Prince Edward IslandSpecialists,2022,Prince Edward Island,Specialists,161,—,—,—,—,—,—
+2022Provinces/territories with available dataSpecialists,2022,Provinces/territories with available data,Specialists,47728,—,—,—,—,—,—
+2022QuebecSpecialists,2022,Quebec,Specialists,11316,—,—,—,—,—,—
+2022SaskatchewanSpecialists,2022,Saskatchewan,Specialists,1200,—,—,—,—,—,—
+2022YukonSpecialists,2022,Yukon,Specialists,15,—,—,—,—,—,—
+2023AlbertaAll physicians,2023,Alberta,All physicians,11275,—,—,—,—,—,—
+2023British ColumbiaAll physicians,2023,British Columbia,All physicians,15023,—,—,—,—,—,—
+2023ManitobaAll physicians,2023,Manitoba,All physicians,3187,—,—,—,—,—,—
+2023New BrunswickAll physicians,2023,New Brunswick,All physicians,2214,—,—,—,—,—,—
+2023Newfoundland and LabradorAll physicians,2023,Newfoundland and Labrador,All physicians,1399,—,—,—,—,—,—
+2023Northwest TerritoriesAll physicians,2023,Northwest Territories,All physicians,59,—,—,—,—,—,—
+2023Nova ScotiaAll physicians,2023,Nova Scotia,All physicians,2759,—,—,—,—,—,—
+2023NunavutAll physicians,2023,Nunavut,All physicians,29,—,—,—,—,—,—
+2023OntarioAll physicians,2023,Ontario,All physicians,35215,—,—,—,—,—,—
+2023Prince Edward IslandAll physicians,2023,Prince Edward Island,All physicians,373,—,—,—,—,—,—
+2023Provinces/territories with available dataAll physicians,2023,Provinces/territories with available data,All physicians,97384,—,—,—,—,—,—
+2023QuebecAll physicians,2023,Quebec,All physicians,23082,—,—,—,—,—,—
+2023SaskatchewanAll physicians,2023,Saskatchewan,All physicians,2677,—,—,—,—,—,—
+2023YukonAll physicians,2023,Yukon,All physicians,92,—,—,—,—,—,—
+2023AlbertaFamily medicine physicians,2023,Alberta,Family medicine physicians,5452,—,—,—,—,—,—
+2023British ColumbiaFamily medicine physicians,2023,British Columbia,Family medicine physicians,7615,—,—,—,—,—,—
+2023ManitobaFamily medicine physicians,2023,Manitoba,Family medicine physicians,1562,—,—,—,—,—,—
+2023New BrunswickFamily medicine physicians,2023,New Brunswick,Family medicine physicians,1181,—,—,—,—,—,—
+2023Newfoundland and LabradorFamily medicine physicians,2023,Newfoundland and Labrador,Family medicine physicians,666,—,—,—,—,—,—
+2023Northwest TerritoriesFamily medicine physicians,2023,Northwest Territories,Family medicine physicians,46,—,—,—,—,—,—
+2023Nova ScotiaFamily medicine physicians,2023,Nova Scotia,Family medicine physicians,1279,—,—,—,—,—,—
+2023NunavutFamily medicine physicians,2023,Nunavut,Family medicine physicians,25,—,—,—,—,—,—
+2023OntarioFamily medicine physicians,2023,Ontario,Family medicine physicians,17178,—,—,—,—,—,—
+2023Prince Edward IslandFamily medicine physicians,2023,Prince Edward Island,Family medicine physicians,205,—,—,—,—,—,—
+2023Provinces/territories with available dataFamily medicine physicians,2023,Provinces/territories with available data,Family medicine physicians,48264,—,—,—,—,—,—
+2023QuebecFamily medicine physicians,2023,Quebec,Family medicine physicians,11549,—,—,—,—,—,—
+2023SaskatchewanFamily medicine physicians,2023,Saskatchewan,Family medicine physicians,1431,—,—,—,—,—,—
+2023YukonFamily medicine physicians,2023,Yukon,Family medicine physicians,75,—,—,—,—,—,—
+2023AlbertaSpecialists,2023,Alberta,Specialists,5823,—,—,—,—,—,—
+2023British ColumbiaSpecialists,2023,British Columbia,Specialists,7408,—,—,—,—,—,—
+2023ManitobaSpecialists,2023,Manitoba,Specialists,1625,—,—,—,—,—,—
+2023New BrunswickSpecialists,2023,New Brunswick,Specialists,1033,—,—,—,—,—,—
+2023Newfoundland and LabradorSpecialists,2023,Newfoundland and Labrador,Specialists,733,—,—,—,—,—,—
+2023Northwest TerritoriesSpecialists,2023,Northwest Territories,Specialists,13,—,—,—,—,—,—
+2023Nova ScotiaSpecialists,2023,Nova Scotia,Specialists,1480,—,—,—,—,—,—
+2023NunavutSpecialists,2023,Nunavut,Specialists,4,—,—,—,—,—,—
+2023OntarioSpecialists,2023,Ontario,Specialists,18037,—,—,—,—,—,—
+2023Prince Edward IslandSpecialists,2023,Prince Edward Island,Specialists,168,—,—,—,—,—,—
+2023Provinces/territories with available dataSpecialists,2023,Provinces/territories with available data,Specialists,49120,—,—,—,—,—,—
+2023QuebecSpecialists,2023,Quebec,Specialists,11533,—,—,—,—,—,—
+2023SaskatchewanSpecialists,2023,Saskatchewan,Specialists,1246,—,—,—,—,—,—
+2023YukonSpecialists,2023,Yukon,Specialists,17,—,—,—,—,—,—
+2024AlbertaAll physicians,2024,Alberta,All physicians,11750,—,—,—,—,—,—
+2024British ColumbiaAll physicians,2024,British Columbia,All physicians,15460,—,—,—,—,—,—
+2024ManitobaAll physicians,2024,Manitoba,All physicians,3357,—,—,—,—,—,—
+2024New BrunswickAll physicians,2024,New Brunswick,All physicians,2214,—,—,—,—,—,—
+2024Newfoundland and LabradorAll physicians,2024,Newfoundland and Labrador,All physicians,1421,—,—,—,—,—,—
+2024Northwest TerritoriesAll physicians,2024,Northwest Territories,All physicians,51,—,—,—,—,—,—
+2024Nova ScotiaAll physicians,2024,Nova Scotia,All physicians,2888,—,—,—,—,—,—
+2024NunavutAll physicians,2024,Nunavut,All physicians,23,—,—,—,—,—,—
+2024OntarioAll physicians,2024,Ontario,All physicians,35653,—,—,—,—,—,—
+2024Prince Edward IslandAll physicians,2024,Prince Edward Island,All physicians,377,—,—,—,—,—,—
+2024Provinces/territories with available dataAll physicians,2024,Provinces/territories with available data,All physicians,99555,—,—,—,—,—,—
+2024QuebecAll physicians,2024,Quebec,All physicians,23562,—,—,—,—,—,—
+2024SaskatchewanAll physicians,2024,Saskatchewan,All physicians,2709,—,—,—,—,—,—
+2024YukonAll physicians,2024,Yukon,All physicians,90,—,—,—,—,—,—
+2024AlbertaFamily medicine physicians,2024,Alberta,Family medicine physicians,5734,—,—,—,—,—,—
+2024British ColumbiaFamily medicine physicians,2024,British Columbia,Family medicine physicians,7838,—,—,—,—,—,—
+2024ManitobaFamily medicine physicians,2024,Manitoba,Family medicine physicians,1670,—,—,—,—,—,—
+2024New BrunswickFamily medicine physicians,2024,New Brunswick,Family medicine physicians,1179,—,—,—,—,—,—
+2024Newfoundland and LabradorFamily medicine physicians,2024,Newfoundland and Labrador,Family medicine physicians,662,—,—,—,—,—,—
+2024Northwest TerritoriesFamily medicine physicians,2024,Northwest Territories,Family medicine physicians,39,—,—,—,—,—,—
+2024Nova ScotiaFamily medicine physicians,2024,Nova Scotia,Family medicine physicians,1329,—,—,—,—,—,—
+2024NunavutFamily medicine physicians,2024,Nunavut,Family medicine physicians,20,—,—,—,—,—,—
+2024OntarioFamily medicine physicians,2024,Ontario,Family medicine physicians,17304,—,—,—,—,—,—
+2024Prince Edward IslandFamily medicine physicians,2024,Prince Edward Island,Family medicine physicians,211,—,—,—,—,—,—
+2024Provinces/territories with available dataFamily medicine physicians,2024,Provinces/territories with available data,Family medicine physicians,49188,—,—,—,—,—,—
+2024QuebecFamily medicine physicians,2024,Quebec,Family medicine physicians,11701,—,—,—,—,—,—
+2024SaskatchewanFamily medicine physicians,2024,Saskatchewan,Family medicine physicians,1429,—,—,—,—,—,—
+2024YukonFamily medicine physicians,2024,Yukon,Family medicine physicians,72,—,—,—,—,—,—
+2024AlbertaSpecialists,2024,Alberta,Specialists,6016,—,—,—,—,—,—
+2024British ColumbiaSpecialists,2024,British Columbia,Specialists,7622,—,—,—,—,—,—
+2024ManitobaSpecialists,2024,Manitoba,Specialists,1687,—,—,—,—,—,—
+2024New BrunswickSpecialists,2024,New Brunswick,Specialists,1035,—,—,—,—,—,—
+2024Newfoundland and LabradorSpecialists,2024,Newfoundland and Labrador,Specialists,759,—,—,—,—,—,—
+2024Northwest TerritoriesSpecialists,2024,Northwest Territories,Specialists,12,—,—,—,—,—,—
+2024Nova ScotiaSpecialists,2024,Nova Scotia,Specialists,1559,—,—,—,—,—,—
+2024NunavutSpecialists,2024,Nunavut,Specialists,3,—,—,—,—,—,—
+2024OntarioSpecialists,2024,Ontario,Specialists,18349,—,—,—,—,—,—
+2024Prince Edward IslandSpecialists,2024,Prince Edward Island,Specialists,166,—,—,—,—,—,—
+2024Provinces/territories with available dataSpecialists,2024,Provinces/territories with available data,Specialists,50367,—,—,—,—,—,—
+2024QuebecSpecialists,2024,Quebec,Specialists,11861,—,—,—,—,—,—
+2024SaskatchewanSpecialists,2024,Saskatchewan,Specialists,1280,—,—,—,—,—,—
+2024YukonSpecialists,2024,Yukon,Specialists,18,—,—,—,—,—,—
+2015AlbertaLicensed practical nurses,2015,Alberta,Licensed practical nurses,12330,1846,790,10484,10801,0.149716139,0.064071371
+2015British ColumbiaLicensed practical nurses,2015,British Columbia,Licensed practical nurses,11619,1699,856,9920,10483,0.146226009,0.073672433
+2015ManitobaLicensed practical nurses,2015,Manitoba,Licensed practical nurses,3202,289,233,2913,3032,0.09025609,0.072767021
+2015New BrunswickLicensed practical nurses,2015,New Brunswick,Licensed practical nurses,3279,374,222,2905,3061,0.114059164,0.067703568
+2015Newfoundland and LabradorLicensed practical nurses,2015,Newfoundland and Labrador,Licensed practical nurses,2304,185,167,2119,2245,0.080295139,0.072482639
+2015Northwest TerritoriesLicensed practical nurses,2015,Northwest Territories,Licensed practical nurses,108,18,16,90,105,0.166666667,0.148148148
+2015Northwest Territories/NunavutLicensed practical nurses,2015,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2015Nova ScotiaLicensed practical nurses,2015,Nova Scotia,Licensed practical nurses,3908,366,285,3542,3774,0.093654043,0.072927329
+2015NunavutLicensed practical nurses,2015,Nunavut,Licensed practical nurses,99,—,—,—,—,—,—
+2015OntarioLicensed practical nurses,2015,Ontario,Licensed practical nurses,43656,4364,2120,39292,39069,0.09996335,0.048561481
+2015Prince Edward IslandLicensed practical nurses,2015,Prince Edward Island,Licensed practical nurses,644,44,37,600,548,0.068322981,0.057453416
+2015Provinces/territories with available dataLicensed practical nurses,2015,Provinces/territories with available data,Licensed practical nurses,113476,—,—,—,101327,—,—
+2015QuebecLicensed practical nurses,2015,Quebec,Licensed practical nurses,28712,3093,2526,25619,24867,0.107724993,0.087977152
+2015SaskatchewanLicensed practical nurses,2015,Saskatchewan,Licensed practical nurses,3503,424,274,3079,3230,0.121039109,0.07821867
+2015YukonLicensed practical nurses,2015,Yukon,Licensed practical nurses,112,17,12,95,112,0.151785714,0.107142857
+2015AlbertaNurse practitioners,2015,Alberta,Nurse practitioners,414,58,26,356,377,0.140096618,0.062801932
+2015British ColumbiaNurse practitioners,2015,British Columbia,Nurse practitioners,315,47,12,268,236,0.149206349,0.038095238
+2015ManitobaNurse practitioners,2015,Manitoba,Nurse practitioners,152,29,10,123,148,0.190789474,0.065789474
+2015New BrunswickNurse practitioners,2015,New Brunswick,Nurse practitioners,109,11,7,98,106,0.100917431,0.064220183
+2015Newfoundland and LabradorNurse practitioners,2015,Newfoundland and Labrador,Nurse practitioners,136,12,—,124,136,0.088235294,—
+2015Northwest Territories/NunavutNurse practitioners,2015,Northwest Territories/Nunavut,Nurse practitioners,48,15,13,33,45,0.3125,0.270833333
+2015Nova ScotiaNurse practitioners,2015,Nova Scotia,Nurse practitioners,149,12,12,137,143,0.080536913,0.080536913
+2015OntarioNurse practitioners,2015,Ontario,Nurse practitioners,2520,264,59,2256,2405,0.104761905,0.023412698
+2015Prince Edward IslandNurse practitioners,2015,Prince Edward Island,Nurse practitioners,17,5,4,12,14,0.294117647,0.235294118
+2015Provinces/territories with available dataNurse practitioners,2015,Provinces/territories with available data,Nurse practitioners,4356,—,—,—,4090,—,—
+2015QuebecNurse practitioners,2015,Quebec,Nurse practitioners,305,59,6,246,303,0.193442623,0.019672131
+2015SaskatchewanNurse practitioners,2015,Saskatchewan,Nurse practitioners,186,26,9,160,172,0.139784946,0.048387097
+2015YukonNurse practitioners,2015,Yukon,Nurse practitioners,5,0,1,5,5,0,0.2
+2015AlbertaOccupational therapists,2015,Alberta,Occupational therapists,2036,210,134,1826,1919,0.103143418,0.065815324
+2015British ColumbiaOccupational therapists,2015,British Columbia,Occupational therapists,2112,209,141,1903,2077,0.098958333,0.066761364
+2015ManitobaOccupational therapists,2015,Manitoba,Occupational therapists,646,87,64,559,645,0.134674923,0.099071207
+2015New BrunswickOccupational therapists,2015,New Brunswick,Occupational therapists,344,38,32,306,336,0.110465116,0.093023256
+2015Newfoundland and LabradorOccupational therapists,2015,Newfoundland and Labrador,Occupational therapists,205,51,10,154,201,0.248780488,0.048780488
+2015Northwest TerritoriesOccupational therapists,2015,Northwest Territories,Occupational therapists,17,3,2,14,17,0.176470588,0.117647059
+2015Nova ScotiaOccupational therapists,2015,Nova Scotia,Occupational therapists,495,41,25,454,441,0.082828283,0.050505051
+2015NunavutOccupational therapists,2015,Nunavut,Occupational therapists,3,0,0,3,3,0,0
+2015OntarioOccupational therapists,2015,Ontario,Occupational therapists,5457,512,348,4945,5168,0.093824446,0.063771303
+2015Prince Edward IslandOccupational therapists,2015,Prince Edward Island,Occupational therapists,58,12,2,46,57,0.206896552,0.034482759
+2015Provinces/territories with available dataOccupational therapists,2015,Provinces/territories with available data,Occupational therapists,16552,—,—,—,15541,—,—
+2015QuebecOccupational therapists,2015,Quebec,Occupational therapists,4826,276,219,4550,4330,0.05719022,0.045379196
+2015SaskatchewanOccupational therapists,2015,Saskatchewan,Occupational therapists,334,45,34,289,330,0.134730539,0.101796407
+2015YukonOccupational therapists,2015,Yukon,Occupational therapists,19,3,4,16,17,0.157894737,0.210526316
+2015AlbertaPharmacists,2015,Alberta,Pharmacists,4818,495,225,4323,4529,0.102739726,0.046699875
+2015British ColumbiaPharmacists,2015,British Columbia,Pharmacists,5197,392,372,4805,4775,0.075428132,0.071579758
+2015ManitobaPharmacists,2015,Manitoba,Pharmacists,1450,106,49,1344,1415,0.073103448,0.033793103
+2015New BrunswickPharmacists,2015,New Brunswick,Pharmacists,861,—,37,—,777,—,0.042973287
+2015Newfoundland and LabradorPharmacists,2015,Newfoundland and Labrador,Pharmacists,718,47,29,671,705,0.06545961,0.040389972
+2015Northwest TerritoriesPharmacists,2015,Northwest Territories,Pharmacists,30,11,6,19,30,0.366666667,0.2
+2015Nova ScotiaPharmacists,2015,Nova Scotia,Pharmacists,1325,90,79,1235,1277,0.067924528,0.059622642
+2015NunavutPharmacists,2015,Nunavut,Pharmacists,10,—,—,—,—,—,—
+2015OntarioPharmacists,2015,Ontario,Pharmacists,14390,988,359,13402,13704,0.068658791,0.02494788
+2015Prince Edward IslandPharmacists,2015,Prince Edward Island,Pharmacists,181,11,6,170,181,0.060773481,0.033149171
+2015Provinces/territories with available dataPharmacists,2015,Provinces/territories with available data,Pharmacists,39263,—,—,—,28894,—,—
+2015QuebecPharmacists,2015,Quebec,Pharmacists,8743,—,—,—,—,—,—
+2015SaskatchewanPharmacists,2015,Saskatchewan,Pharmacists,1492,118,71,1374,1467,0.079088472,0.047587131
+2015YukonPharmacists,2015,Yukon,Pharmacists,48,—,—,—,34,—,—
+2015AlbertaPhysiotherapists,2015,Alberta,Physiotherapists,2627,265,123,2362,2596,0.100875523,0.046821469
+2015British ColumbiaPhysiotherapists,2015,British Columbia,Physiotherapists,3404,278,165,3126,3321,0.081668625,0.048472385
+2015ManitobaPhysiotherapists,2015,Manitoba,Physiotherapists,707,82,56,625,707,0.115983027,0.079207921
+2015New BrunswickPhysiotherapists,2015,New Brunswick,Physiotherapists,509,29,27,480,506,0.05697446,0.053045187
+2015Newfoundland and LabradorPhysiotherapists,2015,Newfoundland and Labrador,Physiotherapists,269,33,16,236,265,0.12267658,0.059479554
+2015Nova ScotiaPhysiotherapists,2015,Nova Scotia,Physiotherapists,653,60,52,593,653,0.091883614,0.079632466
+2015OntarioPhysiotherapists,2015,Ontario,Physiotherapists,8161,794,430,7367,7733,0.097291999,0.052689621
+2015Prince Edward IslandPhysiotherapists,2015,Prince Edward Island,Physiotherapists,75,—,4,—,75,—,0.053333333
+2015Provinces/territories with available dataPhysiotherapists,2015,Provinces/territories with available data,Physiotherapists,21776,—,—,—,21117,—,—
+2015QuebecPhysiotherapists,2015,Quebec,Physiotherapists,4627,468,285,4159,4538,0.101145451,0.061594986
+2015SaskatchewanPhysiotherapists,2015,Saskatchewan,Physiotherapists,706,65,38,641,690,0.092067989,0.053824363
+2015YukonPhysiotherapists,2015,Yukon,Physiotherapists,38,x,0,x,33,—,0
+2015AlbertaRegistered nurses,2015,Alberta,Registered nurses,34764,4175,2239,30589,33773,0.120095501,0.064405707
+2015British ColumbiaRegistered nurses,2015,British Columbia,Registered nurses,35397,2798,2171,32599,33545,0.079046247,0.061332881
+2015ManitobaRegistered nurses,2015,Manitoba,Registered nurses,12634,775,594,11859,12165,0.061342409,0.047015989
+2015New BrunswickRegistered nurses,2015,New Brunswick,Registered nurses,8240,515,577,7725,7855,0.0625,0.070024272
+2015Newfoundland and LabradorRegistered nurses,2015,Newfoundland and Labrador,Registered nurses,6008,452,415,5556,5936,0.075233023,0.069074567
+2015Northwest Territories/NunavutRegistered nurses,2015,Northwest Territories/Nunavut,Registered nurses,1153,217,222,936,980,0.188204683,0.192541197
+2015Nova ScotiaRegistered nurses,2015,Nova Scotia,Registered nurses,9524,715,759,8809,9153,0.075073499,0.079693406
+2015OntarioRegistered nurses,2015,Ontario,Registered nurses,102490,4985,4698,97505,95659,0.048638892,0.045838618
+2015Prince Edward IslandRegistered nurses,2015,Prince Edward Island,Registered nurses,1586,97,125,1489,1523,0.061160151,0.078814628
+2015Provinces/territories with available dataRegistered nurses,2015,Provinces/territories with available data,Registered nurses,292464,—,—,—,279470,—,—
+2015QuebecRegistered nurses,2015,Quebec,Registered nurses,70042,4895,4413,65147,68435,0.069886639,0.063005054
+2015SaskatchewanRegistered nurses,2015,Saskatchewan,Registered nurses,10226,567,691,9659,10054,0.0554469,0.067572854
+2015YukonRegistered nurses,2015,Yukon,Registered nurses,400,64,71,336,392,0.16,0.1775
+2015AlbertaRegistered psychiatric nurses,2015,Alberta,Registered psychiatric nurses,1306,104,103,1202,1284,0.079632466,0.078866769
+2015British ColumbiaRegistered psychiatric nurses,2015,British Columbia,Registered psychiatric nurses,2580,250,171,2330,2400,0.096899225,0.06627907
+2015ManitobaRegistered psychiatric nurses,2015,Manitoba,Registered psychiatric nurses,995,78,80,917,938,0.07839196,0.08040201
+2015Northwest Territories/NunavutRegistered psychiatric nurses,2015,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2015Provinces/territories with available dataRegistered psychiatric nurses,2015,Provinces/territories with available data,Registered psychiatric nurses,5764,—,—,—,5463,—,—
+2015SaskatchewanRegistered psychiatric nurses,2015,Saskatchewan,Registered psychiatric nurses,878,82,66,796,841,0.093394077,0.075170843
+2015YukonRegistered psychiatric nurses,2015,Yukon,Registered psychiatric nurses,5,—,—,—,—,—,—
+2016AlbertaLicensed practical nurses,2016,Alberta,Licensed practical nurses,13261,1721,974,11540,11631,0.129779051,0.073448458
+2016British ColumbiaLicensed practical nurses,2016,British Columbia,Licensed practical nurses,11775,1012,853,10763,10832,0.085944798,0.072441614
+2016ManitobaLicensed practical nurses,2016,Manitoba,Licensed practical nurses,3235,266,199,2969,3103,0.082225657,0.061514683
+2016New BrunswickLicensed practical nurses,2016,New Brunswick,Licensed practical nurses,3345,288,317,3057,3139,0.086098655,0.094768311
+2016Newfoundland and LabradorLicensed practical nurses,2016,Newfoundland and Labrador,Licensed practical nurses,2347,210,173,2137,2273,0.089475927,0.073711121
+2016Northwest TerritoriesLicensed practical nurses,2016,Northwest Territories,Licensed practical nurses,133,41,25,92,116,0.308270677,0.187969925
+2016Northwest Territories/NunavutLicensed practical nurses,2016,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2016Nova ScotiaLicensed practical nurses,2016,Nova Scotia,Licensed practical nurses,4014,391,272,3623,3850,0.097409068,0.06776283
+2016NunavutLicensed practical nurses,2016,Nunavut,Licensed practical nurses,97,—,—,—,—,—,—
+2016OntarioLicensed practical nurses,2016,Ontario,Licensed practical nurses,46252,4716,2420,41536,41468,0.101963158,0.052322062
+2016Prince Edward IslandLicensed practical nurses,2016,Prince Edward Island,Licensed practical nurses,651,44,33,607,578,0.067588326,0.050691244
+2016Provinces/territories with available dataLicensed practical nurses,2016,Provinces/territories with available data,Licensed practical nurses,116605,—,—,—,105109,—,—
+2016QuebecLicensed practical nurses,2016,Quebec,Licensed practical nurses,27854,1668,2789,26186,24620,0.059883679,0.100129245
+2016SaskatchewanLicensed practical nurses,2016,Saskatchewan,Licensed practical nurses,3526,297,300,3229,3389,0.084231424,0.085082246
+2016YukonLicensed practical nurses,2016,Yukon,Licensed practical nurses,115,15,—,100,110,0.130434783,—
+2016AlbertaNurse practitioners,2016,Alberta,Nurse practitioners,449,61,23,388,427,0.135857461,0.051224944
+2016British ColumbiaNurse practitioners,2016,British Columbia,Nurse practitioners,385,82,26,303,269,0.212987013,0.067532468
+2016ManitobaNurse practitioners,2016,Manitoba,Nurse practitioners,163,21,1,142,162,0.128834356,0.006134969
+2016New BrunswickNurse practitioners,2016,New Brunswick,Nurse practitioners,117,15,7,102,113,0.128205128,0.05982906
+2016Newfoundland and LabradorNurse practitioners,2016,Newfoundland and Labrador,Nurse practitioners,149,—,5,—,148,—,0.033557047
+2016Northwest Territories/NunavutNurse practitioners,2016,Northwest Territories/Nunavut,Nurse practitioners,45,10,5,35,38,0.222222222,0.111111111
+2016Nova ScotiaNurse practitioners,2016,Nova Scotia,Nurse practitioners,146,9,12,137,141,0.061643836,0.082191781
+2016OntarioNurse practitioners,2016,Ontario,Nurse practitioners,2769,308,74,2461,2646,0.111231492,0.026724449
+2016Prince Edward IslandNurse practitioners,2016,Prince Edward Island,Nurse practitioners,22,9,1,13,22,0.409090909,0.045454545
+2016Provinces/territories with available dataNurse practitioners,2016,Provinces/territories with available data,Nurse practitioners,4836,—,—,—,4540,—,—
+2016QuebecNurse practitioners,2016,Quebec,Nurse practitioners,380,81,8,299,378,0.213157895,0.021052632
+2016SaskatchewanNurse practitioners,2016,Saskatchewan,Nurse practitioners,206,29,14,177,192,0.140776699,0.067961165
+2016YukonNurse practitioners,2016,Yukon,Nurse practitioners,5,1,0,4,4,0.2,0
+2016AlbertaOccupational therapists,2016,Alberta,Occupational therapists,2072,170,115,1902,1907,0.082046332,0.055501931
+2016British ColumbiaOccupational therapists,2016,British Columbia,Occupational therapists,2213,242,134,1971,2178,0.109353818,0.060551288
+2016ManitobaOccupational therapists,2016,Manitoba,Occupational therapists,632,50,67,582,629,0.079113924,0.106012658
+2016New BrunswickOccupational therapists,2016,New Brunswick,Occupational therapists,357,45,28,312,347,0.12605042,0.078431373
+2016Newfoundland and LabradorOccupational therapists,2016,Newfoundland and Labrador,Occupational therapists,208,13,15,195,206,0.0625,0.072115385
+2016Northwest TerritoriesOccupational therapists,2016,Northwest Territories,Occupational therapists,16,1,7,15,16,0.0625,0.4375
+2016Nova ScotiaOccupational therapists,2016,Nova Scotia,Occupational therapists,516,46,28,470,453,0.089147287,0.054263566
+2016NunavutOccupational therapists,2016,Nunavut,Occupational therapists,4,1,0,3,4,0.25,0
+2016OntarioOccupational therapists,2016,Ontario,Occupational therapists,5616,507,303,5109,5440,0.090277778,0.053952991
+2016Prince Edward IslandOccupational therapists,2016,Prince Edward Island,Occupational therapists,62,6,6,56,61,0.096774194,0.096774194
+2016Provinces/territories with available dataOccupational therapists,2016,Provinces/territories with available data,Occupational therapists,17034,—,—,—,16047,—,—
+2016QuebecOccupational therapists,2016,Quebec,Occupational therapists,4980,373,186,4607,4455,0.074899598,0.037349398
+2016SaskatchewanOccupational therapists,2016,Saskatchewan,Occupational therapists,340,40,38,300,334,0.117647059,0.111764706
+2016YukonOccupational therapists,2016,Yukon,Occupational therapists,18,3,6,15,17,0.166666667,0.333333333
+2016AlbertaPharmacists,2016,Alberta,Pharmacists,5120,527,331,4593,4765,0.102929688,0.064648438
+2016British ColumbiaPharmacists,2016,British Columbia,Pharmacists,5188,363,193,4825,4820,0.06996916,0.037201234
+2016ManitobaPharmacists,2016,Manitoba,Pharmacists,1524,123,65,1401,1479,0.080708661,0.042650919
+2016New BrunswickPharmacists,2016,New Brunswick,Pharmacists,865,41,34,824,833,0.047398844,0.039306358
+2016Newfoundland and LabradorPharmacists,2016,Newfoundland and Labrador,Pharmacists,752,63,67,689,742,0.083776596,0.089095745
+2016Northwest TerritoriesPharmacists,2016,Northwest Territories,Pharmacists,34,10,5,24,33,0.294117647,0.147058824
+2016Nova ScotiaPharmacists,2016,Nova Scotia,Pharmacists,1322,76,67,1246,1277,0.057488654,0.050680787
+2016NunavutPharmacists,2016,Nunavut,Pharmacists,37,—,—,—,—,—,—
+2016OntarioPharmacists,2016,Ontario,Pharmacists,14952,921,425,14031,14411,0.061597111,0.028424291
+2016Prince Edward IslandPharmacists,2016,Prince Edward Island,Pharmacists,188,13,3,175,181,0.069148936,0.015957447
+2016Provinces/territories with available dataPharmacists,2016,Provinces/territories with available data,Pharmacists,40888,—,—,—,30061,—,—
+2016QuebecPharmacists,2016,Quebec,Pharmacists,9310,—,—,—,—,—,—
+2016SaskatchewanPharmacists,2016,Saskatchewan,Pharmacists,1554,133,78,1421,1520,0.085585586,0.05019305
+2016YukonPharmacists,2016,Yukon,Pharmacists,42,—,—,—,—,—,—
+2016AlbertaPhysiotherapists,2016,Alberta,Physiotherapists,2770,266,178,2504,2751,0.096028881,0.064259928
+2016British ColumbiaPhysiotherapists,2016,British Columbia,Physiotherapists,3538,299,149,3239,3404,0.084511023,0.042114189
+2016ManitobaPhysiotherapists,2016,Manitoba,Physiotherapists,730,79,58,651,729,0.108219178,0.079452055
+2016New BrunswickPhysiotherapists,2016,New Brunswick,Physiotherapists,516,34,25,482,513,0.065891473,0.048449612
+2016Newfoundland and LabradorPhysiotherapists,2016,Newfoundland and Labrador,Physiotherapists,279,26,17,253,273,0.093189964,0.0609319
+2016Nova ScotiaPhysiotherapists,2016,Nova Scotia,Physiotherapists,671,70,48,601,671,0.104321908,0.071535022
+2016OntarioPhysiotherapists,2016,Ontario,Physiotherapists,8513,782,436,7731,8161,0.091859509,0.051215788
+2016Prince Edward IslandPhysiotherapists,2016,Prince Edward Island,Physiotherapists,91,20,6,71,89,0.21978022,0.065934066
+2016Provinces/territories with available dataPhysiotherapists,2016,Provinces/territories with available data,Physiotherapists,22391,—,—,—,21807,—,—
+2016QuebecPhysiotherapists,2016,Quebec,Physiotherapists,4505,163,327,4342,4455,0.03618202,0.072586016
+2016SaskatchewanPhysiotherapists,2016,Saskatchewan,Physiotherapists,733,65,54,668,719,0.088676671,0.07366985
+2016YukonPhysiotherapists,2016,Yukon,Physiotherapists,45,7,0,38,42,0.155555556,0
+2016AlbertaRegistered nurses,2016,Alberta,Registered nurses,34992,2467,2153,32525,34651,0.070501829,0.061528349
+2016British ColumbiaRegistered nurses,2016,British Columbia,Registered nurses,36506,3280,2058,33226,34405,0.089848244,0.056374295
+2016ManitobaRegistered nurses,2016,Manitoba,Registered nurses,12707,667,78,12040,12203,0.052490753,0.006138349
+2016New BrunswickRegistered nurses,2016,New Brunswick,Registered nurses,8033,370,527,7663,7716,0.046060002,0.065604382
+2016Newfoundland and LabradorRegistered nurses,2016,Newfoundland and Labrador,Registered nurses,6023,448,437,5819,5901,0.071485559,0.072555205
+2016Northwest Territories/NunavutRegistered nurses,2016,Northwest Territories/Nunavut,Registered nurses,1135,204,197,931,991,0.179735683,0.173568282
+2016Nova ScotiaRegistered nurses,2016,Nova Scotia,Registered nurses,9489,724,774,8765,9111,0.076298872,0.081568132
+2016OntarioRegistered nurses,2016,Ontario,Registered nurses,102006,4214,4877,97792,95609,0.041311295,0.047810913
+2016Prince Edward IslandRegistered nurses,2016,Prince Edward Island,Registered nurses,1611,150,131,1461,1517,0.09310987,0.081315953
+2016Provinces/territories with available dataRegistered nurses,2016,Provinces/territories with available data,Registered nurses,294022,—,—,—,280932,—,—
+2016QuebecRegistered nurses,2016,Quebec,Registered nurses,70600,4971,4819,65629,68164,0.070410765,0.06825779
+2016SaskatchewanRegistered nurses,2016,Saskatchewan,Registered nurses,10507,972,597,9535,10264,0.092509755,0.056819263
+2016YukonRegistered nurses,2016,Yukon,Registered nurses,413,84,46,329,400,0.203389831,0.111380145
+2016AlbertaRegistered psychiatric nurses,2016,Alberta,Registered psychiatric nurses,1313,110,101,1203,1265,0.083777609,0.076923077
+2016British ColumbiaRegistered psychiatric nurses,2016,British Columbia,Registered psychiatric nurses,2670,261,198,2409,2527,0.097752809,0.074157303
+2016ManitobaRegistered psychiatric nurses,2016,Manitoba,Registered psychiatric nurses,1019,104,73,915,979,0.102060844,0.071638862
+2016Northwest Territories/NunavutRegistered psychiatric nurses,2016,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2016Provinces/territories with available dataRegistered psychiatric nurses,2016,Provinces/territories with available data,Registered psychiatric nurses,5856,—,—,—,5596,—,—
+2016SaskatchewanRegistered psychiatric nurses,2016,Saskatchewan,Registered psychiatric nurses,850,38,60,812,825,0.044705882,0.070588235
+2016YukonRegistered psychiatric nurses,2016,Yukon,Registered psychiatric nurses,4,—,—,—,—,—,—
+2017AlbertaLicensed practical nurses,2017,Alberta,Licensed practical nurses,13958,1671,873,12287,12272,0.119716292,0.062544777
+2017British ColumbiaLicensed practical nurses,2017,British Columbia,Licensed practical nurses,11982,1060,772,10922,10657,0.088466032,0.064429978
+2017ManitobaLicensed practical nurses,2017,Manitoba,Licensed practical nurses,3313,277,230,3036,3171,0.083610021,0.069423483
+2017New BrunswickLicensed practical nurses,2017,New Brunswick,Licensed practical nurses,3252,224,255,3028,3145,0.068880689,0.078413284
+2017Newfoundland and LabradorLicensed practical nurses,2017,Newfoundland and Labrador,Licensed practical nurses,2403,229,244,2174,2303,0.095297545,0.101539742
+2017Northwest TerritoriesLicensed practical nurses,2017,Northwest Territories,Licensed practical nurses,131,23,28,108,107,0.175572519,0.213740458
+2017Northwest Territories/NunavutLicensed practical nurses,2017,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2017Nova ScotiaLicensed practical nurses,2017,Nova Scotia,Licensed practical nurses,4142,400,319,3742,3994,0.096571704,0.077015934
+2017NunavutLicensed practical nurses,2017,Nunavut,Licensed practical nurses,118,—,—,—,—,—,—
+2017OntarioLicensed practical nurses,2017,Ontario,Licensed practical nurses,48045,4213,2733,43832,43053,0.087688625,0.056884171
+2017Prince Edward IslandLicensed practical nurses,2017,Prince Edward Island,Licensed practical nurses,670,52,31,618,601,0.07761194,0.046268657
+2017Provinces/territories with available dataLicensed practical nurses,2017,Provinces/territories with available data,Licensed practical nurses,119077,—,—,—,106864,—,—
+2017QuebecLicensed practical nurses,2017,Quebec,Licensed practical nurses,27299,2234,2008,25065,24169,0.081834499,0.073555808
+2017SaskatchewanLicensed practical nurses,2017,Saskatchewan,Licensed practical nurses,3630,404,343,3226,3392,0.111294766,0.094490358
+2017YukonLicensed practical nurses,2017,Yukon,Licensed practical nurses,134,—,—,—,—,—,—
+2017AlbertaNurse practitioners,2017,Alberta,Nurse practitioners,481,55,24,426,462,0.114345114,0.04989605
+2017British ColumbiaNurse practitioners,2017,British Columbia,Nurse practitioners,418,59,20,359,322,0.141148325,0.04784689
+2017ManitobaNurse practitioners,2017,Manitoba,Nurse practitioners,178,16,3,162,167,0.08988764,0.016853933
+2017New BrunswickNurse practitioners,2017,New Brunswick,Nurse practitioners,125,15,11,110,121,0.12,0.088
+2017Newfoundland and LabradorNurse practitioners,2017,Newfoundland and Labrador,Nurse practitioners,165,21,15,144,163,0.127272727,0.090909091
+2017Northwest Territories/NunavutNurse practitioners,2017,Northwest Territories/Nunavut,Nurse practitioners,57,17,9,40,55,0.298245614,0.157894737
+2017Nova ScotiaNurse practitioners,2017,Nova Scotia,Nurse practitioners,163,29,9,134,157,0.17791411,0.055214724
+2017OntarioNurse practitioners,2017,Ontario,Nurse practitioners,3011,316,84,2695,2855,0.104948522,0.027897708
+2017Prince Edward IslandNurse practitioners,2017,Prince Edward Island,Nurse practitioners,24,3,1,21,24,0.125,0.041666667
+2017Provinces/territories with available dataNurse practitioners,2017,Provinces/territories with available data,Nurse practitioners,5276,—,—,—,4967,—,—
+2017QuebecNurse practitioners,2017,Quebec,Nurse practitioners,431,59,8,372,431,0.136890951,0.018561485
+2017SaskatchewanNurse practitioners,2017,Saskatchewan,Nurse practitioners,216,24,9,192,204,0.111111111,0.041666667
+2017YukonNurse practitioners,2017,Yukon,Nurse practitioners,7,2,2,5,6,0.285714286,0.285714286
+2017AlbertaOccupational therapists,2017,Alberta,Occupational therapists,2145,188,122,1957,1962,0.087645688,0.056876457
+2017British ColumbiaOccupational therapists,2017,British Columbia,Occupational therapists,2307,228,163,2079,2276,0.098829649,0.07065453
+2017ManitobaOccupational therapists,2017,Manitoba,Occupational therapists,649,84,64,565,641,0.129429892,0.098613251
+2017New BrunswickOccupational therapists,2017,New Brunswick,Occupational therapists,368,39,29,329,364,0.105978261,0.078804348
+2017Newfoundland and LabradorOccupational therapists,2017,Newfoundland and Labrador,Occupational therapists,205,12,—,193,203,0.058536585,—
+2017Northwest TerritoriesOccupational therapists,2017,Northwest Territories,Occupational therapists,11,2,1,9,11,0.181818182,0.090909091
+2017Nova ScotiaOccupational therapists,2017,Nova Scotia,Occupational therapists,531,43,43,488,468,0.080979284,0.080979284
+2017NunavutOccupational therapists,2017,Nunavut,Occupational therapists,6,2,2,4,5,0.333333333,0.333333333
+2017OntarioOccupational therapists,2017,Ontario,Occupational therapists,5835,522,326,5313,5597,0.089460154,0.055869751
+2017Prince Edward IslandOccupational therapists,2017,Prince Edward Island,Occupational therapists,64,8,8,56,64,0.125,0.125
+2017Provinces/territories with available dataOccupational therapists,2017,Provinces/territories with available data,Occupational therapists,17675,—,—,—,16621,—,—
+2017QuebecOccupational therapists,2017,Quebec,Occupational therapists,5193,399,194,4794,4677,0.0768342,0.037357982
+2017SaskatchewanOccupational therapists,2017,Saskatchewan,Occupational therapists,345,43,32,302,341,0.124637681,0.092753623
+2017YukonOccupational therapists,2017,Yukon,Occupational therapists,16,4,6,12,12,0.25,0.375
+2017AlbertaPharmacists,2017,Alberta,Pharmacists,5276,487,339,4789,4917,0.092304776,0.064253222
+2017British ColumbiaPharmacists,2017,British Columbia,Pharmacists,5532,537,245,4995,5142,0.097071584,0.04428778
+2017ManitobaPharmacists,2017,Manitoba,Pharmacists,1575,116,61,1459,1539,0.073650794,0.038730159
+2017New BrunswickPharmacists,2017,New Brunswick,Pharmacists,913,82,57,831,857,0.089813801,0.062431544
+2017Newfoundland and LabradorPharmacists,2017,Newfoundland and Labrador,Pharmacists,734,49,35,685,725,0.066757493,0.047683924
+2017Northwest TerritoriesPharmacists,2017,Northwest Territories,Pharmacists,41,12,6,29,41,0.292682927,0.146341463
+2017Nova ScotiaPharmacists,2017,Nova Scotia,Pharmacists,1321,66,69,1255,1264,0.04996215,0.052233157
+2017NunavutPharmacists,2017,Nunavut,Pharmacists,31,—,—,—,—,—,—
+2017OntarioPharmacists,2017,Ontario,Pharmacists,15413,886,418,14527,14680,0.057483942,0.027119964
+2017Prince Edward IslandPharmacists,2017,Prince Edward Island,Pharmacists,187,2,4,185,185,0.010695187,0.021390374
+2017Provinces/territories with available dataPharmacists,2017,Provinces/territories with available data,Pharmacists,41843,—,—,—,30917,—,—
+2017QuebecPharmacists,2017,Quebec,Pharmacists,9161,—,—,—,—,—,—
+2017SaskatchewanPharmacists,2017,Saskatchewan,Pharmacists,1606,130,74,1476,1567,0.080946451,0.04607721
+2017YukonPharmacists,2017,Yukon,Pharmacists,53,—,—,—,—,—,—
+2017AlbertaPhysiotherapists,2017,Alberta,Physiotherapists,2846,254,153,2592,2806,0.089248067,0.053759663
+2017British ColumbiaPhysiotherapists,2017,British Columbia,Physiotherapists,3690,301,191,3389,3587,0.081571816,0.051761518
+2017ManitobaPhysiotherapists,2017,Manitoba,Physiotherapists,760,88,74,672,758,0.115789474,0.097368421
+2017New BrunswickPhysiotherapists,2017,New Brunswick,Physiotherapists,509,18,35,491,504,0.035363458,0.068762279
+2017Newfoundland and LabradorPhysiotherapists,2017,Newfoundland and Labrador,Physiotherapists,284,22,13,262,280,0.077464789,0.045774648
+2017Nova ScotiaPhysiotherapists,2017,Nova Scotia,Physiotherapists,695,72,42,623,695,0.103597122,0.060431655
+2017OntarioPhysiotherapists,2017,Ontario,Physiotherapists,8748,671,423,8077,8490,0.076703246,0.048353909
+2017Prince Edward IslandPhysiotherapists,2017,Prince Edward Island,Physiotherapists,94,9,17,85,89,0.095744681,0.180851064
+2017Provinces/territories with available dataPhysiotherapists,2017,Provinces/territories with available data,Physiotherapists,22985,—,—,—,22477,—,—
+2017QuebecPhysiotherapists,2017,Quebec,Physiotherapists,4628,450,161,4178,4548,0.097234226,0.034788245
+2017SaskatchewanPhysiotherapists,2017,Saskatchewan,Physiotherapists,731,52,50,679,720,0.071135431,0.068399453
+2017YukonPhysiotherapists,2017,Yukon,Physiotherapists,—,—,—,—,—,—,—
+2017AlbertaRegistered nurses,2017,Alberta,Registered nurses,35448,2609,2163,32839,34356,0.073600767,0.061018957
+2017British ColumbiaRegistered nurses,2017,British Columbia,Registered nurses,37355,2907,2639,34448,35207,0.077820908,0.0706465
+2017ManitobaRegistered nurses,2017,Manitoba,Registered nurses,13126,497,647,12629,12282,0.037863782,0.049291483
+2017New BrunswickRegistered nurses,2017,New Brunswick,Registered nurses,8045,539,536,7506,7759,0.066998135,0.066625233
+2017Newfoundland and LabradorRegistered nurses,2017,Newfoundland and Labrador,Registered nurses,5969,383,477,5586,5855,0.064164852,0.079912883
+2017Northwest Territories/NunavutRegistered nurses,2017,Northwest Territories/Nunavut,Registered nurses,1013,75,221,938,990,0.074037512,0.21816387
+2017Nova ScotiaRegistered nurses,2017,Nova Scotia,Registered nurses,9498,783,848,8715,9073,0.082438408,0.089281954
+2017OntarioRegistered nurses,2017,Ontario,Registered nurses,101912,4783,4997,97129,94948,0.046932648,0.049032499
+2017Prince Edward IslandRegistered nurses,2017,Prince Edward Island,Registered nurses,1628,148,128,1480,1547,0.090909091,0.078624079
+2017Provinces/territories with available dataRegistered nurses,2017,Provinces/territories with available data,Registered nurses,295755,—,—,—,281365,—,—
+2017QuebecRegistered nurses,2017,Quebec,Registered nurses,70629,4848,4161,65781,68498,0.06864036,0.058913477
+2017SaskatchewanRegistered nurses,2017,Saskatchewan,Registered nurses,10677,767,672,9910,10416,0.071836658,0.062939028
+2017YukonRegistered nurses,2017,Yukon,Registered nurses,455,88,78,367,434,0.193406593,0.171428571
+2017AlbertaRegistered psychiatric nurses,2017,Alberta,Registered psychiatric nurses,1317,105,93,1212,1276,0.079726651,0.070615034
+2017British ColumbiaRegistered psychiatric nurses,2017,British Columbia,Registered psychiatric nurses,2719,247,199,2472,2526,0.090842221,0.073188672
+2017ManitobaRegistered psychiatric nurses,2017,Manitoba,Registered psychiatric nurses,1054,108,85,946,1002,0.102466793,0.080645161
+2017Northwest Territories/NunavutRegistered psychiatric nurses,2017,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2017Provinces/territories with available dataRegistered psychiatric nurses,2017,Provinces/territories with available data,Registered psychiatric nurses,5934,—,—,—,5591,—,—
+2017SaskatchewanRegistered psychiatric nurses,2017,Saskatchewan,Registered psychiatric nurses,844,54,68,790,787,0.063981043,0.08056872
+2017YukonRegistered psychiatric nurses,2017,Yukon,Registered psychiatric nurses,—,—,—,—,—,—,—
+2018AlbertaLicensed practical nurses,2018,Alberta,Licensed practical nurses,14805,1720,1003,13085,12324,0.116176967,0.067747383
+2018British ColumbiaLicensed practical nurses,2018,British Columbia,Licensed practical nurses,12152,942,904,11210,11514,0.077518104,0.074391047
+2018ManitobaLicensed practical nurses,2018,Manitoba,Licensed practical nurses,3373,290,206,3083,3229,0.085976875,0.061073229
+2018New BrunswickLicensed practical nurses,2018,New Brunswick,Licensed practical nurses,3394,397,—,2997,3224,0.116971126,—
+2018Newfoundland and LabradorLicensed practical nurses,2018,Newfoundland and Labrador,Licensed practical nurses,2376,217,217,2159,2296,0.091329966,0.091329966
+2018Northwest TerritoriesLicensed practical nurses,2018,Northwest Territories,Licensed practical nurses,121,18,28,103,107,0.148760331,0.231404959
+2018Northwest Territories/NunavutLicensed practical nurses,2018,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2018Nova ScotiaLicensed practical nurses,2018,Nova Scotia,Licensed practical nurses,4252,429,368,3823,4044,0.100893697,0.086547507
+2018NunavutLicensed practical nurses,2018,Nunavut,Licensed practical nurses,132,—,—,—,—,—,—
+2018OntarioLicensed practical nurses,2018,Ontario,Licensed practical nurses,49968,4656,2910,45312,45267,0.093179635,0.058237272
+2018Prince Edward IslandLicensed practical nurses,2018,Prince Edward Island,Licensed practical nurses,725,86,—,639,619,0.11862069,—
+2018Provinces/territories with available dataLicensed practical nurses,2018,Provinces/territories with available data,Licensed practical nurses,122746,—,—,—,109446,—,—
+2018QuebecLicensed practical nurses,2018,Quebec,Licensed practical nurses,27604,2313,2059,25291,23416,0.083792204,0.074590639
+2018SaskatchewanLicensed practical nurses,2018,Saskatchewan,Licensed practical nurses,3649,362,376,3287,3406,0.099205262,0.103041929
+2018YukonLicensed practical nurses,2018,Yukon,Licensed practical nurses,195,—,—,—,—,—,—
+2018AlbertaNurse practitioners,2018,Alberta,Nurse practitioners,529,72,28,457,504,0.13610586,0.052930057
+2018British ColumbiaNurse practitioners,2018,British Columbia,Nurse practitioners,465,67,24,398,356,0.144086022,0.051612903
+2018ManitobaNurse practitioners,2018,Manitoba,Nurse practitioners,193,18,6,175,174,0.093264249,0.031088083
+2018New BrunswickNurse practitioners,2018,New Brunswick,Nurse practitioners,130,16,9,114,126,0.123076923,0.069230769
+2018Newfoundland and LabradorNurse practitioners,2018,Newfoundland and Labrador,Nurse practitioners,168,18,16,150,164,0.107142857,0.095238095
+2018Northwest Territories/NunavutNurse practitioners,2018,Northwest Territories/Nunavut,Nurse practitioners,50,x,10,x,50,—,0.2
+2018Nova ScotiaNurse practitioners,2018,Nova Scotia,Nurse practitioners,182,28,8,154,175,0.153846154,0.043956044
+2018OntarioNurse practitioners,2018,Ontario,Nurse practitioners,3206,279,69,2927,3032,0.087024329,0.021522146
+2018Prince Edward IslandNurse practitioners,2018,Prince Edward Island,Nurse practitioners,29,6,1,23,28,0.206896552,0.034482759
+2018Provinces/territories with available dataNurse practitioners,2018,Provinces/territories with available data,Nurse practitioners,5697,—,—,—,5335,—,—
+2018QuebecNurse practitioners,2018,Quebec,Nurse practitioners,509,86,17,423,503,0.168958743,0.033398821
+2018SaskatchewanNurse practitioners,2018,Saskatchewan,Nurse practitioners,228,21,11,207,215,0.092105263,0.048245614
+2018YukonNurse practitioners,2018,Yukon,Nurse practitioners,8,3,0,5,8,0.375,0
+2018AlbertaOccupational therapists,2018,Alberta,Occupational therapists,2209,186,131,2023,2025,0.084200996,0.059302852
+2018British ColumbiaOccupational therapists,2018,British Columbia,Occupational therapists,2383,239,142,2144,2349,0.100293747,0.059588754
+2018ManitobaOccupational therapists,2018,Manitoba,Occupational therapists,676,91,64,585,672,0.134615385,0.094674556
+2018New BrunswickOccupational therapists,2018,New Brunswick,Occupational therapists,373,34,24,339,366,0.091152815,0.064343164
+2018Newfoundland and LabradorOccupational therapists,2018,Newfoundland and Labrador,Occupational therapists,214,—,9,—,209,—,0.042056075
+2018Northwest TerritoriesOccupational therapists,2018,Northwest Territories,Occupational therapists,17,7,3,10,17,0.411764706,0.176470588
+2018Nova ScotiaOccupational therapists,2018,Nova Scotia,Occupational therapists,542,54,35,488,529,0.099630996,0.064575646
+2018NunavutOccupational therapists,2018,Nunavut,Occupational therapists,4,0,0,4,3,0,0
+2018OntarioOccupational therapists,2018,Ontario,Occupational therapists,6017,508,307,5509,5864,0.084427456,0.051022104
+2018Prince Edward IslandOccupational therapists,2018,Prince Edward Island,Occupational therapists,66,10,4,56,66,0.151515152,0.060606061
+2018Provinces/territories with available dataOccupational therapists,2018,Provinces/territories with available data,Occupational therapists,18254,—,—,—,17334,—,—
+2018QuebecOccupational therapists,2018,Quebec,Occupational therapists,5386,387,180,4999,4873,0.071852952,0.033419978
+2018SaskatchewanOccupational therapists,2018,Saskatchewan,Occupational therapists,349,36,29,313,346,0.103151862,0.083094556
+2018YukonOccupational therapists,2018,Yukon,Occupational therapists,18,8,0,10,15,0.444444444,0
+2018AlbertaPharmacists,2018,Alberta,Pharmacists,5435,498,310,4937,5122,0.091628335,0.057037718
+2018British ColumbiaPharmacists,2018,British Columbia,Pharmacists,5677,390,289,5287,5335,0.068698256,0.050907169
+2018ManitobaPharmacists,2018,Manitoba,Pharmacists,1620,106,84,1514,1587,0.065432099,0.051851852
+2018New BrunswickPharmacists,2018,New Brunswick,Pharmacists,914,58,54,856,872,0.06345733,0.059080963
+2018Newfoundland and LabradorPharmacists,2018,Newfoundland and Labrador,Pharmacists,756,57,47,699,739,0.075396825,0.062169312
+2018Northwest TerritoriesPharmacists,2018,Northwest Territories,Pharmacists,42,7,9,35,42,0.166666667,0.214285714
+2018Nova ScotiaPharmacists,2018,Nova Scotia,Pharmacists,1336,84,87,1252,1282,0.062874251,0.06511976
+2018NunavutPharmacists,2018,Nunavut,Pharmacists,42,—,—,—,—,—,—
+2018OntarioPharmacists,2018,Ontario,Pharmacists,15890,895,—,14995,14984,0.056324733,—
+2018Prince Edward IslandPharmacists,2018,Prince Edward Island,Pharmacists,191,8,5,183,188,0.041884817,0.02617801
+2018Provinces/territories with available dataPharmacists,2018,Provinces/territories with available data,Pharmacists,42877,—,—,—,31760,—,—
+2018QuebecPharmacists,2018,Quebec,Pharmacists,9263,—,—,—,—,—,—
+2018SaskatchewanPharmacists,2018,Saskatchewan,Pharmacists,1645,113,76,1532,1609,0.068693009,0.046200608
+2018YukonPharmacists,2018,Yukon,Pharmacists,66,—,—,—,—,—,—
+2018AlbertaPhysiotherapists,2018,Alberta,Physiotherapists,2972,279,156,2693,2921,0.093876178,0.052489906
+2018British ColumbiaPhysiotherapists,2018,British Columbia,Physiotherapists,3824,325,235,3499,3771,0.08498954,0.061453975
+2018ManitobaPhysiotherapists,2018,Manitoba,Physiotherapists,789,103,79,686,784,0.130544994,0.100126743
+2018New BrunswickPhysiotherapists,2018,New Brunswick,Physiotherapists,541,67,9,474,541,0.123844732,0.01663586
+2018Newfoundland and LabradorPhysiotherapists,2018,Newfoundland and Labrador,Physiotherapists,294,23,18,271,289,0.078231293,0.06122449
+2018Nova ScotiaPhysiotherapists,2018,Nova Scotia,Physiotherapists,719,66,—,653,719,0.091794159,—
+2018OntarioPhysiotherapists,2018,Ontario,Physiotherapists,9227,902,457,8325,8392,0.097756584,0.049528557
+2018Prince Edward IslandPhysiotherapists,2018,Prince Edward Island,Physiotherapists,85,8,7,77,73,0.094117647,0.082352941
+2018Provinces/territories with available dataPhysiotherapists,2018,Provinces/territories with available data,Physiotherapists,24661,—,—,—,23389,—,—
+2018QuebecPhysiotherapists,2018,Quebec,Physiotherapists,5410,943,277,4467,5163,0.174306839,0.051201479
+2018SaskatchewanPhysiotherapists,2018,Saskatchewan,Physiotherapists,746,65,54,681,736,0.087131367,0.072386059
+2018YukonPhysiotherapists,2018,Yukon,Physiotherapists,54,—,—,—,—,—,—
+2018AlbertaRegistered nurses,2018,Alberta,Registered nurses,35691,2406,2243,33285,34079,0.067411953,0.062844975
+2018British ColumbiaRegistered nurses,2018,British Columbia,Registered nurses,37592,2876,2804,34716,35495,0.076505639,0.074590338
+2018ManitobaRegistered nurses,2018,Manitoba,Registered nurses,13172,693,717,12479,11670,0.0526116,0.054433647
+2018New BrunswickRegistered nurses,2018,New Brunswick,Registered nurses,8037,528,554,7509,7713,0.065696155,0.068931193
+2018Newfoundland and LabradorRegistered nurses,2018,Newfoundland and Labrador,Registered nurses,5869,377,464,5492,5737,0.064235815,0.079059465
+2018Northwest Territories/NunavutRegistered nurses,2018,Northwest Territories/Nunavut,Registered nurses,811,19,127,792,801,0.023427867,0.156596794
+2018Nova ScotiaRegistered nurses,2018,Nova Scotia,Registered nurses,9442,792,792,8650,8997,0.083880534,0.083880534
+2018OntarioRegistered nurses,2018,Ontario,Registered nurses,102396,5481,4794,96915,95814,0.053527482,0.046818235
+2018Prince Edward IslandRegistered nurses,2018,Prince Edward Island,Registered nurses,1666,166,114,1500,1560,0.099639856,0.068427371
+2018Provinces/territories with available dataRegistered nurses,2018,Provinces/territories with available data,Registered nurses,297456,—,—,—,282394,—,—
+2018QuebecRegistered nurses,2018,Quebec,Registered nurses,71479,5011,3957,66468,69526,0.070104506,0.055358917
+2018SaskatchewanRegistered nurses,2018,Saskatchewan,Registered nurses,10825,820,621,10005,10538,0.075750577,0.057367206
+2018YukonRegistered nurses,2018,Yukon,Registered nurses,476,99,111,377,464,0.207983193,0.233193277
+2018AlbertaRegistered psychiatric nurses,2018,Alberta,Registered psychiatric nurses,1334,110,90,1224,1295,0.082458771,0.067466267
+2018British ColumbiaRegistered psychiatric nurses,2018,British Columbia,Registered psychiatric nurses,2787,267,—,2520,2638,0.095801938,—
+2018ManitobaRegistered psychiatric nurses,2018,Manitoba,Registered psychiatric nurses,1077,108,99,969,992,0.100278552,0.091922006
+2018Northwest Territories/NunavutRegistered psychiatric nurses,2018,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2018Provinces/territories with available dataRegistered psychiatric nurses,2018,Provinces/territories with available data,Registered psychiatric nurses,6029,—,—,—,5680,—,—
+2018SaskatchewanRegistered psychiatric nurses,2018,Saskatchewan,Registered psychiatric nurses,826,50,59,776,755,0.060532688,0.071428571
+2018YukonRegistered psychiatric nurses,2018,Yukon,Registered psychiatric nurses,5,—,—,—,—,—,—
+2019AlbertaLicensed practical nurses,2019,Alberta,Licensed practical nurses,15513,1711,945,13802,13546,0.110294592,0.060916651
+2019British ColumbiaLicensed practical nurses,2019,British Columbia,Licensed practical nurses,12351,1103,1033,11248,11821,0.08930451,0.083636952
+2019ManitobaLicensed practical nurses,2019,Manitoba,Licensed practical nurses,3518,351,218,3167,3376,0.099772598,0.061967027
+2019New BrunswickLicensed practical nurses,2019,New Brunswick,Licensed practical nurses,3286,—,—,—,—,—,—
+2019Newfoundland and LabradorLicensed practical nurses,2019,Newfoundland and Labrador,Licensed practical nurses,2390,231,207,2159,2313,0.09665272,0.086610879
+2019Northwest TerritoriesLicensed practical nurses,2019,Northwest Territories,Licensed practical nurses,115,22,15,93,111,0.191304348,0.130434783
+2019Northwest Territories/NunavutLicensed practical nurses,2019,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2019Nova ScotiaLicensed practical nurses,2019,Nova Scotia,Licensed practical nurses,4318,434,396,3884,4114,0.100509495,0.091709125
+2019NunavutLicensed practical nurses,2019,Nunavut,Licensed practical nurses,146,—,—,—,—,—,—
+2019OntarioLicensed practical nurses,2019,Ontario,Licensed practical nurses,52809,5751,3127,47058,47729,0.108901892,0.059213392
+2019Prince Edward IslandLicensed practical nurses,2019,Prince Edward Island,Licensed practical nurses,742,—,36,—,669,—,0.04851752
+2019Provinces/territories with available dataLicensed practical nurses,2019,Provinces/territories with available data,Licensed practical nurses,126957,—,—,—,111086,—,—
+2019QuebecLicensed practical nurses,2019,Quebec,Licensed practical nurses,27844,2299,143,25545,24369,0.08256716,0.005135756
+2019SaskatchewanLicensed practical nurses,2019,Saskatchewan,Licensed practical nurses,3700,427,311,3273,3038,0.115405405,0.084054054
+2019YukonLicensed practical nurses,2019,Yukon,Licensed practical nurses,225,—,—,—,—,—,—
+2019AlbertaNurse practitioners,2019,Alberta,Nurse practitioners,571,70,23,501,549,0.122591944,0.04028021
+2019British ColumbiaNurse practitioners,2019,British Columbia,Nurse practitioners,514,73,36,441,472,0.142023346,0.070038911
+2019ManitobaNurse practitioners,2019,Manitoba,Nurse practitioners,217,30,10,187,—,0.138248848,0.046082949
+2019New BrunswickNurse practitioners,2019,New Brunswick,Nurse practitioners,139,18,4,121,135,0.129496403,0.028776978
+2019Newfoundland and LabradorNurse practitioners,2019,Newfoundland and Labrador,Nurse practitioners,183,31,13,152,180,0.169398907,0.071038251
+2019Northwest Territories/NunavutNurse practitioners,2019,Northwest Territories/Nunavut,Nurse practitioners,47,7,x,40,45,0.14893617,—
+2019Nova ScotiaNurse practitioners,2019,Nova Scotia,Nurse practitioners,204,30,12,174,201,0.147058824,0.058823529
+2019OntarioNurse practitioners,2019,Ontario,Nurse practitioners,3451,314,92,3137,3273,0.090988119,0.026658939
+2019Prince Edward IslandNurse practitioners,2019,Prince Edward Island,Nurse practitioners,43,15,1,28,38,0.348837209,0.023255814
+2019Provinces/territories with available dataNurse practitioners,2019,Provinces/territories with available data,Nurse practitioners,6160,—,—,—,5677,—,—
+2019QuebecNurse practitioners,2019,Quebec,Nurse practitioners,545,53,13,492,542,0.097247706,0.023853211
+2019SaskatchewanNurse practitioners,2019,Saskatchewan,Nurse practitioners,236,19,18,217,232,0.080508475,0.076271186
+2019YukonNurse practitioners,2019,Yukon,Nurse practitioners,10,2,2,8,10,0.2,0.2
+2019AlbertaOccupational therapists,2019,Alberta,Occupational therapists,2260,182,—,2078,2235,0.080530973,—
+2019British ColumbiaOccupational therapists,2019,British Columbia,Occupational therapists,2491,250,—,2241,2463,0.100361301,—
+2019ManitobaOccupational therapists,2019,Manitoba,Occupational therapists,690,78,62,612,685,0.113043478,0.089855072
+2019New BrunswickOccupational therapists,2019,New Brunswick,Occupational therapists,403,54,33,349,391,0.133995037,0.081885856
+2019Newfoundland and LabradorOccupational therapists,2019,Newfoundland and Labrador,Occupational therapists,215,10,7,205,209,0.046511628,0.03255814
+2019Northwest TerritoriesOccupational therapists,2019,Northwest Territories,Occupational therapists,19,5,3,14,19,0.263157895,0.157894737
+2019Nova ScotiaOccupational therapists,2019,Nova Scotia,Occupational therapists,571,64,27,507,559,0.112084063,0.047285464
+2019NunavutOccupational therapists,2019,Nunavut,Occupational therapists,6,2,1,4,6,0.333333333,0.166666667
+2019OntarioOccupational therapists,2019,Ontario,Occupational therapists,6235,525,359,5710,6108,0.084202085,0.057578188
+2019Prince Edward IslandOccupational therapists,2019,Prince Edward Island,Occupational therapists,70,8,4,62,70,0.114285714,0.057142857
+2019Provinces/territories with available dataOccupational therapists,2019,Provinces/territories with available data,Occupational therapists,18906,—,—,—,18166,—,—
+2019QuebecOccupational therapists,2019,Quebec,Occupational therapists,5560,354,215,5206,5041,0.063669065,0.038669065
+2019SaskatchewanOccupational therapists,2019,Saskatchewan,Occupational therapists,359,39,14,320,357,0.108635097,0.038997214
+2019YukonOccupational therapists,2019,Yukon,Occupational therapists,27,9,3,18,23,0.333333333,0.111111111
+2019AlbertaPharmacists,2019,Alberta,Pharmacists,5562,437,245,5125,5221,0.07856886,0.044048903
+2019British ColumbiaPharmacists,2019,British Columbia,Pharmacists,5737,349,174,5388,5357,0.060833188,0.03032944
+2019ManitobaPharmacists,2019,Manitoba,Pharmacists,1639,103,90,1536,1593,0.062843197,0.054911531
+2019New BrunswickPharmacists,2019,New Brunswick,Pharmacists,917,57,34,860,896,0.062159215,0.037077426
+2019Newfoundland and LabradorPharmacists,2019,Newfoundland and Labrador,Pharmacists,752,43,41,709,736,0.057180851,0.054521277
+2019Northwest TerritoriesPharmacists,2019,Northwest Territories,Pharmacists,44,11,9,33,44,0.25,0.204545455
+2019Nova ScotiaPharmacists,2019,Nova Scotia,Pharmacists,1329,80,46,1249,1284,0.060195636,0.034612491
+2019NunavutPharmacists,2019,Nunavut,Pharmacists,44,—,—,—,—,—,—
+2019OntarioPharmacists,2019,Ontario,Pharmacists,16311,—,502,—,15362,—,0.030776776
+2019Prince Edward IslandPharmacists,2019,Prince Edward Island,Pharmacists,198,12,—,186,195,0.060606061,—
+2019Provinces/territories with available dataPharmacists,2019,Provinces/territories with available data,Pharmacists,43744,—,—,—,32333,—,—
+2019QuebecPharmacists,2019,Quebec,Pharmacists,9460,—,—,—,—,—,—
+2019SaskatchewanPharmacists,2019,Saskatchewan,Pharmacists,1685,116,86,1569,1645,0.06884273,0.051038576
+2019YukonPharmacists,2019,Yukon,Pharmacists,66,—,—,—,—,—,—
+2019AlbertaPhysiotherapists,2019,Alberta,Physiotherapists,3086,270,149,2816,3027,0.087491899,0.048282566
+2019British ColumbiaPhysiotherapists,2019,British Columbia,Physiotherapists,3915,326,176,3589,3885,0.083269476,0.0449553
+2019ManitobaPhysiotherapists,2019,Manitoba,Physiotherapists,814,104,64,710,813,0.127764128,0.078624079
+2019New BrunswickPhysiotherapists,2019,New Brunswick,Physiotherapists,578,46,8,532,576,0.079584775,0.01384083
+2019Newfoundland and LabradorPhysiotherapists,2019,Newfoundland and Labrador,Physiotherapists,300,24,23,276,293,0.08,0.076666667
+2019Nova ScotiaPhysiotherapists,2019,Nova Scotia,Physiotherapists,754,—,45,—,—,—,0.059681698
+2019OntarioPhysiotherapists,2019,Ontario,Physiotherapists,9532,762,359,8770,9082,0.079941251,0.03766261
+2019Prince Edward IslandPhysiotherapists,2019,Prince Edward Island,Physiotherapists,104,26,8,78,97,0.25,0.076923077
+2019Provinces/territories with available dataPhysiotherapists,2019,Provinces/territories with available data,Physiotherapists,25305,—,—,—,18511,—,—
+2019QuebecPhysiotherapists,2019,Quebec,Physiotherapists,5424,291,429,5133,—,0.053650442,0.07909292
+2019SaskatchewanPhysiotherapists,2019,Saskatchewan,Physiotherapists,746,54,50,692,738,0.072386059,0.067024129
+2019YukonPhysiotherapists,2019,Yukon,Physiotherapists,52,—,—,—,—,—,—
+2019AlbertaRegistered nurses,2019,Alberta,Registered nurses,35907,2459,2101,33448,34372,0.068482469,0.058512268
+2019British ColumbiaRegistered nurses,2019,British Columbia,Registered nurses,38041,3253,2476,34788,35516,0.085512999,0.065087669
+2019ManitobaRegistered nurses,2019,Manitoba,Registered nurses,12995,540,728,12455,—,0.041554444,0.056021547
+2019New BrunswickRegistered nurses,2019,New Brunswick,Registered nurses,8019,536,570,7483,7749,0.066841252,0.071081182
+2019Newfoundland and LabradorRegistered nurses,2019,Newfoundland and Labrador,Registered nurses,5771,366,374,5405,5674,0.063420551,0.064806793
+2019Northwest Territories/NunavutRegistered nurses,2019,Northwest Territories/Nunavut,Registered nurses,743,59,83,684,728,0.079407806,0.111709287
+2019Nova ScotiaRegistered nurses,2019,Nova Scotia,Registered nurses,9508,858,784,8650,9061,0.090239798,0.082456878
+2019OntarioRegistered nurses,2019,Ontario,Registered nurses,103877,6275,4963,97602,97575,0.060407983,0.04777766
+2019Prince Edward IslandRegistered nurses,2019,Prince Edward Island,Registered nurses,1704,152,113,1552,1612,0.089201878,0.066314554
+2019Provinces/territories with available dataRegistered nurses,2019,Provinces/territories with available data,Registered nurses,300680,—,—,—,273617,—,—
+2019QuebecRegistered nurses,2019,Quebec,Registered nurses,72695,5173,4252,67522,70217,0.071160327,0.058490955
+2019SaskatchewanRegistered nurses,2019,Saskatchewan,Registered nurses,10940,736,592,10204,10637,0.067276051,0.054113346
+2019YukonRegistered nurses,2019,Yukon,Registered nurses,480,115,76,365,476,0.239583333,0.158333333
+2019AlbertaRegistered psychiatric nurses,2019,Alberta,Registered psychiatric nurses,1349,105,92,1244,1308,0.077835434,0.068198666
+2019British ColumbiaRegistered psychiatric nurses,2019,British Columbia,Registered psychiatric nurses,2827,—,143,—,2680,—,0.050583658
+2019ManitobaRegistered psychiatric nurses,2019,Manitoba,Registered psychiatric nurses,1064,86,90,978,968,0.080827068,0.084586466
+2019Northwest Territories/NunavutRegistered psychiatric nurses,2019,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2019Provinces/territories with available dataRegistered psychiatric nurses,2019,Provinces/territories with available data,Registered psychiatric nurses,6050,—,—,—,5668,—,—
+2019SaskatchewanRegistered psychiatric nurses,2019,Saskatchewan,Registered psychiatric nurses,802,35,54,767,712,0.043640898,0.067331671
+2019YukonRegistered psychiatric nurses,2019,Yukon,Registered psychiatric nurses,8,—,—,—,—,—,—
+2020AlbertaLicensed practical nurses,2020,Alberta,Licensed practical nurses,15902,1334,948,14568,14407,0.083888819,0.059615143
+2020British ColumbiaLicensed practical nurses,2020,British Columbia,Licensed practical nurses,12769,1451,793,11318,11814,0.113634584,0.062103532
+2020ManitobaLicensed practical nurses,2020,Manitoba,Licensed practical nurses,3562,262,172,3300,3402,0.073554183,0.048287479
+2020New BrunswickLicensed practical nurses,2020,New Brunswick,Licensed practical nurses,3076,—,544,—,2952,—,0.176853056
+2020Newfoundland and LabradorLicensed practical nurses,2020,Newfoundland and Labrador,Licensed practical nurses,2391,208,171,2183,2251,0.08699289,0.071518193
+2020Northwest TerritoriesLicensed practical nurses,2020,Northwest Territories,Licensed practical nurses,145,45,—,100,135,0.310344828,—
+2020Northwest Territories/NunavutLicensed practical nurses,2020,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2020Nova ScotiaLicensed practical nurses,2020,Nova Scotia,Licensed practical nurses,4439,517,367,3922,4146,0.116467673,0.082676278
+2020NunavutLicensed practical nurses,2020,Nunavut,Licensed practical nurses,177,—,—,—,—,—,—
+2020OntarioLicensed practical nurses,2020,Ontario,Licensed practical nurses,54103,4421,3170,49682,49061,0.081714508,0.058591945
+2020Prince Edward IslandLicensed practical nurses,2020,Prince Edward Island,Licensed practical nurses,770,64,62,706,748,0.083116883,0.080519481
+2020Provinces/territories with available dataLicensed practical nurses,2020,Provinces/territories with available data,Licensed practical nurses,130729,—,—,—,118554,—,—
+2020QuebecLicensed practical nurses,2020,Quebec,Licensed practical nurses,29398,1697,3212,27701,26005,0.057725015,0.109259133
+2020SaskatchewanLicensed practical nurses,2020,Saskatchewan,Licensed practical nurses,3770,381,374,3389,3633,0.101061008,0.099204244
+2020YukonLicensed practical nurses,2020,Yukon,Licensed practical nurses,227,—,—,—,—,—,—
+2020AlbertaNurse practitioners,2020,Alberta,Nurse practitioners,602,54,33,548,568,0.089700997,0.054817276
+2020British ColumbiaNurse practitioners,2020,British Columbia,Nurse practitioners,540,62,22,478,505,0.114814815,0.040740741
+2020ManitobaNurse practitioners,2020,Manitoba,Nurse practitioners,233,26,4,207,—,0.111587983,0.017167382
+2020New BrunswickNurse practitioners,2020,New Brunswick,Nurse practitioners,148,13,5,135,144,0.087837838,0.033783784
+2020Newfoundland and LabradorNurse practitioners,2020,Newfoundland and Labrador,Nurse practitioners,191,21,11,170,189,0.109947644,0.057591623
+2020Northwest Territories/NunavutNurse practitioners,2020,Northwest Territories/Nunavut,Nurse practitioners,79,x,15,x,53,—,0.189873418
+2020Nova ScotiaNurse practitioners,2020,Nova Scotia,Nurse practitioners,220,28,18,192,209,0.127272727,0.081818182
+2020OntarioNurse practitioners,2020,Ontario,Nurse practitioners,3681,322,96,3359,3454,0.087476229,0.02607987
+2020Prince Edward IslandNurse practitioners,2020,Prince Edward Island,Nurse practitioners,49,7,4,42,45,0.142857143,0.081632653
+2020Provinces/territories with available dataNurse practitioners,2020,Provinces/territories with available data,Nurse practitioners,6683,—,—,—,6086,—,—
+2020QuebecNurse practitioners,2020,Quebec,Nurse practitioners,686,154,11,532,679,0.224489796,0.016034985
+2020SaskatchewanNurse practitioners,2020,Saskatchewan,Nurse practitioners,240,22,14,218,226,0.091666667,0.058333333
+2020YukonNurse practitioners,2020,Yukon,Nurse practitioners,14,6,0,8,14,0.428571429,0
+2020AlbertaOccupational therapists,2020,Alberta,Occupational therapists,2294,—,155,—,2227,—,0.067567568
+2020British ColumbiaOccupational therapists,2020,British Columbia,Occupational therapists,2535,—,144,—,2501,—,0.056804734
+2020ManitobaOccupational therapists,2020,Manitoba,Occupational therapists,722,94,62,628,713,0.130193906,0.085872576
+2020New BrunswickOccupational therapists,2020,New Brunswick,Occupational therapists,402,32,30,370,393,0.07960199,0.074626866
+2020Newfoundland and LabradorOccupational therapists,2020,Newfoundland and Labrador,Occupational therapists,220,12,14,208,217,0.054545455,0.063636364
+2020Northwest TerritoriesOccupational therapists,2020,Northwest Territories,Occupational therapists,26,10,5,16,25,0.384615385,0.192307692
+2020Nova ScotiaOccupational therapists,2020,Nova Scotia,Occupational therapists,590,46,27,544,581,0.077966102,0.045762712
+2020NunavutOccupational therapists,2020,Nunavut,Occupational therapists,5,0,1,5,5,0,0.2
+2020OntarioOccupational therapists,2020,Ontario,Occupational therapists,6328,452,313,5876,6205,0.071428571,0.049462705
+2020Prince Edward IslandOccupational therapists,2020,Prince Edward Island,Occupational therapists,75,9,4,66,75,0.12,0.053333333
+2020Provinces/territories with available dataOccupational therapists,2020,Provinces/territories with available data,Occupational therapists,19312,—,—,—,18362,—,—
+2020QuebecOccupational therapists,2020,Quebec,Occupational therapists,5700,355,206,5345,5017,0.062280702,0.036140351
+2020SaskatchewanOccupational therapists,2020,Saskatchewan,Occupational therapists,387,42,10,345,376,0.108527132,0.025839793
+2020YukonOccupational therapists,2020,Yukon,Occupational therapists,28,4,0,24,27,0.142857143,0
+2020AlbertaPharmacists,2020,Alberta,Pharmacists,5575,258,260,5317,5357,0.046278027,0.046636771
+2020British ColumbiaPharmacists,2020,British Columbia,Pharmacists,5909,346,207,5563,5522,0.058554747,0.035031308
+2020ManitobaPharmacists,2020,Manitoba,Pharmacists,1662,113,109,1549,1626,0.067990373,0.065583634
+2020New BrunswickPharmacists,2020,New Brunswick,Pharmacists,902,19,0,883,886,0.021064302,0
+2020Newfoundland and LabradorPharmacists,2020,Newfoundland and Labrador,Pharmacists,756,45,1,711,744,0.05952381,0.001322751
+2020Northwest TerritoriesPharmacists,2020,Northwest Territories,Pharmacists,44,9,6,35,43,0.204545455,0.136363636
+2020Nova ScotiaPharmacists,2020,Nova Scotia,Pharmacists,1391,108,70,1283,1326,0.077641984,0.050323508
+2020NunavutPharmacists,2020,Nunavut,Pharmacists,38,—,—,—,—,—,—
+2020OntarioPharmacists,2020,Ontario,Pharmacists,16332,523,484,15809,15454,0.032023022,0.029635072
+2020Prince Edward IslandPharmacists,2020,Prince Edward Island,Pharmacists,207,—,—,—,—,—,—
+2020Provinces/territories with available dataPharmacists,2020,Provinces/territories with available data,Pharmacists,44094,—,—,—,32583,—,—
+2020QuebecPharmacists,2020,Quebec,Pharmacists,9568,—,—,—,—,—,—
+2020SaskatchewanPharmacists,2020,Saskatchewan,Pharmacists,1650,51,99,1599,1625,0.030909091,0.06
+2020YukonPharmacists,2020,Yukon,Pharmacists,60,—,—,—,—,—,—
+2020AlbertaPhysiotherapists,2020,Alberta,Physiotherapists,3199,262,162,2937,3149,0.081900594,0.050640825
+2020British ColumbiaPhysiotherapists,2020,British Columbia,Physiotherapists,4103,364,125,3739,4053,0.088715574,0.030465513
+2020ManitobaPhysiotherapists,2020,Manitoba,Physiotherapists,876,126,67,750,872,0.143835616,0.076484018
+2020New BrunswickPhysiotherapists,2020,New Brunswick,Physiotherapists,616,46,53,570,614,0.074675325,0.086038961
+2020Newfoundland and LabradorPhysiotherapists,2020,Newfoundland and Labrador,Physiotherapists,305,28,18,277,299,0.091803279,0.059016393
+2020Nova ScotiaPhysiotherapists,2020,Nova Scotia,Physiotherapists,786,77,72,709,781,0.097964377,0.091603053
+2020OntarioPhysiotherapists,2020,Ontario,Physiotherapists,9933,760,470,9173,9524,0.076512635,0.047317024
+2020Prince Edward IslandPhysiotherapists,2020,Prince Edward Island,Physiotherapists,107,11,4,96,102,0.102803738,0.037383178
+2020Provinces/territories with available dataPhysiotherapists,2020,Provinces/territories with available data,Physiotherapists,26046,—,—,—,25342,—,—
+2020QuebecPhysiotherapists,2020,Quebec,Physiotherapists,5308,313,368,4995,5195,0.058967596,0.069329314
+2020SaskatchewanPhysiotherapists,2020,Saskatchewan,Physiotherapists,754,58,46,696,753,0.076923077,0.061007958
+2020YukonPhysiotherapists,2020,Yukon,Physiotherapists,59,—,—,—,—,—,—
+2020AlbertaRegistered nurses,2020,Alberta,Registered nurses,36394,2588,2496,33806,34627,0.071110623,0.068582733
+2020British ColumbiaRegistered nurses,2020,British Columbia,Registered nurses,38863,3298,2040,35565,35880,0.084862208,0.052492088
+2020ManitobaRegistered nurses,2020,Manitoba,Registered nurses,12856,589,671,12267,—,0.045815184,0.052193528
+2020New BrunswickRegistered nurses,2020,New Brunswick,Registered nurses,7974,525,626,7449,7695,0.065838977,0.078505142
+2020Newfoundland and LabradorRegistered nurses,2020,Newfoundland and Labrador,Registered nurses,5835,438,375,5397,5725,0.075064267,0.064267352
+2020Northwest Territories/NunavutRegistered nurses,2020,Northwest Territories/Nunavut,Registered nurses,1368,708,222,660,1083,0.51754386,0.162280702
+2020Nova ScotiaRegistered nurses,2020,Nova Scotia,Registered nurses,9783,1059,718,8724,9310,0.108249003,0.07339262
+2020OntarioRegistered nurses,2020,Ontario,Registered nurses,104976,6062,4947,98914,97920,0.057746533,0.047125057
+2020Prince Edward IslandRegistered nurses,2020,Prince Edward Island,Registered nurses,1707,116,120,1591,1610,0.067955477,0.07029877
+2020Provinces/territories with available dataRegistered nurses,2020,Provinces/territories with available data,Registered nurses,304807,—,—,—,275659,—,—
+2020QuebecRegistered nurses,2020,Quebec,Registered nurses,73337,4894,4063,68443,70539,0.066733027,0.055401775
+2020SaskatchewanRegistered nurses,2020,Saskatchewan,Registered nurses,11182,834,626,10348,10753,0.074584153,0.05598283
+2020YukonRegistered nurses,2020,Yukon,Registered nurses,532,128,120,404,517,0.240601504,0.22556391
+2020AlbertaRegistered psychiatric nurses,2020,Alberta,Registered psychiatric nurses,1368,111,107,1257,1337,0.081140351,0.078216374
+2020British ColumbiaRegistered psychiatric nurses,2020,British Columbia,Registered psychiatric nurses,2906,222,131,2684,2762,0.076393668,0.045079147
+2020ManitobaRegistered psychiatric nurses,2020,Manitoba,Registered psychiatric nurses,1033,59,65,974,990,0.057115198,0.062923524
+2020Northwest Territories/NunavutRegistered psychiatric nurses,2020,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2020Provinces/territories with available dataRegistered psychiatric nurses,2020,Provinces/territories with available data,Registered psychiatric nurses,6115,—,—,—,5795,—,—
+2020SaskatchewanRegistered psychiatric nurses,2020,Saskatchewan,Registered psychiatric nurses,799,51,50,748,706,0.063829787,0.062578223
+2020YukonRegistered psychiatric nurses,2020,Yukon,Registered psychiatric nurses,9,—,—,—,—,—,—
+2021AlbertaLicensed practical nurses,2021,Alberta,Licensed practical nurses,16498,1544,1169,14954,15159,0.093587101,0.070857074
+2021British ColumbiaLicensed practical nurses,2021,British Columbia,Licensed practical nurses,13409,1433,1011,11976,12806,0.106868521,0.075397121
+2021ManitobaLicensed practical nurses,2021,Manitoba,Licensed practical nurses,3693,303,240,3390,3595,0.082047116,0.064987815
+2021New BrunswickLicensed practical nurses,2021,New Brunswick,Licensed practical nurses,3422,890,10,2532,3145,0.260081823,0.002922268
+2021Newfoundland and LabradorLicensed practical nurses,2021,Newfoundland and Labrador,Licensed practical nurses,2428,208,214,2220,2339,0.085667216,0.088138386
+2021Northwest TerritoriesLicensed practical nurses,2021,Northwest Territories,Licensed practical nurses,194,—,—,—,—,—,—
+2021Northwest Territories/NunavutLicensed practical nurses,2021,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2021Nova ScotiaLicensed practical nurses,2021,Nova Scotia,Licensed practical nurses,4537,465,384,4072,4315,0.102490633,0.084637426
+2021NunavutLicensed practical nurses,2021,Nunavut,Licensed practical nurses,240,—,—,—,—,—,—
+2021OntarioLicensed practical nurses,2021,Ontario,Licensed practical nurses,54984,4051,3705,50933,49781,0.073675978,0.067383239
+2021Prince Edward IslandLicensed practical nurses,2021,Prince Edward Island,Licensed practical nurses,785,77,68,708,710,0.098089172,0.086624204
+2021Provinces/territories with available dataLicensed practical nurses,2021,Provinces/territories with available data,Licensed practical nurses,132152,—,—,—,120552,—,—
+2021QuebecLicensed practical nurses,2021,Quebec,Licensed practical nurses,28034,1848,1788,26186,25177,0.065919954,0.063779696
+2021SaskatchewanLicensed practical nurses,2021,Saskatchewan,Licensed practical nurses,3683,287,411,3396,3525,0.077925604,0.111593809
+2021YukonLicensed practical nurses,2021,Yukon,Licensed practical nurses,245,—,—,—,—,—,—
+2021AlbertaNurse practitioners,2021,Alberta,Nurse practitioners,633,64,35,569,599,0.101105845,0.055292259
+2021British ColumbiaNurse practitioners,2021,British Columbia,Nurse practitioners,648,130,26,518,629,0.200617284,0.040123457
+2021ManitobaNurse practitioners,2021,Manitoba,Nurse practitioners,275,24,12,251,—,0.087272727,0.043636364
+2021New BrunswickNurse practitioners,2021,New Brunswick,Nurse practitioners,159,16,9,143,152,0.100628931,0.056603774
+2021Newfoundland and LabradorNurse practitioners,2021,Newfoundland and Labrador,Nurse practitioners,207,27,12,180,205,0.130434783,0.057971014
+2021Northwest Territories/NunavutNurse practitioners,2021,Northwest Territories/Nunavut,Nurse practitioners,94,30,13,64,61,0.319148936,0.138297872
+2021Nova ScotiaNurse practitioners,2021,Nova Scotia,Nurse practitioners,240,38,12,202,228,0.158333333,0.05
+2021OntarioNurse practitioners,2021,Ontario,Nurse practitioners,3861,276,134,3585,3649,0.071484071,0.034706035
+2021Prince Edward IslandNurse practitioners,2021,Prince Edward Island,Nurse practitioners,53,8,0,45,—,0.150943396,0
+2021Provinces/territories with available dataNurse practitioners,2021,Provinces/territories with available data,Nurse practitioners,7400,—,—,—,6724,—,—
+2021QuebecNurse practitioners,2021,Quebec,Nurse practitioners,946,271,16,675,939,0.286469345,0.016913319
+2021SaskatchewanNurse practitioners,2021,Saskatchewan,Nurse practitioners,260,34,12,226,240,0.130769231,0.046153846
+2021YukonNurse practitioners,2021,Yukon,Nurse practitioners,24,10,7,14,22,0.416666667,0.291666667
+2021AlbertaOccupational therapists,2021,Alberta,Occupational therapists,2303,164,120,2139,2284,0.071211463,0.052105949
+2021British ColumbiaOccupational therapists,2021,British Columbia,Occupational therapists,2736,345,173,2391,2697,0.126096491,0.063230994
+2021ManitobaOccupational therapists,2021,Manitoba,Occupational therapists,753,93,68,660,748,0.123505976,0.090305445
+2021New BrunswickOccupational therapists,2021,New Brunswick,Occupational therapists,411,39,29,372,394,0.094890511,0.070559611
+2021Newfoundland and LabradorOccupational therapists,2021,Newfoundland and Labrador,Occupational therapists,222,16,8,206,214,0.072072072,0.036036036
+2021Northwest TerritoriesOccupational therapists,2021,Northwest Territories,Occupational therapists,22,1,6,21,21,0.045454545,0.272727273
+2021Nova ScotiaOccupational therapists,2021,Nova Scotia,Occupational therapists,650,87,37,563,626,0.133846154,0.056923077
+2021NunavutOccupational therapists,2021,Nunavut,Occupational therapists,7,3,3,4,7,0.428571429,0.428571429
+2021OntarioOccupational therapists,2021,Ontario,Occupational therapists,6559,544,367,6015,6424,0.082939472,0.055953651
+2021Prince Edward IslandOccupational therapists,2021,Prince Edward Island,Occupational therapists,81,10,9,71,81,0.12345679,0.111111111
+2021Provinces/territories with available dataOccupational therapists,2021,Provinces/territories with available data,Occupational therapists,20067,—,—,—,19105,—,—
+2021QuebecOccupational therapists,2021,Quebec,Occupational therapists,5886,392,203,5494,5186,0.066598709,0.034488617
+2021SaskatchewanOccupational therapists,2021,Saskatchewan,Occupational therapists,406,29,16,377,393,0.071428571,0.039408867
+2021YukonOccupational therapists,2021,Yukon,Occupational therapists,31,3,4,28,30,0.096774194,0.129032258
+2021AlbertaPharmacists,2021,Alberta,Pharmacists,5814,499,270,5315,5596,0.085827313,0.046439628
+2021British ColumbiaPharmacists,2021,British Columbia,Pharmacists,6421,719,262,5702,5906,0.111976328,0.040803613
+2021ManitobaPharmacists,2021,Manitoba,Pharmacists,1628,75,82,1553,1606,0.046068796,0.05036855
+2021New BrunswickPharmacists,2021,New Brunswick,Pharmacists,902,0,100,902,885,0,0.110864745
+2021Newfoundland and LabradorPharmacists,2021,Newfoundland and Labrador,Pharmacists,755,0,70,755,743,0,0.092715232
+2021Northwest TerritoriesPharmacists,2021,Northwest Territories,Pharmacists,48,10,10,38,46,0.208333333,0.208333333
+2021Nova ScotiaPharmacists,2021,Nova Scotia,Pharmacists,1400,79,69,1321,1334,0.056428571,0.049285714
+2021NunavutPharmacists,2021,Nunavut,Pharmacists,40,—,—,—,—,—,—
+2021OntarioPharmacists,2021,Ontario,Pharmacists,16768,920,497,15848,15895,0.054866412,0.02963979
+2021Prince Edward IslandPharmacists,2021,Prince Edward Island,Pharmacists,206,—,3,—,200,—,0.014563107
+2021Provinces/territories with available dataPharmacists,2021,Provinces/territories with available data,Pharmacists,45647,—,—,—,33880,—,—
+2021QuebecPharmacists,2021,Quebec,Pharmacists,9915,—,—,—,—,—,—
+2021SaskatchewanPharmacists,2021,Saskatchewan,Pharmacists,1691,140,77,1551,1669,0.082791248,0.045535186
+2021YukonPharmacists,2021,Yukon,Pharmacists,59,—,—,—,—,—,—
+2021AlbertaPhysiotherapists,2021,Alberta,Physiotherapists,3293,256,154,3037,3229,0.077740662,0.046765867
+2021British ColumbiaPhysiotherapists,2021,British Columbia,Physiotherapists,4385,407,185,3978,4339,0.09281642,0.042189282
+2021ManitobaPhysiotherapists,2021,Manitoba,Physiotherapists,922,113,80,809,922,0.122559653,0.086767896
+2021New BrunswickPhysiotherapists,2021,New Brunswick,Physiotherapists,603,40,27,563,596,0.066334992,0.044776119
+2021Newfoundland and LabradorPhysiotherapists,2021,Newfoundland and Labrador,Physiotherapists,311,24,21,287,304,0.077170418,0.067524116
+2021Nova ScotiaPhysiotherapists,2021,Nova Scotia,Physiotherapists,805,91,49,714,793,0.113043478,0.060869565
+2021OntarioPhysiotherapists,2021,Ontario,Physiotherapists,10289,826,440,9463,9668,0.080279911,0.042764117
+2021Prince Edward IslandPhysiotherapists,2021,Prince Edward Island,Physiotherapists,114,11,6,103,111,0.096491228,0.052631579
+2021Provinces/territories with available dataPhysiotherapists,2021,Provinces/territories with available data,Physiotherapists,27028,—,—,—,26066,—,—
+2021QuebecPhysiotherapists,2021,Quebec,Physiotherapists,5468,528,354,4940,5332,0.096561814,0.064740307
+2021SaskatchewanPhysiotherapists,2021,Saskatchewan,Physiotherapists,776,68,49,708,772,0.087628866,0.06314433
+2021YukonPhysiotherapists,2021,Yukon,Physiotherapists,62,—,—,—,—,—,—
+2021AlbertaRegistered nurses,2021,Alberta,Registered nurses,36288,2390,2577,33898,34380,0.065861993,0.071015212
+2021British ColumbiaRegistered nurses,2021,British Columbia,Registered nurses,40343,3520,2653,36823,38288,0.087251816,0.065761099
+2021ManitobaRegistered nurses,2021,Manitoba,Registered nurses,13149,564,674,12585,—,0.042892996,0.051258651
+2021New BrunswickRegistered nurses,2021,New Brunswick,Registered nurses,8045,697,677,7348,7535,0.086637663,0.084151647
+2021Newfoundland and LabradorRegistered nurses,2021,Newfoundland and Labrador,Registered nurses,5944,484,448,5460,5834,0.081426649,0.075370121
+2021Northwest Territories/NunavutRegistered nurses,2021,Northwest Territories/Nunavut,Registered nurses,1489,343,266,1146,1170,0.230355944,0.178643385
+2021Nova ScotiaRegistered nurses,2021,Nova Scotia,Registered nurses,10218,1153,948,9065,9543,0.112840086,0.092777452
+2021OntarioRegistered nurses,2021,Ontario,Registered nurses,106595,6566,5212,100029,98899,0.061597636,0.048895352
+2021Prince Edward IslandRegistered nurses,2021,Prince Edward Island,Registered nurses,1744,157,96,1587,—,0.090022936,0.055045872
+2021Provinces/territories with available dataRegistered nurses,2021,Provinces/territories with available data,Registered nurses,312382,—,—,—,280097,—,—
+2021QuebecRegistered nurses,2021,Quebec,Registered nurses,76712,7438,4720,69274,73062,0.096960058,0.061528835
+2021SaskatchewanRegistered nurses,2021,Saskatchewan,Registered nurses,11307,751,574,10556,10843,0.066419032,0.050765013
+2021YukonRegistered nurses,2021,Yukon,Registered nurses,548,136,103,412,543,0.248175182,0.187956204
+2021AlbertaRegistered psychiatric nurses,2021,Alberta,Registered psychiatric nurses,1364,103,114,1261,1327,0.075513196,0.083577713
+2021British ColumbiaRegistered psychiatric nurses,2021,British Columbia,Registered psychiatric nurses,3082,307,157,2775,2978,0.099610642,0.050940947
+2021ManitobaRegistered psychiatric nurses,2021,Manitoba,Registered psychiatric nurses,1112,144,62,968,1020,0.129496403,0.055755396
+2021Northwest Territories/NunavutRegistered psychiatric nurses,2021,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2021Provinces/territories with available dataRegistered psychiatric nurses,2021,Provinces/territories with available data,Registered psychiatric nurses,6337,—,—,—,6038,—,—
+2021SaskatchewanRegistered psychiatric nurses,2021,Saskatchewan,Registered psychiatric nurses,769,20,74,749,713,0.026007802,0.096228869
+2021YukonRegistered psychiatric nurses,2021,Yukon,Registered psychiatric nurses,10,—,—,—,—,—,—
+2022AlbertaLicensed practical nurses,2022,Alberta,Licensed practical nurses,17251,1922,1308,15329,15511,0.111413831,0.075821691
+2022British ColumbiaLicensed practical nurses,2022,British Columbia,Licensed practical nurses,13627,1229,976,12398,13144,0.090188596,0.071622514
+2022ManitobaLicensed practical nurses,2022,Manitoba,Licensed practical nurses,3667,214,242,3453,3524,0.058358331,0.065994001
+2022New BrunswickLicensed practical nurses,2022,New Brunswick,Licensed practical nurses,3545,133,348,3412,3278,0.03751763,0.098166432
+2022Newfoundland and LabradorLicensed practical nurses,2022,Newfoundland and Labrador,Licensed practical nurses,2480,266,243,2214,2368,0.107258065,0.097983871
+2022Northwest TerritoriesLicensed practical nurses,2022,Northwest Territories,Licensed practical nurses,189,—,32,—,181,—,0.169312169
+2022Northwest Territories/NunavutLicensed practical nurses,2022,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2022Nova ScotiaLicensed practical nurses,2022,Nova Scotia,Licensed practical nurses,4678,525,519,4153,4458,0.112227448,0.110944848
+2022NunavutLicensed practical nurses,2022,Nunavut,Licensed practical nurses,267,—,—,—,—,—,—
+2022OntarioLicensed practical nurses,2022,Ontario,Licensed practical nurses,56595,5316,4132,51279,51369,0.093930559,0.073009983
+2022Prince Edward IslandLicensed practical nurses,2022,Prince Edward Island,Licensed practical nurses,797,80,77,717,761,0.100376412,0.096612296
+2022Provinces/territories with available dataLicensed practical nurses,2022,Provinces/territories with available data,Licensed practical nurses,135582,—,—,—,123086,—,—
+2022QuebecLicensed practical nurses,2022,Quebec,Licensed practical nurses,28495,2249,2132,26246,24951,0.078926127,0.074820144
+2022SaskatchewanLicensed practical nurses,2022,Saskatchewan,Licensed practical nurses,3737,465,347,3272,3541,0.124431362,0.092855231
+2022YukonLicensed practical nurses,2022,Yukon,Licensed practical nurses,254,—,—,—,—,—,—
+2022AlbertaNurse practitioners,2022,Alberta,Nurse practitioners,674,76,41,598,613,0.112759644,0.060830861
+2022British ColumbiaNurse practitioners,2022,British Columbia,Nurse practitioners,761,139,19,622,729,0.182654402,0.024967148
+2022ManitobaNurse practitioners,2022,Manitoba,Nurse practitioners,306,43,18,263,—,0.140522876,0.058823529
+2022New BrunswickNurse practitioners,2022,New Brunswick,Nurse practitioners,171,21,7,150,161,0.122807018,0.040935673
+2022Newfoundland and LabradorNurse practitioners,2022,Newfoundland and Labrador,Nurse practitioners,231,36,7,195,229,0.155844156,0.03030303
+2022Northwest Territories/NunavutNurse practitioners,2022,Northwest Territories/Nunavut,Nurse practitioners,110,29,19,81,—,0.263636364,0.172727273
+2022Nova ScotiaNurse practitioners,2022,Nova Scotia,Nurse practitioners,274,46,15,228,258,0.167883212,0.054744526
+2022OntarioNurse practitioners,2022,Ontario,Nurse practitioners,4135,408,118,3727,3896,0.098669891,0.02853688
+2022Prince Edward IslandNurse practitioners,2022,Prince Edward Island,Nurse practitioners,60,7,2,53,58,0.116666667,0.033333333
+2022Provinces/territories with available dataNurse practitioners,2022,Provinces/territories with available data,Nurse practitioners,8206,—,—,—,7399,—,—
+2022QuebecNurse practitioners,2022,Quebec,Nurse practitioners,1183,253,21,930,1172,0.21386306,0.017751479
+2022SaskatchewanNurse practitioners,2022,Saskatchewan,Nurse practitioners,279,31,30,248,263,0.111111111,0.107526882
+2022YukonNurse practitioners,2022,Yukon,Nurse practitioners,22,5,5,17,20,0.227272727,0.227272727
+2022AlbertaOccupational therapists,2022,Alberta,Occupational therapists,2356,173,94,2183,2296,0.073429542,0.039898132
+2022British ColumbiaOccupational therapists,2022,British Columbia,Occupational therapists,2844,281,152,2563,2744,0.098804501,0.053445851
+2022ManitobaOccupational therapists,2022,Manitoba,Occupational therapists,785,100,64,685,773,0.127388535,0.081528662
+2022New BrunswickOccupational therapists,2022,New Brunswick,Occupational therapists,423,41,24,382,410,0.096926714,0.056737589
+2022Newfoundland and LabradorOccupational therapists,2022,Newfoundland and Labrador,Occupational therapists,238,24,7,214,234,0.100840336,0.029411765
+2022Northwest TerritoriesOccupational therapists,2022,Northwest Territories,Occupational therapists,20,4,3,16,19,0.2,0.15
+2022Nova ScotiaOccupational therapists,2022,Nova Scotia,Occupational therapists,699,86,38,613,681,0.123032904,0.054363376
+2022NunavutOccupational therapists,2022,Nunavut,Occupational therapists,4,0,0,4,4,0,0
+2022OntarioOccupational therapists,2022,Ontario,Occupational therapists,6716,524,291,6192,6568,0.078022633,0.043329363
+2022Prince Edward IslandOccupational therapists,2022,Prince Edward Island,Occupational therapists,84,12,5,72,83,0.142857143,0.05952381
+2022Provinces/territories with available dataOccupational therapists,2022,Provinces/territories with available data,Occupational therapists,20690,—,—,—,19528,—,—
+2022QuebecOccupational therapists,2022,Quebec,Occupational therapists,6083,400,211,5683,5288,0.065757028,0.034686832
+2022SaskatchewanOccupational therapists,2022,Saskatchewan,Occupational therapists,409,19,22,390,399,0.046454768,0.053789731
+2022YukonOccupational therapists,2022,Yukon,Occupational therapists,29,2,8,27,29,0.068965517,0.275862069
+2022AlbertaPharmacists,2022,Alberta,Pharmacists,5917,373,213,5544,5721,0.063038702,0.035997972
+2022British ColumbiaPharmacists,2022,British Columbia,Pharmacists,6462,303,293,6159,5943,0.046889508,0.045341999
+2022ManitobaPharmacists,2022,Manitoba,Pharmacists,1631,85,121,1546,1600,0.052115267,0.074187615
+2022New BrunswickPharmacists,2022,New Brunswick,Pharmacists,916,114,32,802,905,0.124454148,0.034934498
+2022Newfoundland and LabradorPharmacists,2022,Newfoundland and Labrador,Pharmacists,766,81,52,685,761,0.105744125,0.067885117
+2022Northwest TerritoriesPharmacists,2022,Northwest Territories,Pharmacists,52,14,15,38,45,0.269230769,0.288461538
+2022Nova ScotiaPharmacists,2022,Nova Scotia,Pharmacists,1418,87,67,1331,1365,0.06135402,0.047249647
+2022NunavutPharmacists,2022,Nunavut,Pharmacists,53,—,—,—,—,—,—
+2022OntarioPharmacists,2022,Ontario,Pharmacists,17182,911,455,16271,16004,0.053020603,0.026481201
+2022Prince Edward IslandPharmacists,2022,Prince Edward Island,Pharmacists,215,12,12,203,213,0.055813953,0.055813953
+2022Provinces/territories with available dataPharmacists,2022,Provinces/territories with available data,Pharmacists,46661,—,—,—,34256,—,—
+2022QuebecPharmacists,2022,Quebec,Pharmacists,10271,—,—,—,—,—,—
+2022SaskatchewanPharmacists,2022,Saskatchewan,Pharmacists,1723,109,87,1614,1699,0.063261753,0.050493326
+2022YukonPharmacists,2022,Yukon,Pharmacists,55,—,—,—,—,—,—
+2022AlbertaPhysiotherapists,2022,Alberta,Physiotherapists,3421,282,175,3139,3322,0.082432037,0.051154633
+2022British ColumbiaPhysiotherapists,2022,British Columbia,Physiotherapists,4628,428,158,4200,4554,0.092480553,0.034140017
+2022ManitobaPhysiotherapists,2022,Manitoba,Physiotherapists,940,98,60,842,931,0.104255319,0.063829787
+2022New BrunswickPhysiotherapists,2022,New Brunswick,Physiotherapists,608,32,23,576,605,0.052631579,0.037828947
+2022Newfoundland and LabradorPhysiotherapists,2022,Newfoundland and Labrador,Physiotherapists,321,31,17,290,313,0.096573209,0.052959502
+2022Nova ScotiaPhysiotherapists,2022,Nova Scotia,Physiotherapists,842,86,30,756,838,0.102137767,0.035629454
+2022OntarioPhysiotherapists,2022,Ontario,Physiotherapists,10634,785,446,9849,10210,0.073819823,0.041940944
+2022Prince Edward IslandPhysiotherapists,2022,Prince Edward Island,Physiotherapists,128,20,2,108,125,0.15625,0.015625
+2022Provinces/territories with available dataPhysiotherapists,2022,Provinces/territories with available data,Physiotherapists,28059,—,—,—,27217,—,—
+2022QuebecPhysiotherapists,2022,Quebec,Physiotherapists,5664,550,354,5114,5520,0.09710452,0.0625
+2022SaskatchewanPhysiotherapists,2022,Saskatchewan,Physiotherapists,803,76,63,727,799,0.094645081,0.078455791
+2022YukonPhysiotherapists,2022,Yukon,Physiotherapists,70,—,—,—,—,—,—
+2022AlbertaRegistered nurses,2022,Alberta,Registered nurses,36302,2591,2608,33711,34399,0.071373478,0.071841772
+2022British ColumbiaRegistered nurses,2022,British Columbia,Registered nurses,40891,3201,2231,37690,38935,0.078281284,0.054559683
+2022ManitobaRegistered nurses,2022,Manitoba,Registered nurses,13283,808,607,12475,—,0.060829632,0.045697508
+2022New BrunswickRegistered nurses,2022,New Brunswick,Registered nurses,8019,651,864,7368,7422,0.081182192,0.107744108
+2022Newfoundland and LabradorRegistered nurses,2022,Newfoundland and Labrador,Registered nurses,5927,431,410,5496,5829,0.07271807,0.069174962
+2022Northwest Territories/NunavutRegistered nurses,2022,Northwest Territories/Nunavut,Registered nurses,1597,374,308,1223,1323,0.234189105,0.192861616
+2022Nova ScotiaRegistered nurses,2022,Nova Scotia,Registered nurses,10334,1064,1000,9270,9727,0.102961099,0.09676795
+2022OntarioRegistered nurses,2022,Ontario,Registered nurses,108040,6657,5709,101383,99839,0.061616068,0.05284154
+2022Prince Edward IslandRegistered nurses,2022,Prince Edward Island,Registered nurses,1837,189,114,1648,—,0.102885139,0.062057703
+2022Provinces/territories with available dataRegistered nurses,2022,Provinces/territories with available data,Registered nurses,315715,—,—,—,283071,—,—
+2022QuebecRegistered nurses,2022,Quebec,Registered nurses,77261,5269,4584,71992,73818,0.068197409,0.059331357
+2022SaskatchewanRegistered nurses,2022,Saskatchewan,Registered nurses,11564,831,663,10733,11140,0.071860948,0.057333103
+2022YukonRegistered nurses,2022,Yukon,Registered nurses,660,215,181,445,639,0.325757576,0.274242424
+2022AlbertaRegistered psychiatric nurses,2022,Alberta,Registered psychiatric nurses,1390,140,86,1250,1373,0.100719424,0.061870504
+2022British ColumbiaRegistered psychiatric nurses,2022,British Columbia,Registered psychiatric nurses,3203,278,143,2925,3092,0.086793631,0.044645645
+2022ManitobaRegistered psychiatric nurses,2022,Manitoba,Registered psychiatric nurses,1138,88,60,1050,1045,0.077328647,0.052724077
+2022Northwest Territories/NunavutRegistered psychiatric nurses,2022,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2022Provinces/territories with available dataRegistered psychiatric nurses,2022,Provinces/territories with available data,Registered psychiatric nurses,6511,—,—,—,6189,—,—
+2022SaskatchewanRegistered psychiatric nurses,2022,Saskatchewan,Registered psychiatric nurses,772,77,42,695,679,0.099740933,0.054404145
+2022YukonRegistered psychiatric nurses,2022,Yukon,Registered psychiatric nurses,8,—,—,—,—,—,—
+2023AlbertaLicensed practical nurses,2023,Alberta,Licensed practical nurses,18166,2223,2020,15943,16094,0.122371463,0.111196741
+2023British ColumbiaLicensed practical nurses,2023,British Columbia,Licensed practical nurses,13883,1232,778,12651,13239,0.088741626,0.056039761
+2023ManitobaLicensed practical nurses,2023,Manitoba,Licensed practical nurses,3784,359,397,3425,3534,0.09487315,0.104915433
+2023New BrunswickLicensed practical nurses,2023,New Brunswick,Licensed practical nurses,3675,478,594,3197,3422,0.130068027,0.161632653
+2023Newfoundland and LabradorLicensed practical nurses,2023,Newfoundland and Labrador,Licensed practical nurses,2432,195,11,2237,2235,0.080180921,0.004523026
+2023Northwest TerritoriesLicensed practical nurses,2023,Northwest Territories,Licensed practical nurses,166,9,—,157,164,0.054216867,—
+2023Northwest Territories/NunavutLicensed practical nurses,2023,Northwest Territories/Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2023Nova ScotiaLicensed practical nurses,2023,Nova Scotia,Licensed practical nurses,4645,486,550,4159,4408,0.104628633,0.118406889
+2023NunavutLicensed practical nurses,2023,Nunavut,Licensed practical nurses,316,—,—,—,—,—,—
+2023OntarioLicensed practical nurses,2023,Ontario,Licensed practical nurses,58257,5794,4952,52463,52686,0.099455859,0.085002661
+2023Prince Edward IslandLicensed practical nurses,2023,Prince Edward Island,Licensed practical nurses,794,74,10,720,735,0.093198992,0.012594458
+2023Provinces/territories with available dataLicensed practical nurses,2023,Provinces/territories with available data,Licensed practical nurses,140282,—,—,—,125634,—,—
+2023QuebecLicensed practical nurses,2023,Quebec,Licensed practical nurses,29990,3627,1672,26363,25460,0.120940313,0.055751917
+2023SaskatchewanLicensed practical nurses,2023,Saskatchewan,Licensed practical nurses,3920,530,481,3390,3657,0.135204082,0.122704082
+2023YukonLicensed practical nurses,2023,Yukon,Licensed practical nurses,254,—,—,—,—,—,—
+2023AlbertaNurse practitioners,2023,Alberta,Nurse practitioners,722,89,32,633,680,0.123268698,0.04432133
+2023British ColumbiaNurse practitioners,2023,British Columbia,Nurse practitioners,885,143,25,742,858,0.161581921,0.028248588
+2023ManitobaNurse practitioners,2023,Manitoba,Nurse practitioners,316,28,17,288,—,0.088607595,0.053797468
+2023New BrunswickNurse practitioners,2023,New Brunswick,Nurse practitioners,193,29,14,164,191,0.150259067,0.07253886
+2023Newfoundland and LabradorNurse practitioners,2023,Newfoundland and Labrador,Nurse practitioners,260,36,—,224,258,0.138461538,—
+2023Northwest Territories/NunavutNurse practitioners,2023,Northwest Territories/Nunavut,Nurse practitioners,119,28,0,91,87,0.235294118,0
+2023Nova ScotiaNurse practitioners,2023,Nova Scotia,Nurse practitioners,330,71,25,259,314,0.215151515,0.075757576
+2023OntarioNurse practitioners,2023,Ontario,Nurse practitioners,4407,390,138,4017,4169,0.088495575,0.031313819
+2023Prince Edward IslandNurse practitioners,2023,Prince Edward Island,Nurse practitioners,71,13,7,58,71,0.183098592,0.098591549
+2023Provinces/territories with available dataNurse practitioners,2023,Provinces/territories with available data,Nurse practitioners,8999,—,—,—,8302,—,—
+2023QuebecNurse practitioners,2023,Quebec,Nurse practitioners,1411,249,19,1162,1402,0.176470588,0.013465627
+2023SaskatchewanNurse practitioners,2023,Saskatchewan,Nurse practitioners,266,17,18,249,254,0.063909774,0.067669173
+2023YukonNurse practitioners,2023,Yukon,Nurse practitioners,19,2,2,17,18,0.105263158,0.105263158
+2023AlbertaOccupational therapists,2023,Alberta,Occupational therapists,2429,167,108,2262,2380,0.068752573,0.044462742
+2023British ColumbiaOccupational therapists,2023,British Columbia,Occupational therapists,2941,249,139,2692,2816,0.08466508,0.047262836
+2023ManitobaOccupational therapists,2023,Manitoba,Occupational therapists,815,94,64,721,806,0.115337423,0.078527607
+2023New BrunswickOccupational therapists,2023,New Brunswick,Occupational therapists,439,40,20,399,424,0.091116173,0.045558087
+2023Newfoundland and LabradorOccupational therapists,2023,Newfoundland and Labrador,Occupational therapists,247,16,12,231,244,0.064777328,0.048582996
+2023Northwest TerritoriesOccupational therapists,2023,Northwest Territories,Occupational therapists,20,3,3,17,17,0.15,0.15
+2023Nova ScotiaOccupational therapists,2023,Nova Scotia,Occupational therapists,719,58,30,661,711,0.080667594,0.041724618
+2023NunavutOccupational therapists,2023,Nunavut,Occupational therapists,5,1,1,4,5,0.2,0.2
+2023OntarioOccupational therapists,2023,Ontario,Occupational therapists,6939,514,295,6425,6783,0.074074074,0.04251333
+2023Prince Edward IslandOccupational therapists,2023,Prince Edward Island,Occupational therapists,91,12,8,79,86,0.131868132,0.087912088
+2023Provinces/territories with available dataOccupational therapists,2023,Provinces/territories with available data,Occupational therapists,21325,—,—,—,20168,—,—
+2023QuebecOccupational therapists,2023,Quebec,Occupational therapists,6249,377,218,5872,5472,0.060329653,0.034885582
+2023SaskatchewanOccupational therapists,2023,Saskatchewan,Occupational therapists,407,20,14,387,403,0.049140049,0.034398034
+2023YukonOccupational therapists,2023,Yukon,Occupational therapists,24,3,4,21,21,0.125,0.166666667
+2023AlbertaPharmacists,2023,Alberta,Pharmacists,6045,341,196,5704,5858,0.056410256,0.03242349
+2023British ColumbiaPharmacists,2023,British Columbia,Pharmacists,6568,399,83,6169,6185,0.060749086,0.012637028
+2023ManitobaPharmacists,2023,Manitoba,Pharmacists,1629,119,—,1510,1602,0.073050952,—
+2023New BrunswickPharmacists,2023,New Brunswick,Pharmacists,944,60,60,884,936,0.063559322,0.063559322
+2023Newfoundland and LabradorPharmacists,2023,Newfoundland and Labrador,Pharmacists,765,51,57,714,—,0.066666667,0.074509804
+2023Northwest TerritoriesPharmacists,2023,Northwest Territories,Pharmacists,48,11,11,37,44,0.229166667,0.229166667
+2023Nova ScotiaPharmacists,2023,Nova Scotia,Pharmacists,1481,130,159,1351,1403,0.087778528,0.107359892
+2023NunavutPharmacists,2023,Nunavut,Pharmacists,47,—,—,—,—,—,—
+2023OntarioPharmacists,2023,Ontario,Pharmacists,17564,837,488,16727,16352,0.047654293,0.027784104
+2023Prince Edward IslandPharmacists,2023,Prince Edward Island,Pharmacists,219,16,7,203,217,0.073059361,0.03196347
+2023Provinces/territories with available dataPharmacists,2023,Provinces/territories with available data,Pharmacists,48312,—,—,—,34310,—,—
+2023QuebecPharmacists,2023,Quebec,Pharmacists,11217,—,—,—,—,—,—
+2023SaskatchewanPharmacists,2023,Saskatchewan,Pharmacists,1727,91,71,1636,1713,0.05269253,0.041111754
+2023YukonPharmacists,2023,Yukon,Pharmacists,58,—,—,—,—,—,—
+2023AlbertaPhysiotherapists,2023,Alberta,Physiotherapists,3536,290,149,3246,3412,0.082013575,0.042138009
+2023British ColumbiaPhysiotherapists,2023,British Columbia,Physiotherapists,4865,395,150,4470,4781,0.081192189,0.030832477
+2023ManitobaPhysiotherapists,2023,Manitoba,Physiotherapists,982,102,68,880,981,0.103869654,0.069246436
+2023New BrunswickPhysiotherapists,2023,New Brunswick,Physiotherapists,618,33,31,585,617,0.053398058,0.050161812
+2023Newfoundland and LabradorPhysiotherapists,2023,Newfoundland and Labrador,Physiotherapists,330,26,16,304,321,0.078787879,0.048484848
+2023Nova ScotiaPhysiotherapists,2023,Nova Scotia,Physiotherapists,904,92,53,812,893,0.101769912,0.058628319
+2023OntarioPhysiotherapists,2023,Ontario,Physiotherapists,11105,917,439,10188,10613,0.082575416,0.039531742
+2023Prince Edward IslandPhysiotherapists,2023,Prince Edward Island,Physiotherapists,133,7,12,126,130,0.052631579,0.090225564
+2023Provinces/territories with available dataPhysiotherapists,2023,Provinces/territories with available data,Physiotherapists,29153,—,—,—,28229,—,—
+2023QuebecPhysiotherapists,2023,Quebec,Physiotherapists,5813,503,—,5310,5680,0.086530191,—
+2023SaskatchewanPhysiotherapists,2023,Saskatchewan,Physiotherapists,813,73,52,740,801,0.089790898,0.06396064
+2023YukonPhysiotherapists,2023,Yukon,Physiotherapists,54,—,—,—,—,—,—
+2023AlbertaRegistered nurses,2023,Alberta,Registered nurses,37202,3508,2291,33694,34471,0.094296006,0.061582711
+2023British ColumbiaRegistered nurses,2023,British Columbia,Registered nurses,41893,3233,1844,38660,39516,0.077172797,0.0440169
+2023ManitobaRegistered nurses,2023,Manitoba,Registered nurses,13460,784,703,12676,—,0.058246657,0.052228826
+2023New BrunswickRegistered nurses,2023,New Brunswick,Registered nurses,7976,821,769,7155,7490,0.102933801,0.096414243
+2023Newfoundland and LabradorRegistered nurses,2023,Newfoundland and Labrador,Registered nurses,6102,585,—,5517,5932,0.095870206,—
+2023Northwest Territories/NunavutRegistered nurses,2023,Northwest Territories/Nunavut,Registered nurses,1619,330,—,1289,1286,0.203829524,—
+2023Nova ScotiaRegistered nurses,2023,Nova Scotia,Registered nurses,10633,1299,1010,9334,9939,0.122166839,0.094987304
+2023OntarioRegistered nurses,2023,Ontario,Registered nurses,110510,8179,5686,102331,101599,0.074011402,0.051452357
+2023Prince Edward IslandRegistered nurses,2023,Prince Edward Island,Registered nurses,1910,187,185,1723,1869,0.097905759,0.096858639
+2023Provinces/territories with available dataRegistered nurses,2023,Provinces/territories with available data,Registered nurses,321971,—,—,—,289640,—,—
+2023QuebecRegistered nurses,2023,Quebec,Registered nurses,78255,5578,4249,72677,75735,0.07127979,0.05429685
+2023SaskatchewanRegistered nurses,2023,Saskatchewan,Registered nurses,11760,859,596,10901,11180,0.073044218,0.050680272
+2023YukonRegistered nurses,2023,Yukon,Registered nurses,651,172,99,479,623,0.264208909,0.152073733
+2023AlbertaRegistered psychiatric nurses,2023,Alberta,Registered psychiatric nurses,1430,126,85,1304,1419,0.088111888,0.059440559
+2023British ColumbiaRegistered psychiatric nurses,2023,British Columbia,Registered psychiatric nurses,3314,254,125,3060,3178,0.076644538,0.037718769
+2023ManitobaRegistered psychiatric nurses,2023,Manitoba,Registered psychiatric nurses,1168,90,69,1078,1080,0.077054795,0.059075342
+2023Northwest Territories/NunavutRegistered psychiatric nurses,2023,Northwest Territories/Nunavut,Registered psychiatric nurses,—,—,—,—,—,—,—
+2023Provinces/territories with available dataRegistered psychiatric nurses,2023,Provinces/territories with available data,Registered psychiatric nurses,6725,—,—,—,6369,—,—
+2023SaskatchewanRegistered psychiatric nurses,2023,Saskatchewan,Registered psychiatric nurses,788,58,49,730,692,0.073604061,0.062182741
+2023YukonRegistered psychiatric nurses,2023,Yukon,Registered psychiatric nurses,25,—,—,—,—,—,—
+2024AlbertaLicensed practical nurses,2024,Alberta,Licensed practical nurses,18236,2090,—,16146,16140,0.114608467,—
+2024British ColumbiaLicensed practical nurses,2024,British Columbia,Licensed practical nurses,14377,1272,—,13105,13771,0.088474647,—
+2024ManitobaLicensed practical nurses,2024,Manitoba,Licensed practical nurses,3647,260,—,3387,3525,0.071291472,—
+2024New BrunswickLicensed practical nurses,2024,New Brunswick,Licensed practical nurses,3623,542,—,3081,3496,0.149599779,—
+2024Newfoundland and LabradorLicensed practical nurses,2024,Newfoundland and Labrador,Licensed practical nurses,2778,357,—,2421,2448,0.128509719,—
+2024Northwest TerritoriesLicensed practical nurses,2024,Northwest Territories,Licensed practical nurses,—,—,—,—,—,—,—
+2024Northwest Territories/NunavutLicensed practical nurses,2024,Northwest Territories/Nunavut,Licensed practical nurses,333,—,—,—,—,—,—
+2024Nova ScotiaLicensed practical nurses,2024,Nova Scotia,Licensed practical nurses,4679,584,—,4095,4314,0.124812994,—
+2024NunavutLicensed practical nurses,2024,Nunavut,Licensed practical nurses,—,—,—,—,—,—,—
+2024OntarioLicensed practical nurses,2024,Ontario,Licensed practical nurses,58476,5171,—,53305,53462,0.088429441,—
+2024Prince Edward IslandLicensed practical nurses,2024,Prince Edward Island,Licensed practical nurses,875,91,—,784,755,0.104,—
+2024Provinces/territories with available dataLicensed practical nurses,2024,Provinces/territories with available data,Licensed practical nurses,142773,—,—,—,128306,—,—
+2024QuebecLicensed practical nurses,2024,Quebec,Licensed practical nurses,31550,3232,—,28318,26667,0.102440571,—
+2024SaskatchewanLicensed practical nurses,2024,Saskatchewan,Licensed practical nurses,3910,471,—,3439,3728,0.120460358,—
+2024YukonLicensed practical nurses,2024,Yukon,Licensed practical nurses,289,—,—,—,—,—,—
+2024AlbertaNurse practitioners,2024,Alberta,Nurse practitioners,789,99,—,690,—,0.125475285,—
+2024British ColumbiaNurse practitioners,2024,British Columbia,Nurse practitioners,991,131,—,860,961,0.132189707,—
+2024ManitobaNurse practitioners,2024,Manitoba,Nurse practitioners,338,39,—,299,—,0.115384615,—
+2024New BrunswickNurse practitioners,2024,New Brunswick,Nurse practitioners,227,48,—,179,219,0.211453744,—
+2024Newfoundland and LabradorNurse practitioners,2024,Newfoundland and Labrador,Nurse practitioners,290,—,—,—,290,—,—
+2024Northwest Territories/NunavutNurse practitioners,2024,Northwest Territories/Nunavut,Nurse practitioners,124,—,—,—,—,—,—
+2024Nova ScotiaNurse practitioners,2024,Nova Scotia,Nurse practitioners,368,63,—,305,360,0.171195652,—
+2024OntarioNurse practitioners,2024,Ontario,Nurse practitioners,4710,441,—,4269,4493,0.093630573,—
+2024Prince Edward IslandNurse practitioners,2024,Prince Edward Island,Nurse practitioners,78,14,—,64,76,0.179487179,—
+2024Provinces/territories with available dataNurse practitioners,2024,Provinces/territories with available data,Nurse practitioners,9891,—,—,—,8342,—,—
+2024QuebecNurse practitioners,2024,Quebec,Nurse practitioners,1667,275,—,1392,1655,0.164967007,—
+2024SaskatchewanNurse practitioners,2024,Saskatchewan,Nurse practitioners,283,35,—,248,267,0.123674912,—
+2024YukonNurse practitioners,2024,Yukon,Nurse practitioners,26,9,—,17,21,0.346153846,—
+2024AlbertaOccupational therapists,2024,Alberta,Occupational therapists,2524,203,—,2321,2481,0.080427892,—
+2024British ColumbiaOccupational therapists,2024,British Columbia,Occupational therapists,3049,247,—,2802,3012,0.081010167,—
+2024ManitobaOccupational therapists,2024,Manitoba,Occupational therapists,834,83,—,751,821,0.099520384,—
+2024New BrunswickOccupational therapists,2024,New Brunswick,Occupational therapists,448,29,—,419,433,0.064732143,—
+2024Newfoundland and LabradorOccupational therapists,2024,Newfoundland and Labrador,Occupational therapists,255,20,—,235,252,0.078431373,—
+2024Northwest TerritoriesOccupational therapists,2024,Northwest Territories,Occupational therapists,18,1,—,17,18,0.055555556,—
+2024Nova ScotiaOccupational therapists,2024,Nova Scotia,Occupational therapists,759,70,—,689,756,0.092226614,—
+2024NunavutOccupational therapists,2024,Nunavut,Occupational therapists,5,1,—,4,5,0.2,—
+2024OntarioOccupational therapists,2024,Ontario,Occupational therapists,7147,503,—,6644,7018,0.07037918,—
+2024Prince Edward IslandOccupational therapists,2024,Prince Edward Island,Occupational therapists,93,10,—,83,89,0.107526882,—
+2024Provinces/territories with available dataOccupational therapists,2024,Provinces/territories with available data,Occupational therapists,21963,—,—,—,20937,—,—
+2024QuebecOccupational therapists,2024,Quebec,Occupational therapists,6372,—,—,—,5597,—,—
+2024SaskatchewanOccupational therapists,2024,Saskatchewan,Occupational therapists,429,36,—,393,427,0.083916084,—
+2024YukonOccupational therapists,2024,Yukon,Occupational therapists,30,10,—,20,28,0.333333333,—
+2024AlbertaPharmacists,2024,Alberta,Pharmacists,6038,189,—,5849,5893,0.031301756,—
+2024British ColumbiaPharmacists,2024,British Columbia,Pharmacists,6847,362,—,6485,6393,0.05286987,—
+2024ManitobaPharmacists,2024,Manitoba,Pharmacists,1759,—,—,—,—,—,—
+2024New BrunswickPharmacists,2024,New Brunswick,Pharmacists,944,60,—,884,935,0.063559322,—
+2024Newfoundland and LabradorPharmacists,2024,Newfoundland and Labrador,Pharmacists,761,53,—,708,730,0.069645204,—
+2024Northwest TerritoriesPharmacists,2024,Northwest Territories,Pharmacists,47,10,—,37,41,0.212765957,—
+2024Nova ScotiaPharmacists,2024,Nova Scotia,Pharmacists,1439,117,—,1322,1414,0.081306463,—
+2024NunavutPharmacists,2024,Nunavut,Pharmacists,42,—,—,—,—,—,—
+2024OntarioPharmacists,2024,Ontario,Pharmacists,17864,788,—,17076,16679,0.044111061,—
+2024Prince Edward IslandPharmacists,2024,Prince Edward Island,Pharmacists,216,4,—,212,214,0.018518519,—
+2024Provinces/territories with available dataPharmacists,2024,Provinces/territories with available data,Pharmacists,48450,—,—,—,34046,—,—
+2024QuebecPharmacists,2024,Quebec,Pharmacists,10647,—,—,—,—,—,—
+2024SaskatchewanPharmacists,2024,Saskatchewan,Pharmacists,1771,115,—,1656,1747,0.064935065,—
+2024YukonPharmacists,2024,Yukon,Pharmacists,75,—,—,—,—,—,—
+2024AlbertaPhysiotherapists,2024,Alberta,Physiotherapists,3698,311,—,3387,3642,0.084099513,—
+2024British ColumbiaPhysiotherapists,2024,British Columbia,Physiotherapists,5079,364,—,4715,4985,0.071667651,—
+2024ManitobaPhysiotherapists,2024,Manitoba,Physiotherapists,1009,95,—,914,1007,0.094152626,—
+2024New BrunswickPhysiotherapists,2024,New Brunswick,Physiotherapists,624,37,—,587,623,0.059294872,—
+2024Newfoundland and LabradorPhysiotherapists,2024,Newfoundland and Labrador,Physiotherapists,352,38,—,314,338,0.107954545,—
+2024Nova ScotiaPhysiotherapists,2024,Nova Scotia,Physiotherapists,941,90,—,851,916,0.095642933,—
+2024OntarioPhysiotherapists,2024,Ontario,Physiotherapists,11598,932,—,10666,10966,0.080358683,—
+2024Prince Edward IslandPhysiotherapists,2024,Prince Edward Island,Physiotherapists,131,10,—,121,128,0.076335878,—
+2024Provinces/territories with available dataPhysiotherapists,2024,Provinces/territories with available data,Physiotherapists,30776,—,—,—,29593,—,—
+2024QuebecPhysiotherapists,2024,Quebec,Physiotherapists,6438,—,—,—,6162,—,—
+2024SaskatchewanPhysiotherapists,2024,Saskatchewan,Physiotherapists,836,75,—,761,826,0.089712919,—
+2024YukonPhysiotherapists,2024,Yukon,Physiotherapists,70,—,—,—,—,—,—
+2024AlbertaRegistered nurses,2024,Alberta,Registered nurses,42694,7783,—,34911,—,0.182297278,—
+2024British ColumbiaRegistered nurses,2024,British Columbia,Registered nurses,43711,3662,—,40049,41115,0.083777539,—
+2024ManitobaRegistered nurses,2024,Manitoba,Registered nurses,13895,1138,—,12757,—,0.081899964,—
+2024New BrunswickRegistered nurses,2024,New Brunswick,Registered nurses,8275,1068,—,7207,7511,0.129063444,—
+2024Newfoundland and LabradorRegistered nurses,2024,Newfoundland and Labrador,Registered nurses,6315,—,—,—,6208,—,—
+2024Northwest Territories/NunavutRegistered nurses,2024,Northwest Territories/Nunavut,Registered nurses,1766,—,—,—,—,—,—
+2024Nova ScotiaRegistered nurses,2024,Nova Scotia,Registered nurses,11574,1951,—,9623,10801,0.168567479,—
+2024OntarioRegistered nurses,2024,Ontario,Registered nurses,115406,10582,—,104824,106523,0.091693673,—
+2024Prince Edward IslandRegistered nurses,2024,Prince Edward Island,Registered nurses,1922,197,—,1725,1803,0.102497399,—
+2024Provinces/territories with available dataRegistered nurses,2024,Provinces/territories with available data,Registered nurses,338871,—,—,—,263515,—,—
+2024QuebecRegistered nurses,2024,Quebec,Registered nurses,80077,6071,—,74006,77262,0.075814529,—
+2024SaskatchewanRegistered nurses,2024,Saskatchewan,Registered nurses,12505,1341,—,11164,11619,0.107237105,—
+2024YukonRegistered nurses,2024,Yukon,Registered nurses,731,179,—,552,673,0.244870041,—
+2024AlbertaRegistered psychiatric nurses,2024,Alberta,Registered psychiatric nurses,1453,108,—,1345,1439,0.074328975,—
+2024British ColumbiaRegistered psychiatric nurses,2024,British Columbia,Registered psychiatric nurses,3459,270,—,3189,3332,0.078057242,—
+2024ManitobaRegistered psychiatric nurses,2024,Manitoba,Registered psychiatric nurses,1177,78,—,1099,1088,0.066270178,—
+2024Northwest Territories/NunavutRegistered psychiatric nurses,2024,Northwest Territories/Nunavut,Registered psychiatric nurses,28,—,—,—,—,—,—
+2024Provinces/territories with available dataRegistered psychiatric nurses,2024,Provinces/territories with available data,Registered psychiatric nurses,6941,—,—,—,6561,—,—
+2024SaskatchewanRegistered psychiatric nurses,2024,Saskatchewan,Registered psychiatric nurses,798,59,—,739,702,0.073934837,—
+2024YukonRegistered psychiatric nurses,2024,Yukon,Registered psychiatric nurses,26,—,—,—,—,—,—

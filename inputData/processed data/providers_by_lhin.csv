@@ -1,0 +1,659 @@
+lhin,specialty,physicians_count,population,physicians_per_100k,latitude,longitude
+Erie St. Clair,Family Medicine,536.4,650000,82.53,42.32,-82.55
+Erie St. Clair,Addiction Medicine,8.1,650000,1.24,42.32,-82.55
+Erie St. Clair,Allergy and Clinical Immunology,6.4,650000,0.98,42.32,-82.55
+Erie St. Clair,Anesthesia,68.8,650000,10.59,42.32,-82.55
+Erie St. Clair,Cardiac Surgery,3.2,650000,0.5,42.32,-82.55
+Erie St. Clair,Cardiology,26.7,650000,4.11,42.32,-82.55
+Erie St. Clair,Chronic Pain,13.0,650000,2.0,42.32,-82.55
+Erie St. Clair,Critical Care Medicine,12.9,650000,1.99,42.32,-82.55
+Erie St. Clair,Dermatology,10.2,650000,1.57,42.32,-82.55
+Erie St. Clair,Diagnostic and Interventional Radiology,41.0,650000,6.31,42.32,-82.55
+Erie St. Clair,Emergency Medicine,73.1,650000,11.25,42.32,-82.55
+Erie St. Clair,Endocrinology,12.5,650000,1.92,42.32,-82.55
+Erie St. Clair,Gastroenterology,15.5,650000,2.38,42.32,-82.55
+Erie St. Clair,General Internal Medicine,39.2,650000,6.03,42.32,-82.55
+Erie St. Clair,General Surgery,31.8,650000,4.9,42.32,-82.55
+Erie St. Clair,General Thoracic Surgery,23.5,650000,3.62,42.32,-82.55
+Erie St. Clair,Genetics Medicine,2.4,650000,0.37,42.32,-82.55
+Erie St. Clair,Geriatric Medicine,6.1,650000,0.94,42.32,-82.55
+Erie St. Clair,Hematology and Medical Oncology,19.9,650000,3.07,42.32,-82.55
+Erie St. Clair,Hospital Medicine,16.7,650000,2.56,42.32,-82.55
+Erie St. Clair,Infectious Diseases,7.7,650000,1.18,42.32,-82.55
+Erie St. Clair,Laboratory Medicine,26.0,650000,4.01,42.32,-82.55
+Erie St. Clair,Long-term Care,4.2,650000,0.64,42.32,-82.55
+Erie St. Clair,Nephrology,11.6,650000,1.79,42.32,-82.55
+Erie St. Clair,Neurology,19.8,650000,3.04,42.32,-82.55
+Erie St. Clair,Neuroradiology,3.8,650000,0.58,42.32,-82.55
+Erie St. Clair,Neurosurgery,3.6,650000,0.56,42.32,-82.55
+Erie St. Clair,Nuclear Medicine,2.8,650000,0.42,42.32,-82.55
+Erie St. Clair,Obstetrics and Gynecology,35.5,650000,5.46,42.32,-82.55
+Erie St. Clair,Occupational and Environmental Medicine,3.3,650000,0.5,42.32,-82.55
+Erie St. Clair,Ophthalmology,19.0,650000,2.92,42.32,-82.55
+Erie St. Clair,Orthopedic Surgery,28.5,650000,4.38,42.32,-82.55
+Erie St. Clair,Otolaryngology,12.4,650000,1.9,42.32,-82.55
+Erie St. Clair,Palliative Medicine,11.2,650000,1.73,42.32,-82.55
+Erie St. Clair,Pediatrics,62.0,650000,9.54,42.32,-82.55
+Erie St. Clair,Physical Medicine and Rehabilitation,10.2,650000,1.57,42.32,-82.55
+Erie St. Clair,Plastic Surgery,10.2,650000,1.57,42.32,-82.55
+Erie St. Clair,Primary Care Mental Health,8.8,650000,1.36,42.32,-82.55
+Erie St. Clair,Psychiatry,92.4,650000,14.22,42.32,-82.55
+Erie St. Clair,Public Health Physicians,5.9,650000,0.9,42.32,-82.55
+Erie St. Clair,Radiation Oncology,9.4,650000,1.44,42.32,-82.55
+Erie St. Clair,Reproductive Biology,2.7,650000,0.42,42.32,-82.55
+Erie St. Clair,Respiratory Disease (Respirology),13.4,650000,2.06,42.32,-82.55
+Erie St. Clair,Rheumatology,10.6,650000,1.64,42.32,-82.55
+Erie St. Clair,Sport and Exercise Medicine,7.3,650000,1.12,42.32,-82.55
+Erie St. Clair,Urology,11.8,650000,1.82,42.32,-82.55
+Erie St. Clair,Vascular Surgery,4.2,650000,0.65,42.32,-82.55
+South West,Family Medicine,779.9,945000,82.53,42.98,-81.25
+South West,Addiction Medicine,11.7,945000,1.24,42.98,-81.25
+South West,Allergy and Clinical Immunology,9.3,945000,0.98,42.98,-81.25
+South West,Anesthesia,100.0,945000,10.59,42.98,-81.25
+South West,Cardiac Surgery,4.7,945000,0.5,42.98,-81.25
+South West,Cardiology,38.9,945000,4.11,42.98,-81.25
+South West,Chronic Pain,18.9,945000,2.0,42.98,-81.25
+South West,Critical Care Medicine,18.8,945000,1.99,42.98,-81.25
+South West,Dermatology,14.8,945000,1.57,42.98,-81.25
+South West,Diagnostic and Interventional Radiology,59.7,945000,6.31,42.98,-81.25
+South West,Emergency Medicine,106.3,945000,11.25,42.98,-81.25
+South West,Endocrinology,18.1,945000,1.92,42.98,-81.25
+South West,Gastroenterology,22.5,945000,2.38,42.98,-81.25
+South West,General Internal Medicine,56.9,945000,6.03,42.98,-81.25
+South West,General Surgery,46.3,945000,4.9,42.98,-81.25
+South West,General Thoracic Surgery,34.2,945000,3.62,42.98,-81.25
+South West,Genetics Medicine,3.5,945000,0.37,42.98,-81.25
+South West,Geriatric Medicine,8.9,945000,0.94,42.98,-81.25
+South West,Hematology and Medical Oncology,29.0,945000,3.07,42.98,-81.25
+South West,Hospital Medicine,24.2,945000,2.56,42.98,-81.25
+South West,Infectious Diseases,11.2,945000,1.18,42.98,-81.25
+South West,Laboratory Medicine,37.9,945000,4.01,42.98,-81.25
+South West,Long-term Care,6.0,945000,0.64,42.98,-81.25
+South West,Nephrology,16.9,945000,1.79,42.98,-81.25
+South West,Neurology,28.8,945000,3.04,42.98,-81.25
+South West,Neuroradiology,5.5,945000,0.58,42.98,-81.25
+South West,Neurosurgery,5.3,945000,0.56,42.98,-81.25
+South West,Nuclear Medicine,4.0,945000,0.42,42.98,-81.25
+South West,Obstetrics and Gynecology,51.6,945000,5.46,42.98,-81.25
+South West,Occupational and Environmental Medicine,4.8,945000,0.5,42.98,-81.25
+South West,Ophthalmology,27.6,945000,2.92,42.98,-81.25
+South West,Orthopedic Surgery,41.4,945000,4.38,42.98,-81.25
+South West,Otolaryngology,18.0,945000,1.9,42.98,-81.25
+South West,Palliative Medicine,16.4,945000,1.73,42.98,-81.25
+South West,Pediatrics,90.1,945000,9.54,42.98,-81.25
+South West,Physical Medicine and Rehabilitation,14.9,945000,1.57,42.98,-81.25
+South West,Plastic Surgery,14.9,945000,1.57,42.98,-81.25
+South West,Primary Care Mental Health,12.8,945000,1.36,42.98,-81.25
+South West,Psychiatry,134.4,945000,14.22,42.98,-81.25
+South West,Public Health Physicians,8.6,945000,0.9,42.98,-81.25
+South West,Radiation Oncology,13.6,945000,1.44,42.98,-81.25
+South West,Reproductive Biology,3.9,945000,0.42,42.98,-81.25
+South West,Respiratory Disease (Respirology),19.5,945000,2.06,42.98,-81.25
+South West,Rheumatology,15.5,945000,1.64,42.98,-81.25
+South West,Sport and Exercise Medicine,10.6,945000,1.12,42.98,-81.25
+South West,Urology,17.2,945000,1.82,42.98,-81.25
+South West,Vascular Surgery,6.1,945000,0.65,42.98,-81.25
+Waterloo Wellington,Family Medicine,643.7,780000,82.53,43.45,-80.49
+Waterloo Wellington,Addiction Medicine,9.7,780000,1.24,43.45,-80.49
+Waterloo Wellington,Allergy and Clinical Immunology,7.7,780000,0.98,43.45,-80.49
+Waterloo Wellington,Anesthesia,82.6,780000,10.59,43.45,-80.49
+Waterloo Wellington,Cardiac Surgery,3.9,780000,0.5,43.45,-80.49
+Waterloo Wellington,Cardiology,32.1,780000,4.11,43.45,-80.49
+Waterloo Wellington,Chronic Pain,15.6,780000,2.0,43.45,-80.49
+Waterloo Wellington,Critical Care Medicine,15.5,780000,1.99,43.45,-80.49
+Waterloo Wellington,Dermatology,12.2,780000,1.57,43.45,-80.49
+Waterloo Wellington,Diagnostic and Interventional Radiology,49.2,780000,6.31,43.45,-80.49
+Waterloo Wellington,Emergency Medicine,87.8,780000,11.25,43.45,-80.49
+Waterloo Wellington,Endocrinology,15.0,780000,1.92,43.45,-80.49
+Waterloo Wellington,Gastroenterology,18.6,780000,2.38,43.45,-80.49
+Waterloo Wellington,General Internal Medicine,47.0,780000,6.03,43.45,-80.49
+Waterloo Wellington,General Surgery,38.2,780000,4.9,43.45,-80.49
+Waterloo Wellington,General Thoracic Surgery,28.2,780000,3.62,43.45,-80.49
+Waterloo Wellington,Genetics Medicine,2.9,780000,0.37,43.45,-80.49
+Waterloo Wellington,Geriatric Medicine,7.3,780000,0.94,43.45,-80.49
+Waterloo Wellington,Hematology and Medical Oncology,23.9,780000,3.07,43.45,-80.49
+Waterloo Wellington,Hospital Medicine,20.0,780000,2.56,43.45,-80.49
+Waterloo Wellington,Infectious Diseases,9.2,780000,1.18,43.45,-80.49
+Waterloo Wellington,Laboratory Medicine,31.3,780000,4.01,43.45,-80.49
+Waterloo Wellington,Long-term Care,5.0,780000,0.64,43.45,-80.49
+Waterloo Wellington,Nephrology,13.9,780000,1.79,43.45,-80.49
+Waterloo Wellington,Neurology,23.8,780000,3.04,43.45,-80.49
+Waterloo Wellington,Neuroradiology,4.5,780000,0.58,43.45,-80.49
+Waterloo Wellington,Neurosurgery,4.4,780000,0.56,43.45,-80.49
+Waterloo Wellington,Nuclear Medicine,3.3,780000,0.42,43.45,-80.49
+Waterloo Wellington,Obstetrics and Gynecology,42.6,780000,5.46,43.45,-80.49
+Waterloo Wellington,Occupational and Environmental Medicine,3.9,780000,0.5,43.45,-80.49
+Waterloo Wellington,Ophthalmology,22.7,780000,2.92,43.45,-80.49
+Waterloo Wellington,Orthopedic Surgery,34.2,780000,4.38,43.45,-80.49
+Waterloo Wellington,Otolaryngology,14.8,780000,1.9,43.45,-80.49
+Waterloo Wellington,Palliative Medicine,13.5,780000,1.73,43.45,-80.49
+Waterloo Wellington,Pediatrics,74.4,780000,9.54,43.45,-80.49
+Waterloo Wellington,Physical Medicine and Rehabilitation,12.3,780000,1.57,43.45,-80.49
+Waterloo Wellington,Plastic Surgery,12.3,780000,1.57,43.45,-80.49
+Waterloo Wellington,Primary Care Mental Health,10.6,780000,1.36,43.45,-80.49
+Waterloo Wellington,Psychiatry,110.9,780000,14.22,43.45,-80.49
+Waterloo Wellington,Public Health Physicians,7.1,780000,0.9,43.45,-80.49
+Waterloo Wellington,Radiation Oncology,11.3,780000,1.44,43.45,-80.49
+Waterloo Wellington,Reproductive Biology,3.2,780000,0.42,43.45,-80.49
+Waterloo Wellington,Respiratory Disease (Respirology),16.1,780000,2.06,43.45,-80.49
+Waterloo Wellington,Rheumatology,12.8,780000,1.64,43.45,-80.49
+Waterloo Wellington,Sport and Exercise Medicine,8.7,780000,1.12,43.45,-80.49
+Waterloo Wellington,Urology,14.2,780000,1.82,43.45,-80.49
+Waterloo Wellington,Vascular Surgery,5.0,780000,0.65,43.45,-80.49
+Hamilton Niagara Haldimand Brant,Family Medicine,1196.7,1450000,82.53,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Addiction Medicine,18.0,1450000,1.24,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Allergy and Clinical Immunology,14.3,1450000,0.98,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Anesthesia,153.5,1450000,10.59,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Cardiac Surgery,7.2,1450000,0.5,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Cardiology,59.7,1450000,4.11,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Chronic Pain,28.9,1450000,2.0,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Critical Care Medicine,28.8,1450000,1.99,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Dermatology,22.7,1450000,1.57,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Diagnostic and Interventional Radiology,91.5,1450000,6.31,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Emergency Medicine,163.2,1450000,11.25,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Endocrinology,27.8,1450000,1.92,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Gastroenterology,34.6,1450000,2.38,43.26,-79.87
+Hamilton Niagara Haldimand Brant,General Internal Medicine,87.4,1450000,6.03,43.26,-79.87
+Hamilton Niagara Haldimand Brant,General Surgery,71.0,1450000,4.9,43.26,-79.87
+Hamilton Niagara Haldimand Brant,General Thoracic Surgery,52.5,1450000,3.62,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Genetics Medicine,5.3,1450000,0.37,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Geriatric Medicine,13.6,1450000,0.94,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Hematology and Medical Oncology,44.5,1450000,3.07,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Hospital Medicine,37.2,1450000,2.56,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Infectious Diseases,17.2,1450000,1.18,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Laboratory Medicine,58.1,1450000,4.01,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Long-term Care,9.3,1450000,0.64,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Nephrology,25.9,1450000,1.79,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Neurology,44.2,1450000,3.04,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Neuroradiology,8.4,1450000,0.58,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Neurosurgery,8.1,1450000,0.56,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Nuclear Medicine,6.1,1450000,0.42,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Obstetrics and Gynecology,79.2,1450000,5.46,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Occupational and Environmental Medicine,7.3,1450000,0.5,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Ophthalmology,42.3,1450000,2.92,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Orthopedic Surgery,63.5,1450000,4.38,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Otolaryngology,27.6,1450000,1.9,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Palliative Medicine,25.1,1450000,1.73,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Pediatrics,138.3,1450000,9.54,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Physical Medicine and Rehabilitation,22.8,1450000,1.57,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Plastic Surgery,22.8,1450000,1.57,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Primary Care Mental Health,19.7,1450000,1.36,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Psychiatry,206.2,1450000,14.22,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Public Health Physicians,13.1,1450000,0.9,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Radiation Oncology,20.9,1450000,1.44,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Reproductive Biology,6.0,1450000,0.42,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Respiratory Disease (Respirology),29.9,1450000,2.06,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Rheumatology,23.7,1450000,1.64,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Sport and Exercise Medicine,16.2,1450000,1.12,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Urology,26.3,1450000,1.82,43.26,-79.87
+Hamilton Niagara Haldimand Brant,Vascular Surgery,9.4,1450000,0.65,43.26,-79.87
+Central West,Family Medicine,701.5,850000,82.53,43.65,-79.91
+Central West,Addiction Medicine,10.6,850000,1.24,43.65,-79.91
+Central West,Allergy and Clinical Immunology,8.4,850000,0.98,43.65,-79.91
+Central West,Anesthesia,90.0,850000,10.59,43.65,-79.91
+Central West,Cardiac Surgery,4.2,850000,0.5,43.65,-79.91
+Central West,Cardiology,35.0,850000,4.11,43.65,-79.91
+Central West,Chronic Pain,17.0,850000,2.0,43.65,-79.91
+Central West,Critical Care Medicine,16.9,850000,1.99,43.65,-79.91
+Central West,Dermatology,13.3,850000,1.57,43.65,-79.91
+Central West,Diagnostic and Interventional Radiology,53.7,850000,6.31,43.65,-79.91
+Central West,Emergency Medicine,95.7,850000,11.25,43.65,-79.91
+Central West,Endocrinology,16.3,850000,1.92,43.65,-79.91
+Central West,Gastroenterology,20.3,850000,2.38,43.65,-79.91
+Central West,General Internal Medicine,51.2,850000,6.03,43.65,-79.91
+Central West,General Surgery,41.6,850000,4.9,43.65,-79.91
+Central West,General Thoracic Surgery,30.8,850000,3.62,43.65,-79.91
+Central West,Genetics Medicine,3.1,850000,0.37,43.65,-79.91
+Central West,Geriatric Medicine,8.0,850000,0.94,43.65,-79.91
+Central West,Hematology and Medical Oncology,26.1,850000,3.07,43.65,-79.91
+Central West,Hospital Medicine,21.8,850000,2.56,43.65,-79.91
+Central West,Infectious Diseases,10.1,850000,1.18,43.65,-79.91
+Central West,Laboratory Medicine,34.1,850000,4.01,43.65,-79.91
+Central West,Long-term Care,5.4,850000,0.64,43.65,-79.91
+Central West,Nephrology,15.2,850000,1.79,43.65,-79.91
+Central West,Neurology,25.9,850000,3.04,43.65,-79.91
+Central West,Neuroradiology,4.9,850000,0.58,43.65,-79.91
+Central West,Neurosurgery,4.8,850000,0.56,43.65,-79.91
+Central West,Nuclear Medicine,3.6,850000,0.42,43.65,-79.91
+Central West,Obstetrics and Gynecology,46.5,850000,5.46,43.65,-79.91
+Central West,Occupational and Environmental Medicine,4.3,850000,0.5,43.65,-79.91
+Central West,Ophthalmology,24.8,850000,2.92,43.65,-79.91
+Central West,Orthopedic Surgery,37.2,850000,4.38,43.65,-79.91
+Central West,Otolaryngology,16.2,850000,1.9,43.65,-79.91
+Central West,Palliative Medicine,14.7,850000,1.73,43.65,-79.91
+Central West,Pediatrics,81.1,850000,9.54,43.65,-79.91
+Central West,Physical Medicine and Rehabilitation,13.4,850000,1.57,43.65,-79.91
+Central West,Plastic Surgery,13.4,850000,1.57,43.65,-79.91
+Central West,Primary Care Mental Health,11.5,850000,1.36,43.65,-79.91
+Central West,Psychiatry,120.9,850000,14.22,43.65,-79.91
+Central West,Public Health Physicians,7.7,850000,0.9,43.65,-79.91
+Central West,Radiation Oncology,12.3,850000,1.44,43.65,-79.91
+Central West,Reproductive Biology,3.5,850000,0.42,43.65,-79.91
+Central West,Respiratory Disease (Respirology),17.5,850000,2.06,43.65,-79.91
+Central West,Rheumatology,13.9,850000,1.64,43.65,-79.91
+Central West,Sport and Exercise Medicine,9.5,850000,1.12,43.65,-79.91
+Central West,Urology,15.4,850000,1.82,43.65,-79.91
+Central West,Vascular Surgery,5.5,850000,0.65,43.65,-79.91
+Mississauga Halton,Family Medicine,1114.1,1350000,82.53,43.59,-79.64
+Mississauga Halton,Addiction Medicine,16.8,1350000,1.24,43.59,-79.64
+Mississauga Halton,Allergy and Clinical Immunology,13.3,1350000,0.98,43.59,-79.64
+Mississauga Halton,Anesthesia,142.9,1350000,10.59,43.59,-79.64
+Mississauga Halton,Cardiac Surgery,6.7,1350000,0.5,43.59,-79.64
+Mississauga Halton,Cardiology,55.6,1350000,4.11,43.59,-79.64
+Mississauga Halton,Chronic Pain,27.0,1350000,2.0,43.59,-79.64
+Mississauga Halton,Critical Care Medicine,26.9,1350000,1.99,43.59,-79.64
+Mississauga Halton,Dermatology,21.1,1350000,1.57,43.59,-79.64
+Mississauga Halton,Diagnostic and Interventional Radiology,85.2,1350000,6.31,43.59,-79.64
+Mississauga Halton,Emergency Medicine,151.9,1350000,11.25,43.59,-79.64
+Mississauga Halton,Endocrinology,25.9,1350000,1.92,43.59,-79.64
+Mississauga Halton,Gastroenterology,32.2,1350000,2.38,43.59,-79.64
+Mississauga Halton,General Internal Medicine,81.3,1350000,6.03,43.59,-79.64
+Mississauga Halton,General Surgery,66.1,1350000,4.9,43.59,-79.64
+Mississauga Halton,General Thoracic Surgery,48.9,1350000,3.62,43.59,-79.64
+Mississauga Halton,Genetics Medicine,4.9,1350000,0.37,43.59,-79.64
+Mississauga Halton,Geriatric Medicine,12.7,1350000,0.94,43.59,-79.64
+Mississauga Halton,Hematology and Medical Oncology,41.4,1350000,3.07,43.59,-79.64
+Mississauga Halton,Hospital Medicine,34.6,1350000,2.56,43.59,-79.64
+Mississauga Halton,Infectious Diseases,16.0,1350000,1.18,43.59,-79.64
+Mississauga Halton,Laboratory Medicine,54.1,1350000,4.01,43.59,-79.64
+Mississauga Halton,Long-term Care,8.6,1350000,0.64,43.59,-79.64
+Mississauga Halton,Nephrology,24.1,1350000,1.79,43.59,-79.64
+Mississauga Halton,Neurology,41.1,1350000,3.04,43.59,-79.64
+Mississauga Halton,Neuroradiology,7.9,1350000,0.58,43.59,-79.64
+Mississauga Halton,Neurosurgery,7.6,1350000,0.56,43.59,-79.64
+Mississauga Halton,Nuclear Medicine,5.7,1350000,0.42,43.59,-79.64
+Mississauga Halton,Obstetrics and Gynecology,73.8,1350000,5.46,43.59,-79.64
+Mississauga Halton,Occupational and Environmental Medicine,6.8,1350000,0.5,43.59,-79.64
+Mississauga Halton,Ophthalmology,39.4,1350000,2.92,43.59,-79.64
+Mississauga Halton,Orthopedic Surgery,59.1,1350000,4.38,43.59,-79.64
+Mississauga Halton,Otolaryngology,25.7,1350000,1.9,43.59,-79.64
+Mississauga Halton,Palliative Medicine,23.4,1350000,1.73,43.59,-79.64
+Mississauga Halton,Pediatrics,128.7,1350000,9.54,43.59,-79.64
+Mississauga Halton,Physical Medicine and Rehabilitation,21.2,1350000,1.57,43.59,-79.64
+Mississauga Halton,Plastic Surgery,21.2,1350000,1.57,43.59,-79.64
+Mississauga Halton,Primary Care Mental Health,18.3,1350000,1.36,43.59,-79.64
+Mississauga Halton,Psychiatry,192.0,1350000,14.22,43.59,-79.64
+Mississauga Halton,Public Health Physicians,12.2,1350000,0.9,43.59,-79.64
+Mississauga Halton,Radiation Oncology,19.5,1350000,1.44,43.59,-79.64
+Mississauga Halton,Reproductive Biology,5.6,1350000,0.42,43.59,-79.64
+Mississauga Halton,Respiratory Disease (Respirology),27.8,1350000,2.06,43.59,-79.64
+Mississauga Halton,Rheumatology,22.1,1350000,1.64,43.59,-79.64
+Mississauga Halton,Sport and Exercise Medicine,15.1,1350000,1.12,43.59,-79.64
+Mississauga Halton,Urology,24.5,1350000,1.82,43.59,-79.64
+Mississauga Halton,Vascular Surgery,8.7,1350000,0.65,43.59,-79.64
+Toronto Central,Family Medicine,1361.7,1650000,82.53,43.65,-79.38
+Toronto Central,Addiction Medicine,20.5,1650000,1.24,43.65,-79.38
+Toronto Central,Allergy and Clinical Immunology,16.2,1650000,0.98,43.65,-79.38
+Toronto Central,Anesthesia,174.7,1650000,10.59,43.65,-79.38
+Toronto Central,Cardiac Surgery,8.2,1650000,0.5,43.65,-79.38
+Toronto Central,Cardiology,67.9,1650000,4.11,43.65,-79.38
+Toronto Central,Chronic Pain,32.9,1650000,2.0,43.65,-79.38
+Toronto Central,Critical Care Medicine,32.8,1650000,1.99,43.65,-79.38
+Toronto Central,Dermatology,25.8,1650000,1.57,43.65,-79.38
+Toronto Central,Diagnostic and Interventional Radiology,104.2,1650000,6.31,43.65,-79.38
+Toronto Central,Emergency Medicine,185.7,1650000,11.25,43.65,-79.38
+Toronto Central,Endocrinology,31.6,1650000,1.92,43.65,-79.38
+Toronto Central,Gastroenterology,39.3,1650000,2.38,43.65,-79.38
+Toronto Central,General Internal Medicine,99.4,1650000,6.03,43.65,-79.38
+Toronto Central,General Surgery,80.8,1650000,4.9,43.65,-79.38
+Toronto Central,General Thoracic Surgery,59.7,1650000,3.62,43.65,-79.38
+Toronto Central,Genetics Medicine,6.0,1650000,0.37,43.65,-79.38
+Toronto Central,Geriatric Medicine,15.5,1650000,0.94,43.65,-79.38
+Toronto Central,Hematology and Medical Oncology,50.6,1650000,3.07,43.65,-79.38
+Toronto Central,Hospital Medicine,42.3,1650000,2.56,43.65,-79.38
+Toronto Central,Infectious Diseases,19.6,1650000,1.18,43.65,-79.38
+Toronto Central,Laboratory Medicine,66.1,1650000,4.01,43.65,-79.38
+Toronto Central,Long-term Care,10.5,1650000,0.64,43.65,-79.38
+Toronto Central,Nephrology,29.5,1650000,1.79,43.65,-79.38
+Toronto Central,Neurology,50.2,1650000,3.04,43.65,-79.38
+Toronto Central,Neuroradiology,9.6,1650000,0.58,43.65,-79.38
+Toronto Central,Neurosurgery,9.2,1650000,0.56,43.65,-79.38
+Toronto Central,Nuclear Medicine,7.0,1650000,0.42,43.65,-79.38
+Toronto Central,Obstetrics and Gynecology,90.2,1650000,5.46,43.65,-79.38
+Toronto Central,Occupational and Environmental Medicine,8.3,1650000,0.5,43.65,-79.38
+Toronto Central,Ophthalmology,48.1,1650000,2.92,43.65,-79.38
+Toronto Central,Orthopedic Surgery,72.3,1650000,4.38,43.65,-79.38
+Toronto Central,Otolaryngology,31.4,1650000,1.9,43.65,-79.38
+Toronto Central,Palliative Medicine,28.6,1650000,1.73,43.65,-79.38
+Toronto Central,Pediatrics,157.4,1650000,9.54,43.65,-79.38
+Toronto Central,Physical Medicine and Rehabilitation,25.9,1650000,1.57,43.65,-79.38
+Toronto Central,Plastic Surgery,25.9,1650000,1.57,43.65,-79.38
+Toronto Central,Primary Care Mental Health,22.4,1650000,1.36,43.65,-79.38
+Toronto Central,Psychiatry,234.6,1650000,14.22,43.65,-79.38
+Toronto Central,Public Health Physicians,14.9,1650000,0.9,43.65,-79.38
+Toronto Central,Radiation Oncology,23.8,1650000,1.44,43.65,-79.38
+Toronto Central,Reproductive Biology,6.9,1650000,0.42,43.65,-79.38
+Toronto Central,Respiratory Disease (Respirology),34.0,1650000,2.06,43.65,-79.38
+Toronto Central,Rheumatology,27.0,1650000,1.64,43.65,-79.38
+Toronto Central,Sport and Exercise Medicine,18.5,1650000,1.12,43.65,-79.38
+Toronto Central,Urology,30.0,1650000,1.82,43.65,-79.38
+Toronto Central,Vascular Surgery,10.7,1650000,0.65,43.65,-79.38
+Central,Family Medicine,1444.2,1750000,82.53,43.88,-79.27
+Central,Addiction Medicine,21.7,1750000,1.24,43.88,-79.27
+Central,Allergy and Clinical Immunology,17.2,1750000,0.98,43.88,-79.27
+Central,Anesthesia,185.2,1750000,10.59,43.88,-79.27
+Central,Cardiac Surgery,8.7,1750000,0.5,43.88,-79.27
+Central,Cardiology,72.0,1750000,4.11,43.88,-79.27
+Central,Chronic Pain,34.9,1750000,2.0,43.88,-79.27
+Central,Critical Care Medicine,34.8,1750000,1.99,43.88,-79.27
+Central,Dermatology,27.4,1750000,1.57,43.88,-79.27
+Central,Diagnostic and Interventional Radiology,110.5,1750000,6.31,43.88,-79.27
+Central,Emergency Medicine,196.9,1750000,11.25,43.88,-79.27
+Central,Endocrinology,33.6,1750000,1.92,43.88,-79.27
+Central,Gastroenterology,41.7,1750000,2.38,43.88,-79.27
+Central,General Internal Medicine,105.4,1750000,6.03,43.88,-79.27
+Central,General Surgery,85.7,1750000,4.9,43.88,-79.27
+Central,General Thoracic Surgery,63.3,1750000,3.62,43.88,-79.27
+Central,Genetics Medicine,6.4,1750000,0.37,43.88,-79.27
+Central,Geriatric Medicine,16.5,1750000,0.94,43.88,-79.27
+Central,Hematology and Medical Oncology,53.7,1750000,3.07,43.88,-79.27
+Central,Hospital Medicine,44.9,1750000,2.56,43.88,-79.27
+Central,Infectious Diseases,20.7,1750000,1.18,43.88,-79.27
+Central,Laboratory Medicine,70.1,1750000,4.01,43.88,-79.27
+Central,Long-term Care,11.2,1750000,0.64,43.88,-79.27
+Central,Nephrology,31.3,1750000,1.79,43.88,-79.27
+Central,Neurology,53.3,1750000,3.04,43.88,-79.27
+Central,Neuroradiology,10.2,1750000,0.58,43.88,-79.27
+Central,Neurosurgery,9.8,1750000,0.56,43.88,-79.27
+Central,Nuclear Medicine,7.4,1750000,0.42,43.88,-79.27
+Central,Obstetrics and Gynecology,95.6,1750000,5.46,43.88,-79.27
+Central,Occupational and Environmental Medicine,8.8,1750000,0.5,43.88,-79.27
+Central,Ophthalmology,51.0,1750000,2.92,43.88,-79.27
+Central,Orthopedic Surgery,76.7,1750000,4.38,43.88,-79.27
+Central,Otolaryngology,33.3,1750000,1.9,43.88,-79.27
+Central,Palliative Medicine,30.3,1750000,1.73,43.88,-79.27
+Central,Pediatrics,166.9,1750000,9.54,43.88,-79.27
+Central,Physical Medicine and Rehabilitation,27.5,1750000,1.57,43.88,-79.27
+Central,Plastic Surgery,27.5,1750000,1.57,43.88,-79.27
+Central,Primary Care Mental Health,23.8,1750000,1.36,43.88,-79.27
+Central,Psychiatry,248.8,1750000,14.22,43.88,-79.27
+Central,Public Health Physicians,15.8,1750000,0.9,43.88,-79.27
+Central,Radiation Oncology,25.3,1750000,1.44,43.88,-79.27
+Central,Reproductive Biology,7.3,1750000,0.42,43.88,-79.27
+Central,Respiratory Disease (Respirology),36.1,1750000,2.06,43.88,-79.27
+Central,Rheumatology,28.7,1750000,1.64,43.88,-79.27
+Central,Sport and Exercise Medicine,19.6,1750000,1.12,43.88,-79.27
+Central,Urology,31.8,1750000,1.82,43.88,-79.27
+Central,Vascular Surgery,11.3,1750000,0.65,43.88,-79.27
+Central East,Family Medicine,1279.2,1550000,82.53,44.08,-78.93
+Central East,Addiction Medicine,19.3,1550000,1.24,44.08,-78.93
+Central East,Allergy and Clinical Immunology,15.2,1550000,0.98,44.08,-78.93
+Central East,Anesthesia,164.1,1550000,10.59,44.08,-78.93
+Central East,Cardiac Surgery,7.7,1550000,0.5,44.08,-78.93
+Central East,Cardiology,63.8,1550000,4.11,44.08,-78.93
+Central East,Chronic Pain,30.9,1550000,2.0,44.08,-78.93
+Central East,Critical Care Medicine,30.8,1550000,1.99,44.08,-78.93
+Central East,Dermatology,24.3,1550000,1.57,44.08,-78.93
+Central East,Diagnostic and Interventional Radiology,97.8,1550000,6.31,44.08,-78.93
+Central East,Emergency Medicine,174.4,1550000,11.25,44.08,-78.93
+Central East,Endocrinology,29.7,1550000,1.92,44.08,-78.93
+Central East,Gastroenterology,37.0,1550000,2.38,44.08,-78.93
+Central East,General Internal Medicine,93.4,1550000,6.03,44.08,-78.93
+Central East,General Surgery,75.9,1550000,4.9,44.08,-78.93
+Central East,General Thoracic Surgery,56.1,1550000,3.62,44.08,-78.93
+Central East,Genetics Medicine,5.7,1550000,0.37,44.08,-78.93
+Central East,Geriatric Medicine,14.6,1550000,0.94,44.08,-78.93
+Central East,Hematology and Medical Oncology,47.5,1550000,3.07,44.08,-78.93
+Central East,Hospital Medicine,39.7,1550000,2.56,44.08,-78.93
+Central East,Infectious Diseases,18.4,1550000,1.18,44.08,-78.93
+Central East,Laboratory Medicine,62.1,1550000,4.01,44.08,-78.93
+Central East,Long-term Care,9.9,1550000,0.64,44.08,-78.93
+Central East,Nephrology,27.7,1550000,1.79,44.08,-78.93
+Central East,Neurology,47.2,1550000,3.04,44.08,-78.93
+Central East,Neuroradiology,9.0,1550000,0.58,44.08,-78.93
+Central East,Neurosurgery,8.7,1550000,0.56,44.08,-78.93
+Central East,Nuclear Medicine,6.6,1550000,0.42,44.08,-78.93
+Central East,Obstetrics and Gynecology,84.7,1550000,5.46,44.08,-78.93
+Central East,Occupational and Environmental Medicine,7.8,1550000,0.5,44.08,-78.93
+Central East,Ophthalmology,45.2,1550000,2.92,44.08,-78.93
+Central East,Orthopedic Surgery,67.9,1550000,4.38,44.08,-78.93
+Central East,Otolaryngology,29.5,1550000,1.9,44.08,-78.93
+Central East,Palliative Medicine,26.8,1550000,1.73,44.08,-78.93
+Central East,Pediatrics,147.8,1550000,9.54,44.08,-78.93
+Central East,Physical Medicine and Rehabilitation,24.4,1550000,1.57,44.08,-78.93
+Central East,Plastic Surgery,24.4,1550000,1.57,44.08,-78.93
+Central East,Primary Care Mental Health,21.0,1550000,1.36,44.08,-78.93
+Central East,Psychiatry,220.4,1550000,14.22,44.08,-78.93
+Central East,Public Health Physicians,14.0,1550000,0.9,44.08,-78.93
+Central East,Radiation Oncology,22.4,1550000,1.44,44.08,-78.93
+Central East,Reproductive Biology,6.5,1550000,0.42,44.08,-78.93
+Central East,Respiratory Disease (Respirology),31.9,1550000,2.06,44.08,-78.93
+Central East,Rheumatology,25.4,1550000,1.64,44.08,-78.93
+Central East,Sport and Exercise Medicine,17.4,1550000,1.12,44.08,-78.93
+Central East,Urology,28.2,1550000,1.82,44.08,-78.93
+Central East,Vascular Surgery,10.0,1550000,0.65,44.08,-78.93
+South East,Family Medicine,412.6,500000,82.53,44.23,-76.49
+South East,Addiction Medicine,6.2,500000,1.24,44.23,-76.49
+South East,Allergy and Clinical Immunology,4.9,500000,0.98,44.23,-76.49
+South East,Anesthesia,52.9,500000,10.59,44.23,-76.49
+South East,Cardiac Surgery,2.5,500000,0.5,44.23,-76.49
+South East,Cardiology,20.6,500000,4.11,44.23,-76.49
+South East,Chronic Pain,10.0,500000,2.0,44.23,-76.49
+South East,Critical Care Medicine,9.9,500000,1.99,44.23,-76.49
+South East,Dermatology,7.8,500000,1.57,44.23,-76.49
+South East,Diagnostic and Interventional Radiology,31.6,500000,6.31,44.23,-76.49
+South East,Emergency Medicine,56.3,500000,11.25,44.23,-76.49
+South East,Endocrinology,9.6,500000,1.92,44.23,-76.49
+South East,Gastroenterology,11.9,500000,2.38,44.23,-76.49
+South East,General Internal Medicine,30.1,500000,6.03,44.23,-76.49
+South East,General Surgery,24.5,500000,4.9,44.23,-76.49
+South East,General Thoracic Surgery,18.1,500000,3.62,44.23,-76.49
+South East,Genetics Medicine,1.8,500000,0.37,44.23,-76.49
+South East,Geriatric Medicine,4.7,500000,0.94,44.23,-76.49
+South East,Hematology and Medical Oncology,15.3,500000,3.07,44.23,-76.49
+South East,Hospital Medicine,12.8,500000,2.56,44.23,-76.49
+South East,Infectious Diseases,5.9,500000,1.18,44.23,-76.49
+South East,Laboratory Medicine,20.0,500000,4.01,44.23,-76.49
+South East,Long-term Care,3.2,500000,0.64,44.23,-76.49
+South East,Nephrology,8.9,500000,1.79,44.23,-76.49
+South East,Neurology,15.2,500000,3.04,44.23,-76.49
+South East,Neuroradiology,2.9,500000,0.58,44.23,-76.49
+South East,Neurosurgery,2.8,500000,0.56,44.23,-76.49
+South East,Nuclear Medicine,2.1,500000,0.42,44.23,-76.49
+South East,Obstetrics and Gynecology,27.3,500000,5.46,44.23,-76.49
+South East,Occupational and Environmental Medicine,2.5,500000,0.5,44.23,-76.49
+South East,Ophthalmology,14.6,500000,2.92,44.23,-76.49
+South East,Orthopedic Surgery,21.9,500000,4.38,44.23,-76.49
+South East,Otolaryngology,9.5,500000,1.9,44.23,-76.49
+South East,Palliative Medicine,8.7,500000,1.73,44.23,-76.49
+South East,Pediatrics,47.7,500000,9.54,44.23,-76.49
+South East,Physical Medicine and Rehabilitation,7.9,500000,1.57,44.23,-76.49
+South East,Plastic Surgery,7.9,500000,1.57,44.23,-76.49
+South East,Primary Care Mental Health,6.8,500000,1.36,44.23,-76.49
+South East,Psychiatry,71.1,500000,14.22,44.23,-76.49
+South East,Public Health Physicians,4.5,500000,0.9,44.23,-76.49
+South East,Radiation Oncology,7.2,500000,1.44,44.23,-76.49
+South East,Reproductive Biology,2.1,500000,0.42,44.23,-76.49
+South East,Respiratory Disease (Respirology),10.3,500000,2.06,44.23,-76.49
+South East,Rheumatology,8.2,500000,1.64,44.23,-76.49
+South East,Sport and Exercise Medicine,5.6,500000,1.12,44.23,-76.49
+South East,Urology,9.1,500000,1.82,44.23,-76.49
+South East,Vascular Surgery,3.2,500000,0.65,44.23,-76.49
+Champlain,Family Medicine,1114.1,1350000,82.53,45.42,-75.69
+Champlain,Addiction Medicine,16.8,1350000,1.24,45.42,-75.69
+Champlain,Allergy and Clinical Immunology,13.3,1350000,0.98,45.42,-75.69
+Champlain,Anesthesia,142.9,1350000,10.59,45.42,-75.69
+Champlain,Cardiac Surgery,6.7,1350000,0.5,45.42,-75.69
+Champlain,Cardiology,55.6,1350000,4.11,45.42,-75.69
+Champlain,Chronic Pain,27.0,1350000,2.0,45.42,-75.69
+Champlain,Critical Care Medicine,26.9,1350000,1.99,45.42,-75.69
+Champlain,Dermatology,21.1,1350000,1.57,45.42,-75.69
+Champlain,Diagnostic and Interventional Radiology,85.2,1350000,6.31,45.42,-75.69
+Champlain,Emergency Medicine,151.9,1350000,11.25,45.42,-75.69
+Champlain,Endocrinology,25.9,1350000,1.92,45.42,-75.69
+Champlain,Gastroenterology,32.2,1350000,2.38,45.42,-75.69
+Champlain,General Internal Medicine,81.3,1350000,6.03,45.42,-75.69
+Champlain,General Surgery,66.1,1350000,4.9,45.42,-75.69
+Champlain,General Thoracic Surgery,48.9,1350000,3.62,45.42,-75.69
+Champlain,Genetics Medicine,4.9,1350000,0.37,45.42,-75.69
+Champlain,Geriatric Medicine,12.7,1350000,0.94,45.42,-75.69
+Champlain,Hematology and Medical Oncology,41.4,1350000,3.07,45.42,-75.69
+Champlain,Hospital Medicine,34.6,1350000,2.56,45.42,-75.69
+Champlain,Infectious Diseases,16.0,1350000,1.18,45.42,-75.69
+Champlain,Laboratory Medicine,54.1,1350000,4.01,45.42,-75.69
+Champlain,Long-term Care,8.6,1350000,0.64,45.42,-75.69
+Champlain,Nephrology,24.1,1350000,1.79,45.42,-75.69
+Champlain,Neurology,41.1,1350000,3.04,45.42,-75.69
+Champlain,Neuroradiology,7.9,1350000,0.58,45.42,-75.69
+Champlain,Neurosurgery,7.6,1350000,0.56,45.42,-75.69
+Champlain,Nuclear Medicine,5.7,1350000,0.42,45.42,-75.69
+Champlain,Obstetrics and Gynecology,73.8,1350000,5.46,45.42,-75.69
+Champlain,Occupational and Environmental Medicine,6.8,1350000,0.5,45.42,-75.69
+Champlain,Ophthalmology,39.4,1350000,2.92,45.42,-75.69
+Champlain,Orthopedic Surgery,59.1,1350000,4.38,45.42,-75.69
+Champlain,Otolaryngology,25.7,1350000,1.9,45.42,-75.69
+Champlain,Palliative Medicine,23.4,1350000,1.73,45.42,-75.69
+Champlain,Pediatrics,128.7,1350000,9.54,45.42,-75.69
+Champlain,Physical Medicine and Rehabilitation,21.2,1350000,1.57,45.42,-75.69
+Champlain,Plastic Surgery,21.2,1350000,1.57,45.42,-75.69
+Champlain,Primary Care Mental Health,18.3,1350000,1.36,45.42,-75.69
+Champlain,Psychiatry,192.0,1350000,14.22,45.42,-75.69
+Champlain,Public Health Physicians,12.2,1350000,0.9,45.42,-75.69
+Champlain,Radiation Oncology,19.5,1350000,1.44,45.42,-75.69
+Champlain,Reproductive Biology,5.6,1350000,0.42,45.42,-75.69
+Champlain,Respiratory Disease (Respirology),27.8,1350000,2.06,45.42,-75.69
+Champlain,Rheumatology,22.1,1350000,1.64,45.42,-75.69
+Champlain,Sport and Exercise Medicine,15.1,1350000,1.12,45.42,-75.69
+Champlain,Urology,24.5,1350000,1.82,45.42,-75.69
+Champlain,Vascular Surgery,8.7,1350000,0.65,45.42,-75.69
+North Simcoe Muskoka,Family Medicine,392.0,475000,82.53,44.6,-79.38
+North Simcoe Muskoka,Addiction Medicine,5.9,475000,1.24,44.6,-79.38
+North Simcoe Muskoka,Allergy and Clinical Immunology,4.7,475000,0.98,44.6,-79.38
+North Simcoe Muskoka,Anesthesia,50.3,475000,10.59,44.6,-79.38
+North Simcoe Muskoka,Cardiac Surgery,2.4,475000,0.5,44.6,-79.38
+North Simcoe Muskoka,Cardiology,19.5,475000,4.11,44.6,-79.38
+North Simcoe Muskoka,Chronic Pain,9.5,475000,2.0,44.6,-79.38
+North Simcoe Muskoka,Critical Care Medicine,9.4,475000,1.99,44.6,-79.38
+North Simcoe Muskoka,Dermatology,7.4,475000,1.57,44.6,-79.38
+North Simcoe Muskoka,Diagnostic and Interventional Radiology,30.0,475000,6.31,44.6,-79.38
+North Simcoe Muskoka,Emergency Medicine,53.5,475000,11.25,44.6,-79.38
+North Simcoe Muskoka,Endocrinology,9.1,475000,1.92,44.6,-79.38
+North Simcoe Muskoka,Gastroenterology,11.3,475000,2.38,44.6,-79.38
+North Simcoe Muskoka,General Internal Medicine,28.6,475000,6.03,44.6,-79.38
+North Simcoe Muskoka,General Surgery,23.3,475000,4.9,44.6,-79.38
+North Simcoe Muskoka,General Thoracic Surgery,17.2,475000,3.62,44.6,-79.38
+North Simcoe Muskoka,Genetics Medicine,1.7,475000,0.37,44.6,-79.38
+North Simcoe Muskoka,Geriatric Medicine,4.5,475000,0.94,44.6,-79.38
+North Simcoe Muskoka,Hematology and Medical Oncology,14.6,475000,3.07,44.6,-79.38
+North Simcoe Muskoka,Hospital Medicine,12.2,475000,2.56,44.6,-79.38
+North Simcoe Muskoka,Infectious Diseases,5.6,475000,1.18,44.6,-79.38
+North Simcoe Muskoka,Laboratory Medicine,19.0,475000,4.01,44.6,-79.38
+North Simcoe Muskoka,Long-term Care,3.0,475000,0.64,44.6,-79.38
+North Simcoe Muskoka,Nephrology,8.5,475000,1.79,44.6,-79.38
+North Simcoe Muskoka,Neurology,14.5,475000,3.04,44.6,-79.38
+North Simcoe Muskoka,Neuroradiology,2.8,475000,0.58,44.6,-79.38
+North Simcoe Muskoka,Neurosurgery,2.7,475000,0.56,44.6,-79.38
+North Simcoe Muskoka,Nuclear Medicine,2.0,475000,0.42,44.6,-79.38
+North Simcoe Muskoka,Obstetrics and Gynecology,26.0,475000,5.46,44.6,-79.38
+North Simcoe Muskoka,Occupational and Environmental Medicine,2.4,475000,0.5,44.6,-79.38
+North Simcoe Muskoka,Ophthalmology,13.8,475000,2.92,44.6,-79.38
+North Simcoe Muskoka,Orthopedic Surgery,20.8,475000,4.38,44.6,-79.38
+North Simcoe Muskoka,Otolaryngology,9.0,475000,1.9,44.6,-79.38
+North Simcoe Muskoka,Palliative Medicine,8.2,475000,1.73,44.6,-79.38
+North Simcoe Muskoka,Pediatrics,45.3,475000,9.54,44.6,-79.38
+North Simcoe Muskoka,Physical Medicine and Rehabilitation,7.5,475000,1.57,44.6,-79.38
+North Simcoe Muskoka,Plastic Surgery,7.5,475000,1.57,44.6,-79.38
+North Simcoe Muskoka,Primary Care Mental Health,6.4,475000,1.36,44.6,-79.38
+North Simcoe Muskoka,Psychiatry,67.5,475000,14.22,44.6,-79.38
+North Simcoe Muskoka,Public Health Physicians,4.3,475000,0.9,44.6,-79.38
+North Simcoe Muskoka,Radiation Oncology,6.9,475000,1.44,44.6,-79.38
+North Simcoe Muskoka,Reproductive Biology,2.0,475000,0.42,44.6,-79.38
+North Simcoe Muskoka,Respiratory Disease (Respirology),9.8,475000,2.06,44.6,-79.38
+North Simcoe Muskoka,Rheumatology,7.8,475000,1.64,44.6,-79.38
+North Simcoe Muskoka,Sport and Exercise Medicine,5.3,475000,1.12,44.6,-79.38
+North Simcoe Muskoka,Urology,8.6,475000,1.82,44.6,-79.38
+North Simcoe Muskoka,Vascular Surgery,3.1,475000,0.65,44.6,-79.38
+North East,Family Medicine,453.9,550000,82.53,46.49,-80.99
+North East,Addiction Medicine,6.8,550000,1.24,46.49,-80.99
+North East,Allergy and Clinical Immunology,5.4,550000,0.98,46.49,-80.99
+North East,Anesthesia,58.2,550000,10.59,46.49,-80.99
+North East,Cardiac Surgery,2.7,550000,0.5,46.49,-80.99
+North East,Cardiology,22.6,550000,4.11,46.49,-80.99
+North East,Chronic Pain,11.0,550000,2.0,46.49,-80.99
+North East,Critical Care Medicine,10.9,550000,1.99,46.49,-80.99
+North East,Dermatology,8.6,550000,1.57,46.49,-80.99
+North East,Diagnostic and Interventional Radiology,34.7,550000,6.31,46.49,-80.99
+North East,Emergency Medicine,61.9,550000,11.25,46.49,-80.99
+North East,Endocrinology,10.5,550000,1.92,46.49,-80.99
+North East,Gastroenterology,13.1,550000,2.38,46.49,-80.99
+North East,General Internal Medicine,33.1,550000,6.03,46.49,-80.99
+North East,General Surgery,26.9,550000,4.9,46.49,-80.99
+North East,General Thoracic Surgery,19.9,550000,3.62,46.49,-80.99
+North East,Genetics Medicine,2.0,550000,0.37,46.49,-80.99
+North East,Geriatric Medicine,5.2,550000,0.94,46.49,-80.99
+North East,Hematology and Medical Oncology,16.9,550000,3.07,46.49,-80.99
+North East,Hospital Medicine,14.1,550000,2.56,46.49,-80.99
+North East,Infectious Diseases,6.5,550000,1.18,46.49,-80.99
+North East,Laboratory Medicine,22.0,550000,4.01,46.49,-80.99
+North East,Long-term Care,3.5,550000,0.64,46.49,-80.99
+North East,Nephrology,9.8,550000,1.79,46.49,-80.99
+North East,Neurology,16.7,550000,3.04,46.49,-80.99
+North East,Neuroradiology,3.2,550000,0.58,46.49,-80.99
+North East,Neurosurgery,3.1,550000,0.56,46.49,-80.99
+North East,Nuclear Medicine,2.3,550000,0.42,46.49,-80.99
+North East,Obstetrics and Gynecology,30.1,550000,5.46,46.49,-80.99
+North East,Occupational and Environmental Medicine,2.8,550000,0.5,46.49,-80.99
+North East,Ophthalmology,16.0,550000,2.92,46.49,-80.99
+North East,Orthopedic Surgery,24.1,550000,4.38,46.49,-80.99
+North East,Otolaryngology,10.5,550000,1.9,46.49,-80.99
+North East,Palliative Medicine,9.5,550000,1.73,46.49,-80.99
+North East,Pediatrics,52.5,550000,9.54,46.49,-80.99
+North East,Physical Medicine and Rehabilitation,8.6,550000,1.57,46.49,-80.99
+North East,Plastic Surgery,8.6,550000,1.57,46.49,-80.99
+North East,Primary Care Mental Health,7.5,550000,1.36,46.49,-80.99
+North East,Psychiatry,78.2,550000,14.22,46.49,-80.99
+North East,Public Health Physicians,5.0,550000,0.9,46.49,-80.99
+North East,Radiation Oncology,7.9,550000,1.44,46.49,-80.99
+North East,Reproductive Biology,2.3,550000,0.42,46.49,-80.99
+North East,Respiratory Disease (Respirology),11.3,550000,2.06,46.49,-80.99
+North East,Rheumatology,9.0,550000,1.64,46.49,-80.99
+North East,Sport and Exercise Medicine,6.2,550000,1.12,46.49,-80.99
+North East,Urology,10.0,550000,1.82,46.49,-80.99
+North East,Vascular Surgery,3.6,550000,0.65,46.49,-80.99
+North West,Family Medicine,61.9,75000,82.53,48.38,-89.25
+North West,Addiction Medicine,0.9,75000,1.24,48.38,-89.25
+North West,Allergy and Clinical Immunology,0.7,75000,0.98,48.38,-89.25
+North West,Anesthesia,7.9,75000,10.59,48.38,-89.25
+North West,Cardiac Surgery,0.4,75000,0.5,48.38,-89.25
+North West,Cardiology,3.1,75000,4.11,48.38,-89.25
+North West,Chronic Pain,1.5,75000,2.0,48.38,-89.25
+North West,Critical Care Medicine,1.5,75000,1.99,48.38,-89.25
+North West,Dermatology,1.2,75000,1.57,48.38,-89.25
+North West,Diagnostic and Interventional Radiology,4.7,75000,6.31,48.38,-89.25
+North West,Emergency Medicine,8.4,75000,11.25,48.38,-89.25
+North West,Endocrinology,1.4,75000,1.92,48.38,-89.25
+North West,Gastroenterology,1.8,75000,2.38,48.38,-89.25
+North West,General Internal Medicine,4.5,75000,6.03,48.38,-89.25
+North West,General Surgery,3.7,75000,4.9,48.38,-89.25
+North West,General Thoracic Surgery,2.7,75000,3.62,48.38,-89.25
+North West,Genetics Medicine,0.3,75000,0.37,48.38,-89.25
+North West,Geriatric Medicine,0.7,75000,0.94,48.38,-89.25
+North West,Hematology and Medical Oncology,2.3,75000,3.07,48.38,-89.25
+North West,Hospital Medicine,1.9,75000,2.56,48.38,-89.25
+North West,Infectious Diseases,0.9,75000,1.18,48.38,-89.25
+North West,Laboratory Medicine,3.0,75000,4.01,48.38,-89.25
+North West,Long-term Care,0.5,75000,0.64,48.38,-89.25
+North West,Nephrology,1.3,75000,1.79,48.38,-89.25
+North West,Neurology,2.3,75000,3.04,48.38,-89.25
+North West,Neuroradiology,0.4,75000,0.58,48.38,-89.25
+North West,Neurosurgery,0.4,75000,0.56,48.38,-89.25
+North West,Nuclear Medicine,0.3,75000,0.42,48.38,-89.25
+North West,Obstetrics and Gynecology,4.1,75000,5.46,48.38,-89.25
+North West,Occupational and Environmental Medicine,0.4,75000,0.5,48.38,-89.25
+North West,Ophthalmology,2.2,75000,2.92,48.38,-89.25
+North West,Orthopedic Surgery,3.3,75000,4.38,48.38,-89.25
+North West,Otolaryngology,1.4,75000,1.9,48.38,-89.25
+North West,Palliative Medicine,1.3,75000,1.73,48.38,-89.25
+North West,Pediatrics,7.2,75000,9.54,48.38,-89.25
+North West,Physical Medicine and Rehabilitation,1.2,75000,1.57,48.38,-89.25
+North West,Plastic Surgery,1.2,75000,1.57,48.38,-89.25
+North West,Primary Care Mental Health,1.0,75000,1.36,48.38,-89.25
+North West,Psychiatry,10.7,75000,14.22,48.38,-89.25
+North West,Public Health Physicians,0.7,75000,0.9,48.38,-89.25
+North West,Radiation Oncology,1.1,75000,1.44,48.38,-89.25
+North West,Reproductive Biology,0.3,75000,0.42,48.38,-89.25
+North West,Respiratory Disease (Respirology),1.5,75000,2.06,48.38,-89.25
+North West,Rheumatology,1.2,75000,1.64,48.38,-89.25
+North West,Sport and Exercise Medicine,0.8,75000,1.12,48.38,-89.25
+North West,Urology,1.4,75000,1.82,48.38,-89.25
+North West,Vascular Surgery,0.5,75000,0.65,48.38,-89.25

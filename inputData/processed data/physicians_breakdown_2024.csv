@@ -1,0 +1,29 @@
+Province,Provider_Type,Total_Physicians,Rural,Urban,Province_Full,Population_2024,Per_100K
+Alberta,Family medicine physicians,5734,725,4980,Alberta,4700000.0,122.0
+Alberta,Specialists,6016,68,5936,Alberta,4700000.0,128.0
+British Columbia,Family medicine physicians,7838,685,7139,British Columbia,5600000.0,140.0
+British Columbia,Specialists,7622,72,7534,British Columbia,5600000.0,136.1
+Canada,Family medicine physicians,49188,6010,43034,Canada,,
+Canada,Specialists,50367,947,49292,Canada,,
+Manitoba,Family medicine physicians,1670,341,1324,Manitoba,1400000.0,119.3
+Manitoba,Specialists,1687,44,1637,Manitoba,1400000.0,120.5
+New Brunswick,Family medicine physicians,1179,303,875,New Brunswick,820000.0,143.8
+New Brunswick,Specialists,1035,27,1007,New Brunswick,820000.0,126.2
+Newfoundland and Labrador,Family medicine physicians,662,206,455,Newfoundland and Labrador,540000.0,122.6
+Newfoundland and Labrador,Specialists,759,85,672,Newfoundland and Labrador,540000.0,140.6
+Northwest Territories,Family medicine physicians,39,11,28,Northwest Territories,45000.0,86.7
+Northwest Territories,Specialists,12,0,12,Northwest Territories,45000.0,26.7
+Nova Scotia,Family medicine physicians,1329,353,964,Nova Scotia,1000000.0,132.9
+Nova Scotia,Specialists,1559,179,1364,Nova Scotia,1000000.0,155.9
+Nunavut,Family medicine physicians,20,20,0,Nunavut,40000.0,50.0
+Nunavut,Specialists,3,3,0,Nunavut,40000.0,7.5
+Ontario,Family medicine physicians,17304,1279,15967,Ontario,15500000.0,111.6
+Ontario,Specialists,18349,167,18122,Ontario,15500000.0,118.4
+Prince Edward Island,Family medicine physicians,211,41,167,Prince Edward Island,170000.0,124.1
+Prince Edward Island,Specialists,166,0,164,Prince Edward Island,170000.0,97.6
+Quebec,Family medicine physicians,11701,1775,9920,Quebec,8900000.0,131.5
+Quebec,Specialists,11861,297,11557,Quebec,8900000.0,133.3
+Saskatchewan,Family medicine physicians,1429,260,1154,Saskatchewan,1200000.0,119.1
+Saskatchewan,Specialists,1280,5,1269,Saskatchewan,1200000.0,106.7
+Yukon,Family medicine physicians,72,11,61,Yukon,45000.0,160.0
+Yukon,Specialists,18,0,18,Yukon,45000.0,40.0

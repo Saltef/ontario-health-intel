@@ -1,0 +1,18 @@
+Province,ED_Total,CTAS_I_III_Discharged,CTAS_IV_V_Discharged,Admitted,Median_LOS_I_III,Median_LOS_IV_V,Median_LOS_Admitted,P90_LOS_I_III,P90_LOS_IV_V,P90_LOS_Admitted
+Que.,3751747.0,1287474.0,1521929.0,434594.0,6.0,3.7,20.4,18.1,11.2,50.7
+Ont.,6616431.0,3805077.0,1398456.0,742886.0,3.7,2.3,14.4,8.2,5.9,44.4
+Man.**,469598.0,184921.0,137275.0,50678.0,6.0,3.8,17.0,17.7,11.0,54.2
+Sask.**,674429.0,227595.0,255983.0,64902.0,3.9,2.2,9.2,9.3,6.5,38.9
+Alta.,2328410.0,1183382.0,610855.0,212456.0,4.0,2.4,12.5,9.9,6.2,37.3
+B.C.**,1834943.0,918098.0,523214.0,228461.0,4.3,3.0,19.8,9.0,6.4,64.7
+Y.T.,40432.0,13740.0,18984.0,3070.0,3.1,2.2,11.0,6.4,4.9,28.9
+Total,16102787.0,7826369.0,4552085.0,1770576.0,4.2,2.8,16.0,10.2,8.0,48.5
+* The province/territory where the hospital is located.,,,,,,,,,,
+"† CTAS levels I–III (discharged) cases include patients with a triage level of resuscitation, emergent or urgent and a visit disposition of discharged home; they exclude patients who were transferred to another facility and those who died.",,,,,,,,,,
+‡ CTAS levels IV–V (discharged) cases include patients with a triage level of less urgent or non-urgent and a visit disposition of discharged home; they exclude patients who were transferred to another facility and those who died.,,,,,,,,,,
+§ Admitted cases include patients who were admitted to the reporting facility and do not include patients who were transferred to another facility.,,,,,,,,,,
+** Information presented here includes only facilities that submitted data to NACRS in 2024–2025 at the time of data extract. Results comparing jurisdictions should be interpreted with caution.,,,,,,,,,,
+Records with invalid length of stay and/or unknown triage level are included in the total number of ED visits.,,,,,,,,,,
+Coverage,,,,,,,,,,
+"In 2024–2025, NACRS included all EDs in Quebec, Ontario, Alberta and the Yukon, 2 in P.E.I., 8 in Nova Scotia, 16 in Manitoba, 61 in Saskatchewan and 30 in B.C.",,,,,,,,,,
+"National Ambulatory Care Reporting System, 2024–2025, Canadian Institute for Health Information.",,,,,,,,,,

@@ -1,0 +1,15 @@
+Indicator,wait_days_50th,wait_days_90th,pct_meeting_benchmark
+Knee Replacement,88.0,271.0,79.2260803309024
+Cataract Surgery,71.0,253.0,65.6249171988024
+Hip Replacement,90.0,239.0,82.0060790273556
+MRI Scan,46.0,179.0,
+CT Scan,8.0,113.0,
+Prostate Cancer Surgery,36.0,90.0,
+Bladder Cancer Surgery,27.0,66.0,
+CABG,7.0,66.0,
+Hip Fracture Repair/Emergency and Inpatient,30.8666666666667,65.4833333333333,76.5589118530295
+Hip Fracture Repair,24.5666666666667,56.9166666666667,84.27968090098545
+Lung Cancer Surgery,20.0,47.0,
+Colorectal Cancer Surgery,21.0,43.0,
+Breast Cancer Surgery,21.0,41.0,
+Radiation Therapy,11.2,18.2,97.73
