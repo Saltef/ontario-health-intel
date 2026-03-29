@@ -10,9 +10,10 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "data" / "processed"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-TABLE_ID = "17100142"
+# Table 17-10-0157 is the newest (2026 release) for 2023 health boundaries
+TABLE_ID = "17100157"
 
-# Ontario Health Region (LHIN) Mapping
+# Standard LHIN/Health Region Mapping
 LHIN_MAP = {
     "3540": "Erie St. Clair", "3530": "South West", "3520": "Waterloo Wellington",
     "3510": "HNHB", "3560": "Central West", "3550": "Mississauga Halton",
@@ -21,7 +22,8 @@ LHIN_MAP = {
     "3590": "North East", "3610": "North West"
 }
 
-STATCAN_AGE_MAP = {
+# Target age groups for your healthcare burden models
+AGE_MAP = {
     "0 to 4 years": "0–14", "5 to 9 years": "0–14", "10 to 14 years": "0–14",
     "15 to 19 years": "15–24", "20 to 24 years": "15–24",
     "65 to 69 years": "65–74", "70 to 74 years": "65–74",
@@ -29,53 +31,52 @@ STATCAN_AGE_MAP = {
     "85 years and over": "85+"
 }
 
-def fetch_population_by_lhin():
-    log.info(f"Fetching Table {TABLE_ID} from StatCan...")
+def fetch_lhin_data():
+    log.info(f"Downloading latest estimates from Table {TABLE_ID}...")
     api_url = f"https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/{TABLE_ID}/en"
     
     try:
+        # 1. API Call & Unzip
         download_url = requests.get(api_url).json()['object']
         r = requests.get(download_url)
-        
         with zipfile.ZipFile(io.BytesIO(r.content)) as z:
             csv_name = [f for f in z.namelist() if f.endswith('.csv') and 'MetaData' not in f][0]
             df = pd.read_csv(z.open(csv_name), low_memory=False)
         
-        # Standardize columns to uppercase to match StatCan's default export format
+        # 2. Force headers to uppercase for consistency
         df.columns = [c.strip().upper() for c in df.columns]
         
-        # 1. Map Year from REF_DATE
-        df['YEAR'] = pd.to_numeric(df['REF_DATE'].astype(str).str[:4])
-        
-        # 2. Identify LHINs from DGUID (Last 4 digits)
-        df['HR_CODE'] = df['DGUID'].astype(str).str[-4:]
-        df['LHIN'] = df['HR_CODE'].map(LHIN_MAP)
-        
-        # 3. Flexible Age Column Detection (Fixes the StopIteration error)
-        # We look for any column that isn't a standard metadata field but contains 'AGE'
-        standard_cols = ['REF_DATE', 'DGUID', 'UOM', 'SCALAR_FACTOR', 'VECTOR', 'COORDINATE', 'VALUE', 'STATUS', 'SYMBOL', 'TERMINATED', 'DECIMALS', 'YEAR', 'HR_CODE', 'LHIN']
-        age_col = next((c for c in df.columns if "AGE" in c and c not in standard_cols), None)
+        # 3. Dynamic Column Detection
+        # Identify Age column by checking unique values rather than header string
+        age_col = None
+        for col in df.columns:
+            if df[col].astype(str).str.contains('year', case=False).any():
+                age_col = col
+                break
         
         if not age_col:
-            # Fallback: check all columns if the above fails
-            age_col = next(c for c in df.columns if "AGE" in c)
+            raise ValueError("Could not find a column containing age strings (e.g., 'years').")
 
-        df['AGE_GROUP'] = df[age_col].map(STATCAN_AGE_MAP)
+        # 4. Processing
+        df['year'] = pd.to_numeric(df['REF_DATE'].astype(str).str[:4])
+        df['HR_CODE'] = df['DGUID'].astype(str).str[-4:]
+        df['LHIN'] = df['HR_CODE'].map(LHIN_MAP)
+        df['mapped_age'] = df[age_col].map(AGE_MAP)
         
-        # 4. Filter and Aggregate
-        # We keep only rows that matched our LHIN and Age maps
-        df = df[df['LHIN'].notna() & df['AGE_GROUP'].notna()]
+        # Filter for only relevant LHINs and Age Groups
+        df = df[df['LHIN'].notna() & df['mapped_age'].notna()]
         
-        # Sum values (automatically handles all sexes/genders if present)
-        out = df.groupby(['LHIN', 'YEAR', 'AGE_GROUP'], as_index=False)['VALUE'].sum()
-        out.columns = ['LHIN', 'year', 'age_group', 'population']
+        # Aggregate across Sex/Gender (Value is typically the 'VALUE' column)
+        final = df.groupby(['LHIN', 'year', 'mapped_age'], as_index=False)['VALUE'].sum()
+        final.columns = ['LHIN', 'year', 'age_group', 'population']
         
+        # 5. Export
         save_path = OUT_DIR / "population_by_age_lhin.csv"
-        out.to_csv(save_path, index=False)
-        log.info(f"✅ Success! File saved with {len(out)} rows to {save_path}")
+        final.to_csv(save_path, index=False)
+        log.info(f"✅ SUCCESS: {len(final)} records saved to {save_path}")
 
     except Exception as e:
-        log.error(f"Failed to process StatCan data: {e}")
+        log.error(f"Fetch Failed: {str(e)}")
 
 if __name__ == "__main__":
-    fetch_population_by_lhin()
+    fetch_lhin_data()
