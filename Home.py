@@ -3,41 +3,38 @@ import pandas as pd
 import plotly.express as px
 from utils.data_loader import get_age_proxy_data
 
-st.set_page_config(page_title="Ontario Health Intel", layout="wide")
+st.set_page_config(page_title="Ontario Health Intelligence", layout="wide")
 
-st.title("🏥 Ontario Health: Age-Proxy Regional Mapping")
-st.markdown("Using **StatCan Demographic Distributions** to proxy provincial health burdens.")
-
-# Sidebar Selection
+# Sidebar
+st.sidebar.title("Configuration")
 df_burden = pd.read_csv("inputData/layer2_current_burden.csv")
-condition = st.sidebar.selectbox("Select Condition", df_burden['condition'].unique())
+condition = st.sidebar.selectbox("Select Health Condition", df_burden['condition'].unique())
 
-# Process Data via Proxy Engine
-mapped_df = get_age_proxy_data(condition)
+# Load Proxy Data
+df_mapped = get_age_proxy_data(condition)
 
-# --- VISUALIZATION ---
-col1, col2 = st.columns([2, 1])
+# --- UI Layout ---
+st.title(f"📍 {condition}: Regional Burden Forecast")
+st.caption("Baseline: Layer 2 | Population Proxy: StatCan Table 17-10-0142")
 
-with col1:
-    st.subheader(f"Projected {condition} Hotspots")
-    # Using a Bar Chart as a proxy for a Map until GeoJSON is integrated
+m1, m2 = st.columns([2, 1])
+
+with m1:
+    # Bar Chart acting as the Regional Heatmap
     fig = px.bar(
-        mapped_df.sort_values('predicted_admissions', ascending=False),
-        x='region', 
+        df_mapped.sort_values('predicted_admissions', ascending=False),
+        x='LHIN', 
         y='predicted_admissions',
         color='predicted_cost',
-        labels={'predicted_admissions': 'Estimated Admissions'},
-        color_continuous_scale='Reds',
-        template='plotly_dark'
+        title=f"Estimated {condition} Admissions by LHIN",
+        color_continuous_scale='Turbo'
     )
     st.plotly_chart(fig, use_container_width=True)
 
-with col2:
-    st.subheader("Regional Totals")
-    st.dataframe(
-        mapped_df[['region', 'predicted_admissions', 'predicted_cost']]
-        .style.format({'predicted_cost': '${:,.0f}', 'predicted_admissions': '{:.0f}'})
-    )
-
-st.divider()
-st.info("💡 **Methodology:** This view applies provincial baseline rates from Layer 2 to StatCan regional age counts. Regions with higher 65+ populations are weighted more heavily for age-sensitive conditions.")
+with m2:
+    st.subheader("Data Insights")
+    top_lhin = df_mapped.sort_values('predicted_admissions', ascending=False).iloc[0]
+    st.metric("Highest Burden Region", top_lhin['LHIN'])
+    st.write(f"This region accounts for {top_lhin['weight']:.1%} of the provincial age-weighted risk.")
+    
+    st.dataframe(df_mapped[['LHIN', 'predicted_admissions', 'predicted_cost']])
